@@ -1,0 +1,5 @@
+    file = open('temp.txt','wb')
+    file.write(content)
+    file.close()
+    file = open('temp.txt','r',encoding='utf-8')
+    content = file.read()
