@@ -1,0 +1,6939 @@
+The Project Gutenberg EBook of Coriolanus, by William Shakespeare
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Coriolanus
+
+Author: William Shakespeare
+
+Translator: Paavo Cajander
+
+Release Date: December 26, 2006 [EBook #20188]
+
+Language: Finnish
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK CORIOLANUS ***
+
+
+
+
+Produced by Tapio Riikonen
+
+
+
+
+
+
+CORIOLANUS
+
+Kirj.
+
+William Shakespeare
+
+
+Paavo Cajanderin suomennos ilmestyi v. 1887.
+
+
+
+Näytelmän henkilöt:
+
+CAJUS MARCIUS, myöhemmin Cajus Marcius Coriolanus, roomalainen ylimys.
+TITUS LARTIUS,  |  päälliköitä sodassa volskilaisia vastaan.
+COMINIUS,       |
+MENENIUS AGRIPPA, Coriolanon ystävä.
+SICINIUS VELUTUS,  |  kansantribuuneja.
+JUNIUS BRUTUS,     |
+Nuori MARCIUS, Coriolanon poika.
+Roomalainen airut.
+TULLUS AUFIDIUS. volskilaisten sotapäällikkö.
+Aufidion alapäällikkö.
+Aufidion salaliittolaisia.
+Antiumin kansalainen.
+Kaksi volskilaista vahtimiestä.
+VOLUMNIA, Coriolanon äiti.
+VIRGILIA, Coriolanon puoliso.
+VALERIA, Virgilian ystävä.
+Virgilian kamarirouva.
+
+Roomalaisia ja volskilaisia senaattoreja, patriiseja, aediileja.
+liktoreita, sotamiehiä, kansalaisia, sanansaattajia, Aufidion
+palvelijoita ja muita seuralaisia.
+
+Tapahtuu osaksi Roomassa, osaksi volskilaisten ja antiaattein
+alueilla.
+
+
+
+
+ENSIMMÄINEN NÄYTÖS.
+
+
+Ensimmäinen kohtaus.
+
+    Katu Roomassa.
+
+    (Joukko kapinoivin kansalaisia tulee sisään, sauvoilla,
+    kangilla ja muilla aseilla varustettuina.)
+
+1 KANSALAINEN.
+Kuulkaa mitä sanon, ennenkuin eteenpäin mennään.
+
+KAIKKI.
+Puhukaa, puhukaa!
+
+1 KANSALAINEN.
+Oletteko kaikki päättäneet ennemmin kuolla kuin nälkään nääntyä.
+
+KAIKKI.
+Olemme, olemme.
+
+1 KANSALAINEN.
+Ensinnäkin, niinkuin tiedätte, on Cajus Marcius kansan päävihollinen.
+
+KAIKKI.
+Tiedämme, tiedämme.
+
+1 KANSALAINEN.
+Tappakaamme hänet, niin saamme itse määrätä viljan hinnan. Onko se
+päätös?
+
+KAIKKI.
+On kuin onkin. Sen teemme. Pois matkaan.
+
+2 KANSALAINEN.
+Vielä sananen, hyvät kansalaiset!
+
+1 KANSALAINEN.
+Huonojahan kansalaisia me olemme, mutta patriisit muka hyviä. Meille
+voisi pelastukseksi olla se, minkä isoiset ylellisyyteensä tuhlaavat.
+Jos he vaan tähteensä meille antaisivat, niiden vielä kelvatessa, niin
+saattaisimme pitää heidän apuansa ihmismäisenä. Mutta me olemme heille,
+heidän mielestään, liian kalleita; kiduttava kälpeytemme, kurjuutemme
+näky on ikäänkuin erityisluettelo, jossa näkevät oman ylellisyytensä.
+Meidän kärsimyksemme on heille voitoksi. -- Kostakaamme seipäillämme,
+ennenkuin he meidät seivästävät, sillä jumalat sen tietäkööt, että
+tässä puhun enemmän leivän nälästä kuin koston janosta.
+
+2 KANSALAINEN.
+Cajus Marciotako etenkin kostonne tarkoittaa?
+
+KAIKKI.
+Häntä etupäässä; hän kohtelee rahvasta kuin ilmeinen koira.
+
+2 KANSALAINEN.
+Ettekö muista, mitä hyvää hän on isänmaallensa tehnyt?
+
+1 KANSALAINEN.
+Kyllä, ja olisimme valmiit hänelle siitä kiitostakin antamaan, jos ei
+hän itse hankkisi itselleen korvausta ylpeydellään.
+
+2 KANSALAINEN.
+No, mutta älkää noin herjaten puhuko.
+
+1 KANSALAINEN.
+Minä sanon teille, että mitä hän on erinomaista tehnyt, sen hän on
+siinä mielessä tehnyt. Herkkätuntoiset ihmiset sanokoot sen tapahtuneen
+isänmaan hyväksi, mutta sen hän on tehnyt vaan äitinsä mieliksi ja
+osaksi tyydyttääkseen ylpeyttänsä; sillä hän on ihan yhtä ylpeä kuin
+urhoollinenkin.
+
+2 KANSALAINEN.
+Te panette viaksi hänelle mitä hän ei voi luonteessaan muuttaa. Ettehän
+ainakaan sanone häntä ahneeksi.
+
+1 KANSALAINEN.
+Vaikka sitä en sanoisikaan, en kuitenkaan ole syytöksien puutteessa;
+hänessä on vikoja niin runsaasti, että väsyy niitä luetellessaan.
+(Ilohuutoja ulkoa.) Mitä ilohuutoja siellä? Toinen puoli kaupunkia on
+liikkeellä. Miksi tässä jaarittelemme? Pois Capitoliin!
+
+KAIKKI.
+Tulkaa, tulkaa!
+
+1 KANSALAINEN.
+Vait! Ken tuossa tulee?
+
+    (Menenius Agrippa tulee.)
+
+2 KANSALAINEN.
+Menenius Agrippa, se kunnon mies, joka aina on kansaa rakastanut.
+
+1 KANSALAINEN.
+Hän se on jotenkin kelpo mies; kunhan vaan kaikki muut olisivat
+samanlaisia.
+
+MENENIUS.
+Mik' ompi, kansalaiset? Minne matka.
+Kädessä seipäät, kanget? Mikä nyt on?
+
+1 KANSALAINEN.
+Asiamme ei ole senaatille tuntematon, he ovat jo kahden viikon ajan
+kuulleet hoettavan mitä aiomme tehdä ja minkä nyt tahdomme heille
+työssä näyttää. Sanotaan köyhillä armon-anojilla olevan vahvat keuhkot,
+mutta nyt saavat tuta, että meillä on vahvat kouratkin.
+
+MENENIUS.
+Mut, hyvät ystävät ja naapurukset,
+Näin hukka teidät perii.
+
+1 KANSALAINEN.
+                         Mahdotonta;
+Hukassa tässä ilmankin jo ollaan.
+
+MENENIUS.
+Mut, ystäväni, tietkääs, patriiseilla
+On hellin huoli teistä. Tänä puutteen
+Ja hädän aikana te yhtä hyvin
+Taivasta sauvoillanne piestä voitte
+Kuin Rooman valtaa, joka tietään kulkee.
+Tuhannet suitsivitjat katkaisten,
+Vahvempirenkaiset, kuin millä häntä
+Sitoa voitte te. Tää kallis aik' on
+Jumalten työt', ei patriisein. Täss' auttaa
+Vain polven notkistus, ei käsivarret.
+Ah! kurjuutenne ajaa teitä sinne,
+Miss' isompi on kurjuus tarjona.
+Ja vallanpitäjiä soimaatten te,
+Joill' isällinen teist' on huoli, vaikka
+Kirootte heitä niinkuin vihamiestä.
+
+1 KANSALAINEN.
+Huoliko meistä? -- Vieläkö mitä! -- He eivät milloinkaan ole meistä
+huolineet. Antaneet meidän nälkään nääntyä, ja omat aittansa viljaa
+täyteen ahtaneet; säätäneet kiellon koron kiskomiselle, auttaakseen
+koronkiskureita; päivittäin peruuttaneet terveellisiä lakeja, rikkaita
+vastaan säädettyjä, ja päivittäin keksineet yhä ankarampia asetuksia,
+kahlehtiakseen ja sortaakseen köyhää, jos ei sota meitä niele, niin he
+meidät nielevät, ja siinä se on heidän rakkautensa meitä kohtaan.
+
+MENENIUS.
+Nyt teidän myöntää täytyy, että joko
+Olette merkillisen ilkeät
+Tai tyhmäpäiset pöllöt. Sievän sadun
+Nyt kerron teille; tunnette sen ehkä,
+Mut koska tarkoitukseeni se sopii,
+Niin ehkä juttelen sen vielä kerran.
+
+1 KANSALAINEN.
+Antakaa kuulla; vaan älkää luulkokaan, että voitte herjamme suittaa
+tuolla tarinallanne. Antakaa kuulla, olkaa niin hyvä!
+
+MENENIUS.
+Kerranpa kaikki ruumiin-osat nousit
+Kapinaan vatsaa vastaan, tehden kanteen,
+Ett' tämä yksin keskiruumiin valtas.
+Kuin kuilu laiskana ja toimetonna,
+Ja, toisten haltuun jättäin työt ja vaivat.
+Vaan ruuan ahmi; muut kun sitä vastoin
+Näit, kuulit, kävit, aattelit ja tunsit.
+Jakaen keskenään kaikk' askareet,
+Joist' oli koko ruumihille ilo
+Ja yhteishyöty. Siihen vatsa vastas, --
+
+1 KANSALAINEN.
+No niin, mitä vatsa siihen vastasi?
+
+MENENIUS.
+Sen heti sanon. -- Naurun tapaisella --
+Ei keuhkoista se tullut, mut näin ihan --
+(Voin antaa vatsan yhtähyvin nauraa
+Kuin puhua,) se ilkkuin vastas noille
+Kapinannostajille nurkujille,
+Jotk' eivät sille mitään sois, juur' niinkuin
+Te senaattia morkkaatten, siit' ett'ei
+Se ole teidänmoinen.
+
+1 KANSALAINEN.
+                     Vatsan vastaus?
+Pää kuninkaamme, vartijamme silmä.
+Sydän neuvojamme, käsi soturimme,
+Hepomme sääri, kieli räikkämme.
+Ja muutkin tämän pajastomme tuet
+Ja pienet pönkät, nuo jos --
+
+MENENIUS.
+                             Mitä, mitä? --
+No tuolla vasta suu on! -- Mitä, mitä?
+
+1 KANSALAINEN.
+Tuon ahman vatsan sorron alle joutuis,
+Tuon ruumiin likaviemärin, --
+
+MENENIUS.
+                              No entä?
+
+1 KANSALAINEN.
+Sanotut jäsenet jos kanteen nostais.
+Mitäpä vatsa vastais?
+
+MENENIUS.
+                      Sen mä sanon;
+Vaan vähän malttia (ei paljon teillä
+Sit' ole juur'), niin kerron vatsan vastuun.
+
+1 KANSALAINEN.
+No tuota kestää!
+
+MENENIUS.
+                 Ystäväni, huomaa:
+Tuo kunnon vatsa oli miettiväinen,
+Ei kärkäs niinkuin syyttäjä, ja vastas:
+»Mun helmaystäväni, tosin kyllä
+Ma ensin nautin kaiken ravinnon,
+Jost' elantonne saatte te; ja syystä,
+Kosk' olen, nähkääs, koko ruumiin aitta
+Ja varahuone; minä, muistakaahan,
+Verenne virtaa myöten lähetän sen
+Sydämmen hoviin, aivon istuimelle;
+Ja ruumiin solien ja soppein kautta
+Väkevin hermo saa ja pienin suoni
+Minulta luonnolliset tarpehensa,
+Joist' elää se. Ja vaikka ette kaikki,
+Mun ystäväin,» -- näin, nähkääs, puhuu vatsa, --
+
+1 KANSALAINEN.
+No niin, ja sitten?
+
+MENENIUS.
+                    »Vaikka ette kaikki
+Voi nähdä, mitä kullenkin ma annan,
+Niin saatan toteen näyttää, miten multa
+Te saatte mehun kaikesta, mut mulle
+Jätätte perkeet vaan.» Mit' arvelette?
+
+1 KANSALAINEN.
+Sep' oli vastaus. Entä sovitelma?
+
+MENENIUS.
+Senaatti Rooman on tuo hyvä vatsa.
+Ja kapinoivat raajat te; sen huolta
+Nyt aatelkaa ja miettikäätte tarkoin,
+Mit' yhteis-etu vaatii, niin te näätte,
+Ett'ei se, mitä saatte, yhteist' ole,
+Vaan heistä lähtee se ja teille tulee,
+Eik' itsestänne suinkaan. -- Mitä sanot,
+Sä, tämän kokouksen isovarvas?
+
+1 KANSALAINEN.
+Minäkö isovarvas? Miksikä isovarvas?
+
+MENENIUS.
+Kun, vaikka halvin, matalin ja kurjin,
+Tät' älykästä kapinata johdat.
+Sa raukka, vaikka ajoon olet kehnoin,
+Edellä käyt, kun hyötyä sä vainut. --
+Esille kanget, seipäät vaan! Nyt Rooma
+Rottainsa kanssa ottelee, ja myrkyn
+Syö heistä toinen. -- Terve, jalo Marcius!
+
+    (Cajus Marcius tulee.)
+
+MARCIUS.
+                                           Kiitos! --
+Mik' on sun, sinä jäyhä roskajoukko,
+Jok' älyparkaas syyhyvätä kynsit,
+Kunnes se rohtuu?
+
+1 KANSALAINEN.
+                  Kohtelias aina!
+MARCIUS.
+Ken kohtelias teille on, se häijyst'
+Imartelee. Mitä tahdotte te, koirat?
+Ei sota hyvä, eikä rauha; toinen
+Peloittaa teitä, toinen röykkeiks saattaa.
+Ken teihin luottaa, jalopeuran sijaan
+Jäniksen saa, ja ketun sijaan hanhen.
+Olette yhtä taattavat kuin jäällä
+Tulihiili on tai rae päiväsessä.
+Rikollist' ylistämään teiss' on miestä
+Ja rankaisijaa parjaamaan. Ken mainett'
+On ansainnut, teilt' ansainnut on vihaa.
+Halunne on kuin sairaan ruokahalu,
+Sit' enin himoo se, mist' enin haittaa.
+Ken suosioonne luottaa, lyijy-evin
+Se ui ja ruovolla se tammen kaataa.
+Te hirtehiset! Hiis teit' uskokoon!
+Te mieltä joka hetki muuttelette:
+Nyt halpa äskeinen on suosikkinne,
+Ja jalo se, jot' äsken vihasitte.
+Mi hätänä, kun kautta kaupungin te
+Rääkytte reimaa senaattia vastaan,
+Mi jumalia likinn' ohjaa teitä
+Ja toisianne syömäst' estää? -- Mikä
+On tarkoitus?
+
+MENENIUS.
+              Asettaa viljan hinta.
+Sanovat: viljaa kaupungiss' on kyllin.
+
+MARCIUS.
+Ne hirtehiset! Niin vain? Takan luona
+He istuvat ja Capitolin toimet
+He tietävänsä luulevat, ken nousee
+Ja kuka sortuu; puolueita luovat
+Ja avioita; puoltaan vahvistavat.
+Ja kenkärajains' alle sortavat
+He vastenmielisensä. Kyllin viljaa!
+Jos aateli vaan hiiteen heittäis säälin
+Ja mun sois miekkaa käyttää, tuhansittain
+Noit' orjia ma löisin, luoden röykyn
+Niin korkean kuin keihääni on pitkä.
+
+MENENIUS.
+Ei, nää jo ovat tyynni malttuneet.
+He, nähkääs, julmia on pelkureita,
+Vaikk' älyn puute heiss' on suuri. Entä
+Tuo toinen joukko?
+
+MARCIUS.
+                   Hajan. Hirteen kaikki!
+He nälkää huusivat ja sananlaskuj'
+Ynisivät, sen kaltaisia kuin:
+»Suu särjelläkin», »nälkä kova vieras»,
+»Ei vatsa nuollen täyty», »herrain kanssa
+Ei marjaan menemistä», moisin pätkin
+He nurkuns' ilmi toivat, ja kun pyyntö,
+Tuo kumma, myönnettiin, -- jok' aatelilta
+Masensi mielen, kalvaaks tehden vallan.
+Niin vimman ilosta he kiljuivat
+Ja lakkins' ilmaan heittivät, ikäänkuin
+Kuun sarviin tahtoen ne kiinnittää.
+
+MENENIUS.
+No, mitä sitten heille myönnettiin?
+
+MARCIUS.
+Viis kansan valitsemaa tribuunia,
+Sen roskaviisautt' edustamaan; -- Brutus,
+Sicinius, ja -- hitto heitä muisti!
+Hajoittaa sais nuo roistot Rooman ennen
+Kuin moiseen minä taipuisin; näin valtaa
+He yhä saavat, lisää vaatien
+Kapinan uhalla.
+
+MENENIUS.
+                Se kummallist' on.
+
+MARCIUS.
+Pois, kuotukset, pois kotihinne!
+
+    (Sanansaattaja tulee kiireesti.)
+
+SANANSAATTAJA.
+                                Miss' on
+Se Cajus Marcius?
+
+MARCIUS.
+                  Tässä. Mitä tahdot?
+
+SANANSAATTAJA.
+Ilmoittaa: aseissa on volskilaiset.
+
+MARCIUS.
+Sep' oivaa! Näinpä suoriks päästään noista
+Mädistä perkeistä. -- Kas, tuossa isät!
+
+    (Cominius, Titus Lartius ja muita senaattoreja,
+    Junius Brutus ja Sicinius Velutus tulevat.)
+
+1 SENAATTORI.
+Mit' äsken, Marcius, kerroitte, on totta:
+Aseiss' on volskilaiset.
+
+MARCIUS.
+                         Kuuman teille
+Aufidius, heidän johtajansa, antaa.
+En kadehdi ma hänen suuruuttaan,
+Mut jos en ois mik' olen, tahtoisin ma
+Hänenä olla.
+
+COMINIUS.
+             Yhdess' ottelitte.
+
+MARCIUS.
+Jos sotis mailma, puoli puolta vastaan,
+Ja hän mun puoltan' oisi, luopuisin ma.
+Otellakseni hänen kanssaan. Hauska
+Usuttaa leijonaa!
+
+1 SENAATTORI.
+                  Te, jalo Marcius,
+Cominiota seuraatten kai sotaan?
+
+COMINIUS.
+Sen taannoin lupasitte.
+
+MARCIUS.
+                        Sen ma tein.
+Ja siinä pysyn. -- Saatpa nähdä, Lartius,
+Kuink' isken vielä kerran Tullust' otsaan.
+Kuin? Rampako? Ja jäätkö pois?
+
+LARTIUS.
+                               En, Marcius;
+Ma toiseen sauvaan nojaan, toisell' isken;
+Ma myötä tulen.
+
+MARCIUS.
+                Aito-aateluutta!
+
+1 SENAATTORI.
+Nyt Capitoliin tulkaa, siellä parhaat
+Odottaa ystävät.
+
+LARTIUS (Marciolle).
+                 Te etupäässä;
+Cominius sitten; jäljessä me muut;
+Syyst' etusija teill' on.
+
+COMINIUS.
+                          Jalo Marcius!
+
+1 SENAATTORI (kansalaisille).
+                                        Pois, kotiin!
+
+MARCIUS.
+Mukaan tulkoot: volskilaisill'
+On paljon viljaa; aittain kaivajiksi
+Mukahan rotat! -- Kunnon mässääjät,
+Nyt hehkeimmäll' on uljuutenne; tulkaa!
+
+    (Senaattorit, Cominius. Marcius, Titus Lartius
+    ja Menenius poistuvat. Kansa hiipii pois.)
+
+SICINIUS.
+Niin pöyhkää onko toista kuin tuo Marcius?
+
+BRUTUS.
+Ei mokomaa.
+
+SICINIUS.
+            Kun kansantribuuneiksi
+Valittiin meidät, --
+
+BRUTUS.
+                     Näitkö sitä suuta
+Ja silmäystä?
+
+SICINIUS.
+              Niin ja ivaa sitten.
+
+BRUTUS.
+Vihoissaan jumaliakin hän pilkkaa.
+
+SICINIUS.
+Ja ilkkuu kuuta kainoa.
+
+BRUTUS.
+Tää sota hänet nielköön! Miehuudestaan
+Hän liiaks ylpeilee.
+
+SICINIUS.
+                     Sellainen luonne.
+Kun onni sitä kuihkoo, päivän kalvett'
+Ivaten tallaa. Mutta ihme, että
+Hän röyhkeydessään palvelemaan taipuu
+Cominiota.
+
+BRUTUS.
+           Mainetta hän lempii
+Ja onkin jo sen suosikki; mut maine
+Ei säily eikä kasva muuten paitsi
+Likinnä ensimmäistä; kommellukset
+Päämiehen syyksi jäävät, vaikka tekis
+Hän kaikki mitä voi, ja löyhä moite
+Se Marciosta huutaa: »Oi, jos johto
+Häll' olis ollut!»
+
+SICINIUS.
+                   Taas jos hyvin käypi,
+Niin kansan mieli, Marcioon kiintyneenä,
+Cominiolta ansion vie.
+
+BRUTUS.
+                       Niin kyllä;
+Cominion maineest' on jo puolet Marcion,
+Vaikk' ilman hänen vaivattaan; ja hälle
+Cominion virheet lisää mainett' antaa,
+Vaikk' ilman hänen ansiottaan.
+
+SICINIUS.
+                               Pois nyt,
+Ja valmistuksist' urkkikaamme tieto
+Ja mihin toimiin retkeänsä varten
+Tuo juonikko nyt ryhtyy.
+
+BRUTUS.
+                         Lähtekäämme!
+
+    (Menevät.)
+
+
+Toinen kohtaus.
+
+    Corioli. Senaatintalo.
+
+    (Tullus Aufidius ja senaattoreja tulee.)
+
+1 SENAATTORI.
+Vai luulette te siis, Aufidius, ett' on
+Vihiä Rooma tuumistamme saanut
+Ja tuntee hankkeemme.
+
+AUFIDIUS.
+                      Ken muuta luulis?
+Mit' ompi meillä koskaan ajateltu,
+Jot' olis toimeen saatu, ennen kuin
+Sen Rooma haistoi? Neljä päivää sitten
+Sain tietoja; näin sanat kuuluu -- kirje
+On, luulen, muassani; niin, täss' on se:
+(Lukee.) »Pestattun' ovat joukot; epätietoist'.
+Itäänkö vaiko länteen. Suur' on hätä,
+Ja kansa kapinoi. Cominius
+Ja vanha vihamiehenne, tuo Marcius
+(Mi vihatumpi Roomass' on kuin teillä).
+Ja Lartius, uljas Rooman mies, ne kolme
+Yrityst' ohjaavat, niin kerrotaan,
+Mut minne? Luultavasti teitä vastaan.
+Siis, varokaa!»
+
+1 SENAATTORI.
+                Väkemme jalkeill' ompi,
+Eik' ole epäiltykään, ettei Rooma
+Sotahan olis valmis.
+
+AUFIDIUS.
+                     Viisast' oli
+Salassa pitää hankkehenne, kunnes
+Näkyä niiden täytyisi; mut Rooma
+Ne hautumasta keksi. Näin se tyhjäks
+On tehnyt aikomuksemme, jok' oli:
+Mont' ottaa kaupunkia, ennen kuin
+Ties Rooma meidän jalkeill' olevankaan.
+
+2 SENAATTORI.
+Nyt, jalo Aufidius, toimihinne!
+Väkenne luoksi rientäkää; me yksin
+Coriolia vartioimaan jäämme.
+Jos meitä saartavat he, sotajoukoll'
+Avuksi tulkaa. Epäilen tok', että
+Tuo meitä tarkoittaa.
+
+AUFIDIUS.
+                      Ei epäilystä;
+Mun tieton' ovat varmat. Niin -- ja lisäks:
+Jo matkall' osa heidän joukkojaan on
+Ja tänne päin. Hyvästi, isät, jääkää!
+Jos Marcion kanssa tanterella yhdyn,
+Niin valan tehneet olemme, ett' ennen
+Ei tauota, kuin meistä toinen kaatuu.
+
+KAIKKI.
+Jumalat auttakoot!
+
+AUFIDIUS.
+                   Ja teitä kaitkoot!
+
+1 SENAATTORI.
+Hyvästi vaan!
+
+2 SENAATTORI.
+              Hyvästi!
+
+AUFIDIUS.
+                       Hyvästi!
+
+    (Menevät.)
+
+
+Kolmas kohtaus.
+
+    Rooma. Huone Marcion talossa.
+
+    (Volumnia ja Virgilia tulevat. He istuutuvat kahdelle
+    matalalle tuolille ja alkavat neuloa.)
+
+VOLUMNIA.
+Laula, hyvä lapseni, tai ainakin puhu vähän hauskempaa. Jos poikani
+olisi minun mieheni, niin totta maar enemmän iloitsisin hänen
+poissa-olostaan, kun hän sillä mainetta saavuttaa, kuin hänen
+syleilyksistään kotona vuoteessa, olkootpa ne kuinka hellät ja
+rakkahat hyvänsä. Kun hän vielä oli hento lapsi ja kohtuni ainoa
+hedelmä, kun hän nuoruudellaan ja kauneudellaan käänsi puoleensa
+kaikkien silmät, kun hänen äitinsä ei olisi ainoaksi hetkeksikään
+luopunut häntä katselemasta, vaikkapa sitä itse kuninkaat olisivat
+päiväkaudet rukoilleet, jo silloin -- kun ajattelin miten sellaista
+olentoa kunnia kaunistaisi ja että hän, jos maine ei häntä elähyttäisi,
+ei olisi parempi kuvaa, joka seinässä riippuu, -- jo silloin mielelläni
+annoin hänen etsiä vaaroja, joissa kunniata oli tarjona. Veriseen
+sotaan hänet lähetin, ja sieltä hän palasi, tammiseppele päässä. Kuules
+lapseni, en enemmän ilosta sävähtänyt, ensi kerran kuullessani, että
+poikani oli miespuolta, kuin nyt ensi kerran nähdessäni, että hän on
+osottanut olevansa mies.
+
+VIRGILIA.
+Mutta entä jos hän olisi sodassa kaatunut, mitä silloin?
+
+VOLUMNIA.
+Silloin hänen mainehikas nimensä olisi poikani ollut; se olisi silloin
+minun perilliseni ollut. Kuule vakava tunnustukseni: jos olisi tusina
+lapsia mulla, kaikki yhtä rakkaita, eikä yksikään vähemmän kallis, kuin
+sinun ja minun hyvä Marcioni, niin mieluisemmin näkisin yhdentoista
+kunnialla kuolevan isänmaansa edestä, kuin yhden työttömänä hekkumassa
+elävän.
+
+    (Kamarirouva tulee.)
+
+KAMARIROUVA.
+Valeria rouva tääll' on, hyvä rouva.
+
+VIRGILIA.
+Suvaitkaa minun poistua.
+
+VOLUMNIA.
+Et, sit' et saa.
+On niinkuin kuulisin ma miehes rummun
+Ja näkisin, kuin tukasta hän laahaa
+Aufidiota; volskilaiset säikkyy
+Kuin lapset karhua. Hän jalkaa polkee
+Ja huutaa: »Tulkaa tänne, arkalaiset,
+Te pelvon sikiöt, te, vaikka Roomass'
+Olette syntyneet!» Hän rautakintaall'
+Otsastaan veren pyyhkivi ja kulkee
+Kuin leikkuumies, jonk' ompi määrä kaataa
+Kaikk' elo, taikka palkattomaks jäädä.
+
+VIRGILIA.
+Otsastaan verenkö! Oi, Zeus, ei verta!
+
+VOLUMNIA.
+Suas, houkka! Kultaisetkaan voitonmerkit
+Niin miest' ei kaunista. Hecuban rinta,
+Jot' imi Hector, ihanamp' ei ollut
+Hectorin otsaa, kun se kreikkalaisten
+Miekoille halveksien vertaan sylki. --
+Valeria sa tervetulleeks sano!
+
+    (Kamarirouva menee.)
+
+VIRGILIA.
+Aufidion julmuudesta taivaan vallat
+Varjelkoon miestän'!
+
+VOLUMNIA.
+                     Polvens alle painaa
+Hän Tullon pään ja niskaan häntä polkee.
+
+    (Kamarirouva palajaa Valerian ja palvelijan kanssa.)
+
+VALERIA.
+Hyvää päivää, hyvät rouvat!
+
+VOLUMNIA.
+Terve tultuanne!
+
+VIRGILIA.
+Hupaista teitä nähdä, hyvä rouva!
+
+VALERIA.
+Kuinka voitte te molemmat? Tehän nyt vasta kodikkaita olette! Mitä te
+neuloskelette? Kaunis kuosi, todellakin! -- Kuinka pikku poikanne
+voipi?
+
+VIRGILIA.
+Kiitoksia kysymästänne; hyvin rouvaseni.
+
+VALERIA.
+Hän mieluisemmin katselee miekkoja ja kuuntelee rumpua, kuin tarkkaa
+opettajaansa.
+
+VOLUMNIA.
+Isänsä poika, totta tosiaan! Oikein herttainen lapsi, sen takaan. Niin,
+kuulkaapas, katselin häntä viime keskiviikkona puolen tuntia yhtä
+mittaa; hänellä on niin miehekäs ryhti. Näin hänen tavoittavan
+kultaperhosta, ja kun hän sen oli kiinni saanut, päästi hän sen taasen
+irti; ja taas takaa ajamaan, ja sitten nenällensä maahan, ja jälleen
+pystyyn, ja saikin sen taasen kiinni. Lankeeminenko hänet raivoon sai
+vai mikä, sitä en tiedä, mutta hampaitaan hän kiristeli ja rouhi
+perhosen, oi, ette usko, kuinka hän sen palasiksi rouhi.
+
+VOLUMNIA.
+Isän tapoja.
+
+VALERIA.
+Toden totta, oikein jalo lapsi.
+
+VIRGILIA.
+Vallaton koko poika.
+
+VALERIA.
+Kas niin, pois nyt ompelunne! Voittehan joutilaiksi ruveta täksi
+iltapuoleksi.
+
+VIRGILIA.
+En, rouvaseni, en lähde ulos ovesta.
+
+VALERIA.
+Ettekö ulos ovesta?
+
+VOLUMNIA.
+Hänen täytyy kuin täytyykin.
+
+VIRGILIA.
+En, oikein totta, suokaa anteeksi. En astu kynnyksestä yli, ennenkuin
+mieheni sodasta palajaa.
+
+VALERIA.
+Hyi! Järjetöntähän noin on huoneeseensa salpautua. Tulkaa nyt hyvän
+tuttavan luoksi varpajaisille.
+
+VIRGILIA.
+Toivon, että hän pian parantuisi, ja tahdon rukoilla hänen puolestaan,
+mutta tulla sinne en saata.
+
+VOLUMNIA.
+Ja miksikä et, saako kysyä?
+
+VIRGILIA.
+En mukavuudesta, enkä ystävyydenkään puutteesta.
+
+VALERIA.
+Tahdotte matkia Penelopea; mutta sanotaan, että kaikki se lanka, minkä
+hän Ulysseen poissa ollessa kehräsi, vaan täytti Ithakan koilla. Tulkaa
+pois! Jos olisi palttinanne yhtä tunnokas kuin sormenne, niin
+jättäisitte pelkästä säälistä tuon ompelunne. Tulkaa nyt vaan
+kanssamme!
+
+VIRGILIA.
+En, hyvä rouva, suokaa anteeksi. Toden totta, en tahdo lähteä ulos.
+
+VALERIA.
+Kas niin, lähtekää nyt vaan, niin kerron teille suloisia uutisia
+miehestänne.
+
+VIRGILIA.
+Ei, niitä ei ole vielä saattanut saapua.
+
+VALERIA.
+On todellakin; en tässä nyt turhia puhu: viime yönä tuli häneltä
+tietoja.
+
+VIRGILIA.
+Tottako, rouva?
+
+VALERIA.
+Toden totta; kuulin sen eräältä senaattorilta. Tämmöinen on asian
+laita: volskilaiset olivat lähettäneet sotajoukon liikkeelle, jota
+vastaan ylipäällikkö Cominius vei osan roomalaista sotavoimaa.
+Puolisonne ja Titus Lartius piirittivät heidän kaupunkiansa Coriolia.
+He eivät epäile voittavansa ja tekevänsä pikaista loppua sodasta.
+Kunniani kautta, tämä on totta. Ja nyt, lähtekää kanssamme!
+
+VIRGILIA.
+Anteeksi, hyvä rouva; vast'edes noudatan kaikessa teidän mieltänne.
+
+VOLUMNIA.
+Antakaamme hänen jäädä; tuommoisena hän vaan pilaisi ilomme.
+
+VALERIA.
+Niin kyllä, samaa minäkin. -- Hyvästi siis! -- Tulkaa, rouva hyvä! --
+Virgilia, kuules, viskaa nyt nurkkaan tuo juhlallisuutesi ja lähde
+kanssamme.
+
+VIRGILIA.
+En, en todellakaan saata. Toivotan teille paljon hauskuutta.
+
+VALERIA.
+No, hyvästi sitte!
+
+    (Menevät,)
+
+
+Neljäs kohtaus.
+
+    Coriolin edustalla.
+
+    (Liehuvin lipuin ja helisevin soitoin astuvat sisään
+    Marcius, Titus Lartius, sotaherroja ja sotamiehiä.
+    Sanansaattaja rientää heitä vastaan.)
+
+MARCIUS.
+Tuoss' uutta kuullaan; -- vetoa, ett' ovat
+He otelleet!
+
+LARTIUS.
+             Eip' ole; orhist' orhi!
+
+MARCIUS.
+No, menköön!
+
+LARTIUS.
+             Hyvä!
+
+MARCIUS.
+                   Sano, onko päämies
+Jo vihollisen kohdannut?
+
+SANANSAATTAJA.
+                         He toistaan
+Katselleet ovat, mut ei haastelleet.
+
+LARTIUS.
+Heposi mun on.
+
+MARCIUS.
+               Takaisin sen ostan.
+
+LARTIUS.
+En myy sit' enkä lahjoita, mut lainaan
+Sen viideksikymmeneksi vuodeks sulle. --
+No, kaupunkia antaumaan vaadi!
+
+MARCIUS.
+Miss' ovat joukot?
+
+SANANSAATTAJA.
+                   Tunnin matkan päässä.
+
+MARCIUS.
+Toistemme sotahuudon kuulemme siis. --
+Nyt, Mars, sua pyydän, pane vauhtiin, työmme.
+Niin että, miekat suitsevina, täältä
+Kedolle avuks ystäväimme päästään!
+Hoi, torvet soimaan!
+
+    (Soitetaan sovinnon hierojaisille. Muutamia
+    senaattoreja ilmestyy muurille.)
+
+                     Onko Aufidius
+Muurien sisällä?
+
+1 SENAATTORI.
+                 Ei, eikä yhtä.
+Ken teitä säikkyis vähemmän kuin hän,
+Ja se on vähän kyllä. Kuulkaas rummut
+Kokoovat nuorisomme; ennen muurit
+Me murramme kuin tänne salpaan jäämme.
+Ei lukoss' ole porttimme, ne korsill'
+On salvatut vaan, itsestään ne aukee.
+    (Sotahuutoa kuuluu kaukaa.)
+Haa, kuulkaatten! Aufidius on se. Kuulkaas,
+Kuin rehkii hän ja armeijaanne pirstaa!
+
+MARCIUS.
+Oo, niiks' on tullut!
+
+LARTIUS.
+                      Melu tuo se olkoon
+Nyt oppaamme. -- Hoi, tikapuita tänne!
+
+    (Volskilaiset tulevat ja marssivat näyttämön poikki.)
+
+MARCIUS.
+Meit' eivät pelkää, ulos ryntäävät he.
+Sydänten eteen kilvet nyt, ja, sydän
+Lujempana kuin kilpi, taistelkaa! --
+Käy päälle. Titus! Enemmän, kuin luulin,
+Meit' ilkkuvat he; vihast' oikein hiestyn.
+Eteenpäin, veikot! Volskilaiseks sanon
+Sen, joka väistää; miekkaa saa se maistaa.
+
+    (Sotamelua. Roomalaiset ja Volskilaiset poistuvat taistellen.
+    Roomalaiset peräytyvät varustustensa taakse. Marcius palajaa.)
+
+MARCIUS.
+Etelän rutto teidät nielköön, roistot,
+Te, Rooman saasta! Rohtumat ja paiseet
+Niin syökööt teit', ett', ennen jo kuin nähdään,
+Teit' inhotaan, ja, vastatuulta käyden,
+Levitköön virstain päästä teihin rutto!
+Te, hanhen sielut ihmishahmossa,
+Te pakenette orjaa, jonka voittaa
+Vois apinakin! Helvetti ja Pluto!
+Kaikilla teill' on haavat takapuolla;
+Punainen selkä, mutta pelvon horkast'
+On naama kalvas. Käännös! Päälle käykää!
+Tai, kautta taivaan tulten, volskit jätän
+Ja teihin isken. Päättäkää, ja menkää!
+Jos lujina te pysytte, niin heidät
+Ajamme heidän vaimojensa luoksi,
+Niinkuin he meidät saartovallillemme.
+
+    (Sotamelua. Volskilaiset ja roomalaiset palajavat ja
+    ryhtyvät uudelleen taisteluun. Volskilaiset peräytyvät
+    Corioliin ja Marcius ajaa heitä takaa portille saakka.)
+
+Nyt auk' on portti. Miehiä nyt olkaa!
+Ei pakolaisille, vaan vainoojille
+Sen avaa onni. Seuratkaa mua, tulkaa!
+
+    (Syöksyy sisään portista, joka suljetaan hänen jälkeensä.)
+
+1 SOTAMIES.
+Mik' uskaljas! En minä.
+
+2 SOTAMIES.
+                        Enkä minä.
+
+3 SOTAMIES.
+Nyt lukon takan on hän.
+
+KAIKKI.
+                        Selkääns' saa hän.
+
+    (Titus Lartius tulee.)
+
+LARTIUS.
+Miss' ompi Marcius?
+
+KAIKKI.
+                    Surman suussa varmaan.
+
+2 SOTAMIES.
+Pakoojia hän kantapäillä seuras
+Portista sisään; kiirein suljettiin se;
+Siell' yksinään hän koko kaupunkia
+Nyt vastaa.
+
+LARTIUS.
+            Jalo veikko! Tunteellisna
+Hän tunnotonta miekkaans' uljaamp' on;
+Hän seisoo, se kun taipuu. Mennyt mies!
+Rubiini täysi ja sun painoisesi
+Ei kalliimp' olis kalleus. Sotur' olit
+Sa Caton henkeä, et hurjan julma
+Vain iskeissäs, ei, jyrisevä äänes
+Ja katsees tulinen sun vihamiehes
+Niin vapisemaan sai, kuin koko mailma
+Värissyt olis kuumeissaan.
+
+    (Marcius palajaa verissään ja viholliset ajavat häntä takaa.)
+
+1 SOTAMIES.
+                           Kah!
+
+LARTIUS.
+                                Marcius!
+Pelastus hälle taikka surma meille!
+
+    (Taistelevat, ja kaikki ryntäävät kaupunkiin.)
+
+
+Viides kohtaus.
+
+    Katu Coriolissa.
+
+    (Muutamia roomalaisia tulee saalistaan kantaen.)
+
+1 ROOMALAINEN.
+Tän minä Roomaan vien.
+
+2 ROOMALAINEN.
+                       Ja tämän minä.
+
+3 ROOMALAINEN.
+No hiis, kun luulin tuota hopeaksi.
+
+    (Tappelun hälinätä kuuluu yhä kaukaa. Marcius ja Titus
+    Lartius tulevat, torventoitottaja jäljessä.)
+
+MARCIUS.
+Nuo hylyt, kurjan äyrikulun vuoksi
+Tuhlaavat aikaa! Patjat, lyijykauhat,
+Ja romut, rääsyt, joita pyövelikään
+Ei hirtetyltä riisuis, kaikki vievät
+Nuo heittiöt, ja kesken tappelua. --
+Periköön heidät hiis! -- Haa, päällikkömme
+Sotahuuto kuuluu! -- Joutuun sinne! Siellä
+Vereni vihamies, tuo Tullus, murhaa
+Nyt roomalaistamme. Uljas Titus,
+Kaupungin turvaks riittävä ota joukko;
+Kaikk' uskaljaat Cominiolle avuks
+Mun kanssan' tulkoot.
+
+LARTIUS.
+                      Verissäshän olet!
+Sa liiaks olit kiivas, ryhtyäkses
+Taas uuteen taisteluun.
+
+MARCIUS.
+                        Mua älä kiitä;
+Työst olen tuskin lämminnyt. Hyvästi!
+Ei haitaks verenvuoto tää, vaan lääkkeeks,
+Näin Aufidiota otteluun ma vaadin.
+
+LARTIUS.
+Oi, onnen sulo jumalatar sinuun
+Ihastukoon ja vastustajas miekat
+Tenhotkoon hurmallansa! Sankar' uljas,
+Menestys huovis olkoon!
+
+MARCIUS.
+                        Yhtä paljon
+Kuin suosituimpiaan, sua suosikoon se!
+Hyvästi vaan!
+
+LARTIUS.
+              Sa, kunniakas Marcius!
+    (Marcius menet.)
+Käy, torvees soita turulla, ja kutsu
+Kaupungin kaikki virkakunnat kokoon
+Tajuamahan tahtoamme. Matkaan!
+
+    (Menee.)
+
+
+Kuudes kohtaus.
+
+    Cominion leirin läheisyydessä.
+
+    (Cominius sotajoukkoineen peräytymässä.)
+
+COMINIUS.
+Hengäiskää, ystävät! Kuin roomalaiset
+Nyt oteltiin: ei tyhmää vastustusta,
+Eik' arkamaista pakoa. Koht' alkaa
+Uus leikki taas, sen takaan. Taistelussa
+Ajoittain tuuli ystäväimme häikän
+Toi korvihini. -- Rooman jumalat,
+Nyt voitto heille suokaa sekä meille,
+Ett', otsat kirkkahina, yhtyis joukot
+Ja kiitos-uhrin teille tois!
+    (Sanansaattaja tulee.)
+Mit' uutta?
+
+SANANSAATTAJA.
+            Coriolista hyökkäys Marcion
+Ja Lartion päälle tehtiin; meidän väen
+Varustuksiinsa väistyvän kun näin,
+Niin tänne riensin.
+
+COMINIUS.
+                    Tottakin jos puhut,
+Et hyvää puhu. Kauanko on siitä?
+
+SANANSAATTAJA.
+On päälle tunnin.
+
+COMINIUS.
+                  Peninkulmaa tuskin
+On täältä sinne; äsken rummun kuulin.
+Sa tarvitsetko tunnin peninkulmaan?
+Sa tulet myöhään.
+
+SANANSAATTAJA.
+                  Volskilaisten lukit
+Mua vainos; pari, kolme peninkulmaa
+Mun täytyi väärää tehdä; muuten oisin
+Jo aikaa ollut täällä.
+
+    (Marcius tulee.)
+
+COMINIUS.
+                       Kuka tuo on?
+Hän on kuin nyljetty! Oi, taivaan vallat!
+On Marcion leima hällä, moisna olen
+Ennenkin hänet nähnyt.
+
+MARCIUS.
+                       Myöhästyinkö?
+
+COMINIUS.
+Ei paimen pauanteesta luikun ääntä
+Niin erota kuin minä Marcion äänen
+Erotan halvemmista.
+
+MARCIUS.
+                    Myöhästyinkö?
+
+COMINIUS.
+Sen teit, jos ei sua muiden veri punaa.
+Vaan omasi.
+
+MARCIUS.
+            Oi, annas kun sua halaan
+Niin tuliseen kuin ennen ylkämiesnä,
+Niin riemullisna kuin hääiltana,
+Vahaisten vuodettani valaistessa.
+
+COMINIUS.
+Urosten uros! Kuinka Lartius voipi?
+
+MARCIUS.
+Kuin mies, mi tuomarina tuomitseepi
+Maanpakoon yhden, toisen kuolemaan,
+Vapauttaa tuon, tuot' uhkaa, tuota sääli
+Coriolin kuin luihun susikoiran
+Hän pitää kahleissa, joit' ehdon tahdon
+Hän höllittää.
+
+COMINIUS.
+               Miss' orja, joka sanoi
+Varustuksiinne teidän paenneen?
+Miss' on hän? Tuo hän tänne!
+
+MARCIUS.
+                             Älä huoli!
+Hän puhui totta. Meidän ylimykset,
+Tuo rahvas -- (hiis! tribuunejako heille!) --
+Niin kissaa hiir' ei säiky, kuin nuo kurjat
+Pahempiansa pakenivat.
+
+COMINIUS.
+                       Mutta
+Mitenkä voiton saitte?
+
+MARCIUS.
+                       Onko aikaa
+Nyt kertomisiin? Sit' en luule. Missä
+On vihollinen? Onko voitto teillä?
+Jos ei, miks ette riennä sitä saamaan?
+
+COMINIUS.
+Tulimme tappelussa tappiolle
+Ja peräydyimme hyväss' aikehessa.
+
+MARCIUS.
+Mik' asema on heillä? Millä siivell'
+On ydinväki?
+
+COMINIUS.
+             Eturiviss', arvaan,
+On antiaatit, heidän valionsa;
+Aufidius, heidän toiveidensa ylpeys,
+Heit' ohjaa.
+
+MARCIUS.
+             Kautta kaikkein taistelujen,
+Joiss' yhdess' oteltihin, kautta veren,
+Yhdessä vuodatetun, valain kautta,
+Joill' ikiveljyys solmittiin, ma pyydän
+Ett' Aufidion ja antiaattein kanssa
+Tapella saan ma; älkää viivytelkö!
+Ylötyin keihäin vaan ja miekoin ilma
+Nyt täyttäkää, mut joutuun!
+
+COMINIUS.
+                            Paras oisi
+Nyt sulle voitehet ja lämmin kylpy;
+Mut vaateitas en koskaan tohdi kieltää.
+Valitse urhotyöhös parhaat miehet!
+
+MARCIUS.
+No, halukkaimmat siis. -- Teiss' onko ketään
+(Epäillä sitä olis synti), jolle
+On mieleen ruse tää, mi mua punaa;
+Ken itseänsä varoo vähemmän
+Kuin halpaa mainetta; ken uljaan kuolon
+Paremmaks kurjaa elämätä katsoo,
+Ja kelle kalliimp' isänmaa kuin henki,
+Hän, yksin, tai jos muit' on samaa mieltä,
+Heiluttakohon myöntymyksen merkiks
+Nyt miekkaansa ja Marcion kanssa tulkoon. --
+
+    (Kaikki huomaavat ja häilyttävät miekkojansa, nostavat
+    Marcion käsivarsilleen ja viskelevät lakkejansa ilmaan.)
+
+Mua yksin! Miekaksiko minut teette?
+Jos vilpitönt' on tää, ken teist' ei neljää
+Vastaisi volskilaista? Yhtä lujan,
+Kuin Tullon kilpi, häntä vastaan nostais
+Jokainen teistä. Kiitän teitä kaikin,
+Mut parhaat mun teist' erotella täytyy;
+Muut toisess' ottelussa työtään tehkööt,
+Kun tarve käskee. Etehenpäin, mars!
+Ja neljä teistä parhaat miehet mulle
+Nyt heti valitkoon.
+
+COMINIUS.
+                    Eteenpäin pojat!
+Ja kuntonne nyt näyttäkää, niin tasan
+Panemme voitot kaikki.
+
+    (Menevät.)
+
+
+Seitsemäs kohtaus.
+
+    Coriolin porteissa.
+
+    (Titus Lartius, joka on jättänyt varusväkeä Corioliin,
+    menee rumpujen ja torvien soidessa Marciota ja Cominiota
+    vastaan. Häntä seuraa päällysmies, sotamiehiä ja tien-opas.)
+
+LARTIUS.
+Porteille vahdit! Tehkää tehtävänne,
+Niin kuin ma käskin. Pyydettäissä meille
+Nuo centuriot tuokaa; jäännöksistä
+On hetken apu. Tappioon jos jäämme,
+On kaupunkikin mennyt.
+
+PÄÄLLYSMIES.
+                       Huolet' olkaa!
+
+LARTIUS.
+Siis, portit jälkeemme nyt sulkekaa! --
+Mies, näytä tietä roomalaisten leiriin!
+
+    (Menevät.)
+
+
+Kahdeksas kohtaus.
+
+    Tappelutanner roomalaisten ja volskilaisten leirien
+    keskivälillä.
+
+    (Sotahuutoja. Marcius ja Aufidius tulevat.)
+
+MARCIUS.
+Sun kanssas vaan ma taistelen; sua vihaan
+Ma enemmän kuin valhetta.
+
+AUFIDIUS.
+                          Ja minä
+Sua samoin; kyyt' en Afrikan niin kammo.
+Kuin mainettasi vihaan. Pidä paikkas!
+
+MARCIUS.
+Ken väistää, toisen orjana se kuolkoon,
+Ja jumalat sen kirotkoot!
+
+AUFIDIUS.
+                          Jos karkaan,
+Mua niinkuin jänist' aja, Marcius!
+
+MARCIUS.
+                                   Tullus,
+Kaks tiimaa sitten Corioliss' yksin
+Ma telmin mielin määrin; mun ei vertan'
+Tää, joka näin mun verhoo: kostoon kaikki
+Siis voimas jännitä!
+
+AUFIDIUS.
+                     Vaikk' itse Hector
+Sa olisit, tuon pöyhkän heimos kerska,
+Et pakoon multa pääsis!
+    (Taistelevat, ja muutamia volskilaisia tulee Aufidiolle avuksi.)
+                        Avuliasta,
+Mut urhokasta ei. -- Mua häpäisette
+Te tuolla kirotulla avullanne.
+
+    (Poistuvat taistellen, ja Marcius ajaa heitä edellänsä.)
+
+
+Yhdeksäs kohtaus.
+
+    Roomalaisten leiri.
+
+    (Sotahuutoja. Soitetaan paluumatkalle. Torventoitauksia.
+    Toiselta puolelta tulee Cominius roomalaisinensa; toiselta
+    Marcius, käsi kääreessä, ja hänen kanssaan toisia roomalaisia.)
+
+COMINIUS.
+Tänpäiväiset jos työsi kerron, niit' et
+Omikses uskois. Vaan kun ilmi tuon ne,
+Senaattorit hymyyvät kyyneleissä,
+Patriisit olkapäitään nostelevat,
+Mut vihdoin ihastuvat, vaimot säikkyin
+Ja sulotuskiss' enempätä kuulla
+Vain halaavat, tribuunit tyhmät sekä
+Likainen rahvas, joita mainees vaivaa,
+Sanovat vasten mieltään: »Kiitos taivaan,
+Ku Roomalle soi moisen sotamiehen!» --
+Ja tää se vaan on juhlan jälkiruokaa,
+Jo ennalt' olit kylläinen.
+
+    (Titus Lartius tulee sotajoukkoineen vainoretkeltä.)
+
+LARTIUS.
+                            Cominius,
+Tuoss' sotaorhi, ja me vaan sen valjaat;
+Jos oisit nähnyt --
+
+MARCIUS.
+                     Vaiti! Äitinikin,
+Joll' oikeus ylistää on omaa vertaan,
+Mua loukkais kehullaan. Ma saman tein
+Kuin tekin, se on: minkä voin, ja samoin
+Kuin tekin, rakkaudesta isänmaahan.
+Ken parhaan halunsa on täyttänyt.
+On saman verran tehnyt.
+
+COMINIUS.
+                        Ansiotas
+Et noin saa peittää. Omaisuutens' arvo
+Tuleepi Rooman tietää. Petos oisi,
+Pahempi varkautta ja kavaluutta,
+Salata työs, ja vaiti miehest' olla,
+Jok' ylistyksen kukkuloille yltää
+Ja nöyrä vaan on. Siis nyt -- näytteeks siitä,
+Mit' olet, enkä töittes palkinnoksi --
+Puhua suo mun, sotajoukon kuullen.
+
+MARCIUS.
+Mull' ompi haavoja, jotk' äilehtivät.
+Kun niitä mainitaan.
+
+COMINIUS.
+                     Jos sit' ei tehdä,
+Niin kiittämättömyydest' ärtyvät ne
+Ja voivat surmaks olla. Hevosista --
+Joit' otettihin hyviä ja paljon, --
+Ja kenttien ja kaupunkien aarteist'
+On kymmenekset sun, ne valikoida
+Saat ennen saaliin jakoa sa itse.
+
+MARCIUS.
+Ma kiitän; mutta tuntoni ei salli
+Mun ottaa lahjaa miekan palkinnoksi;
+Pois kiellän sen ja enempää en pyydä
+Kuin työni näkijätkään.
+
+    (Kestävää toitotusta. Kaikki huutavat: »Marcius! Marcius!»
+    ja viskelevät lakkejansa ja keihäitänsä ilmaan. Cominius
+    ja Lartius seisovat avopäin.)
+
+                        Soitto tuo.
+Näin häväistynä, vaietkohon ijäks!
+Jos rumpu kentäll' imartaa ja torvi,
+Niin sula mainitus ja valhe nielköön
+Hovit ja kaupungit! Jos teräs nuortuu
+Kuin loisen silkki, silloin silkkinuttu
+On paras sotisopa! Vait, ma sanon!
+Siks ett'en nenästäni verta pessyt
+Tai kurjan raukan voitin, jonka teistä
+On, huutoon joutumatta, moni tehnyt.
+Nyt riemuhuudoill' ylenmääräisillä
+Mua tervehditte,
+Kun tahtoisin ma höystää halvan työni
+Valeiden maustamilla kiitoksilla.
+
+COMINIUS.
+Tuo liikaa kainoutt' ompi. Julmemp' olet
+Maineellesi, kuin kiitollinen meille,
+Parastas aikoville. Vaan suo anteeksi
+Jos itsees hurjistut, niin käsiis silloin,
+Kuin sen, jok' itsens' aikoo vioittaa,
+Sidomme raudat; sitten haastaa saamme. --
+Siis, tulkoon maailmalle, niinkuin meille.
+Nyt tiedoks, että tämän sodan seppel'
+On Cajus Marcion oma; merkiks siitä
+Ratsuni saa hän, tutun kautta leirin,
+Valjaineen kaikkineen. Täst' alkain hällä --
+Ilohuudoillaan sen sotajoukko myöntää --
+Nimenä, töistään Coriolin luona,
+On Cajus Marcius Coriolanus. --
+Se arvonimes kunnialla kanna!
+
+KAIKKI.
+Cajus Marcius Coriolanus!
+
+    (Toitotusta. Torvet ja rummut soivat.)
+
+CORIOLANUS.
+Ma pestä tahdon kasvoni;
+Kun puhdas olen, näette punastunko
+Vai enkö. Kiitoksia kuitenkin! --
+Ma otan ratsunne, ja voimain takaa
+Alati koitan tulla ansainneeksi
+Tuon liikanimen arvokkaan.
+
+COMINIUS.
+                           Nyt telttaan;
+Sielt', ennen maatapanoamme, Roomaan
+Voittomme ilmoitamme. -- Sinä, Lartius,
+Palaja Corioliin; Roomaan laita
+Sen parhaat miehet neuvottelemaan,
+Mik' etuisint' ois kummallenkin.
+
+LARTIUS.
+                                 Kyllä.
+
+CORIOLANUS.
+Jumalat ilkkua mua alkaa. Minun,
+Jok' äsken ruhtinaiset lahjat kielsin,
+Päämieheltän' on kerjätä nyt pakko.
+
+COMINIUS.
+Kaikk' ompi teidän. Sanokaa, mit' on se?
+
+CORIOLANUS.
+Coriolissa köyhän miehen luona
+Majailin kerran; kohtelun sain hyvän.
+Hän mulle huusi, vangiks kun hän tehtiin;
+Mut edessän' Aufidion silloin näin,
+Ja raivo säälin voitti. Vapautt' anon
+Isäntä-raukalleni.
+
+COMINIUS.
+                   Jalo pyyntö!
+Hän on kuin tuuli vapaa, vaikka poikan'
+Ois surmannut hän. -- Päästä hänet, Titus!
+
+LARTIUS.
+Mut nimi?
+
+CORIOLANUS.
+          Unhottanut, kautta Zeun! --
+Väsynyt olen; muistinikin uupuu. --
+Tääll' onko viiniä?
+
+COMINIUS.
+                    Pois telttahamme!
+Sun kasvoissasi kuivunut on veri;
+On aika pitää siitä huolta. Tule!
+
+    (Menevät.)
+
+
+Kymmenes kohtaus.
+
+    Volskilaisien leiri.
+
+    (Torventoitotusta. Tullus Aufidius tulee verissään,
+    pari, kolme soturia hänen seurassaan.)
+
+AUFIDIUS.
+Corioli on valloitettu!
+
+1 SOTAMIES.
+Takaisin hyvill' ehdoilla sen saamme.
+
+AUFIDIUS.
+Ehdoilla! -- Oi, jos oisin roomalainen!
+En volskilaisna olla voi, mik' olen. --
+Ehdoilla! Mitä ehtoja on sillä,
+Jok' antaunut on toisen armoihin?
+Viis kertaa ottelin ma kanssas, Marcius,
+Viis kertaa voitit mun, ja voitat vielä,
+Vaikk' yhtyisimme joka ruokahetki. --
+Kautt' elementtien! Jos vielä kerran
+Ma häneen yhdyn, parta vasten partaa,
+Niin hän on mun, tai minä hänen. Kiihkon'
+Ei ole enää vilpitön kuin ennen:
+Jos hänt' en ruhjo tasatappelussa
+Ja miekka vasten miekkaa, silloin kiukku
+Tai juoni, mikä sattuu, hänet kaataa.
+
+1 SOTAMIES.
+Hän itse perkele on.
+
+AUFIDIUS.
+                     Uljahampi,
+Vaikk' ei niin kavala. Mun koko voiman'
+On myrkytetty; lamannut hän on sen
+Ja tahrannut, ett' itseään se kaikoo.
+Ei uni, pyhyys, sairaus, turvattomuus.
+Ei Capitolit, eikä pyhät paikat,
+Ei uhrit, eikä pappein rukoukset,
+Nuo raivon hillitsijät, poistaa saata
+Mädillä, kuluneilla etuuksillaan
+Vihaani Marciota kohtahan.
+Jos hänet tapaan, kotonakin vaikka
+Ja veljenikin turvista, niin rikon
+Ma majaystävyyden lait ja pesen
+Käteni julmat hänen sydämmessään. --
+Käy kaupunkiin, ja kysy, kuink' on laita,
+Ja ken on panttivangiks Roomaan viety.
+
+1 SOTAMIES.
+Mukaanko ette käy?
+
+AUFIDIUS.
+                   Mua varrotaan
+Sypressilehdon luona (etelähän
+Se myllyist' on); tuo sinne tieto, kuinka
+On maailmassa laita, että osaan
+Sen mukaan tieni suunnata.
+
+1 SOTAMIES.
+                           Sen teen.
+
+                          (Menevät.)
+
+
+
+
+TOINEN NÄYTÖS.
+
+
+Ensimmäinen kohtaus.
+
+    Rooma. Julkinen paikka.
+
+    (Menenius, Sicinius ja Brutus tulevat.)
+
+MENENIUS.
+Auguri sanoi minulle, että tänä iltana saamme kuulla uutisia.
+
+BRUTUS.
+Hyviäkö, vai pahoja?
+
+MENENIUS.
+Ei ainakaan kansan toivon mukaisia, sillä se ei rakasta Marciota.
+
+SICINIUS.
+Luonto pedotkin opettaa ystävänsä tuntemaan.
+
+MENENIUS.
+Sano siis, ketä susi rakastaa?
+
+SICINIUS.
+Lammasta.
+
+MENENIUS.
+Niin kyllä, syödäksensä sen: niinkuin nuo nälkäiset plebejitkin
+tekisivät tuon jalon Marcion.
+
+BRUTUS.
+Niin, kyllä hän on lammas, hän, vaikka ynisee kuin karhu!
+
+MENENIUS.
+Niin kyllä hän on karhu, hän, vaikka elää niinkuin lammas. Te olette
+ikämiehiä kumpikin, vastatkaatte kysymykseeni.
+
+MOLEMMAT TRIBUUNIT.
+Kyllä; puhukaa.
+
+MENENIUS.
+Mikä pahe Marciolta puuttuu, jota ei teissä kummassakin ole ylenmäärin?
+
+BRUTUS.
+Häneltä ei puutu ainoakaan pahe, hänessä on niitä kosolta kaikkia.
+
+SICINIUS.
+Erittäinkin ylpeyttä.
+
+BRUTUS.
+Ja kerskaavaisuudessa hän voittaa kaikki muut.
+
+MENENIUS.
+Sepä kummallista. Tiedättekö itse, miten teitä kumpaakin kaupungissa,
+nimittäin meissä, säätyläisissä, arvostellaan? Tiedättekö sitä?
+
+MOLEMMAT TRIBUUNIT.
+Mitenkä siis meitä arvostellaan?
+
+MENENIUS.
+No, koska nyt ylpeyden mainitsitte, ettehän minuun suutu?
+
+MOLEMMAT TRIBUUNIT.
+Asiaan, asiaan!
+
+MENENIUS.
+No, se ei ole mikään suuri asia; sillä mitä pieninkin tilapää-varkaus
+olisi omiansa sieppaamaan teiltä koko joukon malttamusta. Päästäkää
+luontonne valloilleen, ja suuttukaa mielinmäärin, vallankin jos se on
+mieleen teille. Syytätte Marciota ylpeydestä, niinkö?
+
+BRUTUS.
+Me yksin emme sitä tee.
+
+MENENIUS.
+Sen hyvin tiedän; yksin te voitte sangen vähän tehdä. Teillä on
+apureita monenmoisia, muuten näyttäisivät toimenne ihmeellisen
+yksinkertaisilta; kykynne on liian alaikäinen, saadakseen yksin suurta
+aikaan. Mainitsitte ylpeyden. Oi, jos voisitte nähdä oman niskanne
+nikamiin ja luoda pienen katseen omaan rakkaaseen itsehenne! Oi, jos
+sen voisitte!
+
+BRUTUS.
+No, mitä sitten?
+
+MENENIUS.
+Silloin näkisitte kaksi niin kelvotonta, ylpeätä, väkivaltaista,
+itsepäistä virkamiestä (toisin sanoin: narria), ettei Roomassa mokomia.
+
+SICINIUS.
+Tekin, Menenius, olette vallan hyvin tunnettu.
+
+MENENIUS.
+Niin kyllä, iloiseksi patriisiksi, joka mielelläni juon pikarillisen
+tuimaa viiniä, sekoittamatta siihen pisaraakaan Tiberin vettä.
+Sanotaan, että olen liian heikko mielitekojani noudattamaan; tulinen ja
+kiihkoinen tyhjästä joutavasta; että enemmän seurustelen yön takapuolen
+kuin aamun otsapuolen kanssa. Mitä ajattelen, sen ma lausun, ja kaiken
+vihani puran ilmi hengätessäni. Kun tapaan kaksi semmoista
+valtiomiestä, kuin te olette (Lykurgon kaltaisia ette sentään ole), ja
+jos tarjoomanne juoma ei ole makuisaa kidalleni, niin irmastelen sille.
+En saata sanoa, että te viisaudessanne olette hyvin asianne esittäneet,
+jos joka sanasta näen aasin korvien törröttävän; ja vaikka minun
+täytyykin kärsivällisesti kuulla, kun sanovat teitä kunnollisiksi ja
+vakaiksi miehiksi, niin verinen valhe on sanoa naamojanne siivoiksi.
+Jos kaiken tämän näette minun pikkumaailmani kartasta, seuraako siitä,
+että olen vallan hyvin tunnettu? Mitä vikoja saattaakaan teidän
+korkeasti valistunut sokeutenne tästä minun luonteestani noukkia, jos
+olen vallan hyvin tunnettu?
+
+BRUTUS.
+Hyvä, hyvä! Me tunnemme teidät vallan hyvin.
+
+MENENIUS.
+Te ette tunne minua, ettekä itseänne, ettekä mitään. Teidän
+kunnianhimonne haluaa vaan köyhäin raukkojen kumarruksia ja kursailua;
+te voitte koko pitkän pituisen aamupäivän istua kuulemassa viininmyyjän
+ja pomeranssimuijan riita-asiaa, ja kuitenkin lykätä tuon kolmen pennin
+jutun toiseen istuntopäivään. Jos kahta riitapuolta kuulustellessanne
+sattumalta saatte mahapakon, niin irmastelette kuin irviöt, nostatte
+verisen lipun ja julistatte sodan kaikkea mielenmalttia vastaan,
+ärjytte yöastiaa ja jätätte riita-asian kesken ja yhä enemmän vaan
+sotkettuna käyttelystänne. Koko sovinto, minkä asiassa aikaansaatte, on
+siinä, että kumpaakin riitapuolta sanotte konnaksi. Kylläpä olette
+kaunis pari!
+
+BRUTUS.
+No niin, tiettyähän on, että olette sopivampi pöytäilviöksi kuin
+kelvollinen jäseneksi Capitolin neuvostoon.
+
+MENENIUS.
+Itse papinkin on pakko ruveta koiransilmäksi, jos kohtaa noin
+naurettavia olennoita. Järkevinkään puheenne ei maksa partanne
+liikkumista; ja partanne saa liian kunniallisen haudan, jos joutuu
+paikkaräätälin päänaluksen täytteeksi, tai välivilloiksi aasin
+kuormasatulaan. Ja kuitenkin sanotte Marciota ylpeäksi, häntä, joka
+halvimman arvion mukaan on yhtä ansiollinen kuin kaikki teidän
+esi-isänne Deucalionista alkaen, vaikka, ken tiesi, jotkut ja
+parhaat niistä ovat olleet perimöisiä teloittajia. Hyvää yötä, te,
+kunnian-arvoiset herrat! Pitempi keskusteleminen teidän kanssanne
+saastuttaisi aivoni, sillä olettehan tuon plebeji-karjan paimenia.
+Rohkenen sulkeutua suosioonne.
+
+    (Brutus ja Sicinius siirtyvät näyttämön perälle.
+    Volumnia, Virgilia, Valeria y.m. tulee.)
+
+Kuinka voitte, hyvät rouvat, kauniit ja jalot (jalompi ei olisi kuu,
+jos se maassa vaeltaisi), ja mihin noin tarkasti katseenne kiinnitätte?
+
+VOLUMNIA.
+Kunnon Menenius, Marcius, minun poikani, lähenee. Junon tähden, älkää
+meitä viivyttäkö!
+
+MENENIUS.
+Haa! Tuleeko Marcius kotiin?
+
+VOLUMNIA.
+Tulee, kunnon Menenius, ja suurimmat kunnianosotukset ovat hänen
+osakseen tulleet.
+
+MENENIUS.
+He, Jupiter, ota lakkini ja kiitokseni! -- Heleijaa, Marcius tulee
+kotiin!
+
+MOLEMMAT ROUVAT.
+Niin, hän tulee.
+
+VOLUMNIA.
+Nähkääs, tuossa on kirje häneltä, senaatti on saanut toisen, hänen
+vaimonsa kolmannen, ja luulenpa että on teillekin kirje kotonanne.
+
+MENENIUS.
+Koko minun taloni tänä iltana pemutkoon! -- Minulleko kirje?
+
+VIRGILIA.
+Niin, varmaankin on siellä kirje teille; olen nähnyt sen.
+
+MENENIUS.
+Minulle kirje! Sehän tuopi minulle terveyttä seitsemäksi vuodeksi; ja
+koko sen ajan irvistelen minä lääkäreitä. Galenon kaikkivaltaisin
+tohtorinlippu on pelkkää puoskaroimista, eikä tämän elinrohdon rinnalla
+parempi hevoslääkitystä. Eikö hänessä ole haavoja? Hänellä on tapana
+palata kotiin haavoitettuna.
+
+VIRGILIA.
+Oi, ei, ei, ei!
+
+VOLUMNIA.
+On, hän on haavoitettuna, ja siitä kiitän jumalia.
+
+MENENIUS.
+Niin minäkin, jos niitä vaan ei ole liiaksi. -- Tuoko hän voiton
+lakkarissaan? -- Haavat häntä kaunistavat.
+
+VOLUMNIA.
+Otsallaan, Menenius; hän palajaa kotiin kolmannen kerran tammiseppele
+päässä.
+
+MENENIUS.
+Onko hän Tulloa hyvänpäiväisesti löylyttänyt?
+
+VOLUMNIA.
+Titus Lartius kirjoittaa heidän otelleen keskenänsä, mutta Aufidion
+päässeen pakoon.
+
+MENENIUS.
+Parasta olikin sen saatan vakuuttaa. Jos hän olisi puoltaan pitänyt, en
+maarin minä olisi tahtonut semmoista tulloamista kärsiä, vaikka olisin
+saanut kaikki Coriolin kirstut kultineen päivineen. Onko siitä
+senaatille ilmoitettu?
+
+VOLUMNIA.
+Hyvät rouvat, lähtekäämme! -- On, on, on. -- Senaatille on tullut kirje
+päälliköltä, jossa koko tämän sotaretken kunnia luetaan poikani
+ansioksi. Hän on tässä sodassa voittanut kaksin kerroin entiset
+urostyönsä.
+
+VALERIA.
+Todellakin kummia hänestä jutellaan.
+
+MENENIUS.
+Kummia? Niin totta, ja täydellä syyllä, sen takaan.
+
+VIRGILIA.
+Suokoot jumalat, että se olisi totta.
+
+VOLUMNIA.
+Totta! Päh!
+
+MENENIUS.
+Totta! Vannon että se on totta. Missä on haavat hänessä? --
+(Trihuuneille, jotka tulevat esiin.) Jumalat teitä varjelkoot, te
+kaikkiviisaat herrat! Marcius tulee kotiin, ja nyt hänellä on vielä
+suurempi syy ylpeillä. -- Missä on haavat hänessä!
+
+VOLUMNIA.
+Harteissa ja vasemmassa käsivarressa. Oikein komeat naarmat kansan
+katseltaviksi, kun hän astuu julkisesti esiin viranhakijana. Kun hän
+Tarquinion karkoitti, sai hän seitsemän haavaa ruumiiseensa.
+
+MENENIUS.
+Yhden niskaan, ja kaksi reiteen, -- yhdeksän niitä oli, minun
+tietääkseni.
+
+VOLUMNIA.
+Ennen viimeistä sotaretkeä oli hänessä viisikolmatta haavan arpea.
+
+MENENIUS.
+Nyt niitä on seitsemänkolmatta, ja jokainen arpi oli vihollisen
+hautana. (Torventoitauksia ja ilohuutoja.) Kuulkaas, torvet soivat!
+
+VOLUMNIA.
+Ne ovat Marcion sanansaattajia. Hänen edellänsä käy riemu, ja jälkeensä
+hän jättää kyyneleitä. Kädessä tarmokkaassa musta surina. Hän iskee, ja
+se isku miesten turma.
+
+    (Torvet soivat, Cominius ja Titus Lartius tulevat, ja
+    heidän keskellänsä Coriolanus, tammiseppele päässä.
+    Päälliköitä, sotamiehiä ja airut.)
+
+AIRUT.
+Se kuule, Rooma, että Marcius yksin
+Coriolissa taistel', uuden nimen
+Näin kunnialla liittäin entisiinsä.
+Se mainenimi on Coriolanus. --
+Oi, tervetullut, kuulu Coriolanus!
+
+    (Torventoitauksia.)
+
+KAIKKI.
+Niin, tervetullut, kuulu Coriolanus!
+
+CORIOLANUS.
+Heretkää! Tämä sydäntäni loukkaa.
+Vait, vaiti!
+
+COMINIUS.
+             Tuossa äitis!
+
+CORIOLANUS.
+                           Oi, sa mulle
+Menestyst' olet jumalilta kaikilt'
+Anonut, tiedän sen.
+
+    (Polvistuu.)
+
+VOLUMNIA.
+                    Ei, nouse, urho,
+Mun oma Marcioni, jalo Cajus,
+Jok' urhotöistäs juur' sait mainenimen,
+Mik' oli se? Coriolanus? -- Niinkö? --
+Mut, vaimos --
+
+CORIOLANUS.
+               Sulo valtiaani, terve!
+Ehk' oisit nauranut, jos ruumiin' oisin
+Ma palannut, kosk' itket nyt, kun voitin?
+Oi, kultani, Coriolissa leskill'
+On silmät tuommoiset, ja poikiansa
+Surevill' äideillä.
+
+MENENIUS.
+                    Oi, jumalat
+Sun kruunatkohot!
+
+CORIOLANUS.
+                  Vieläkö sä elät? --
+    (Valerialle.)
+Anteeksi, rouvaseni!
+
+VOLUMNIA.
+                     Enhän tiedä
+Mihinkä käännyn. -- Tervetullut kotiin!
+Ja tekin, päämies! -- Tervetulleet kaikki!
+
+MENENIUS.
+Niin, satatuhat kertaa tervetulleet!
+Ma voisin itkeä ja voisin nauraa.
+Kevyt on mieleni ja raskas. Terve!
+Kirotut sisimmät sen sydänjuuret,
+Jok' iloll' ei sua katso! -- Teihin kolmeen
+Rakastuu Rooma aivan. Mutta tietkääs,
+Omenapuit' on kirpeitäkin täällä,
+Joit' ei voi maukkaiksi jalostuttaa.
+Soturit, tervetulleet toki olkaa!
+On nokkonen vaan nokkonen, ja hupsut
+On hupsun vehkeet.
+
+COMINIUS.
+                   Aina yhdenlainen!
+
+CORIOLANUS.
+Sama Menenius!
+
+AIRUT.
+               Tie auki, syrjään!
+
+CORIOLANUS (vaimolleen ja äidilleen).
+Kätesi, -- teidän myös! Mut ennenkuin
+Saa varjostaa mun päätän' oma suoja,
+Patriisein luona täytyy minun käydä,
+Joilt' olen, paitsi terveisiä, saanut
+Myös kunniaa.
+
+VOLUMNIA.
+              Siis täytettynä näen nyt
+Mit' olen toivonut ja mitä mielen'
+On suurta kuvaillut; vain yksi puuttuu,
+Ja sit' ei varmaan Rooma sulta kiellä.
+
+CORIOLANUS.
+Oi, äiti, heidän orjanaan käyn ennen
+Omia teitäni, kuin heidän teitään.
+Halliten heidän kanssaan.
+
+COMINIUS.
+                          Capitoliin!
+
+    (Torventoitauksia. Menevät juhlakulussa, niinkuin
+    tulivatkin. Tribuunit jäävät.)
+
+BRUTUS.
+Hänestä hokevat nyt kaikkein kielet!
+Nenälleen lasit tihrusilmä panee,
+Nähdäkseen häntä; imettäjä lörppä
+Poruttaa vetotaudin kakaraansa,
+Hänestä rupatellen; parhaan vartin
+Likaiseen kaulaans' sitoo kyökkipiika
+Ja töllistämään ylös seinään kämpii;
+Rahit, kuistit, ikkunat on täpötäynnä;
+Katoilla, harjoill' istuu kahdareisin
+Väkeä kaikenlaista, jotka silmin
+Hänt' ahmii kaikki; joukkoon tunkeilevat
+Papitkin, harvoin nähdyt, koittain saada
+Pukaten paikkaa; hunnutetut naiset
+Siloiset poskipäänsä, joilla puna
+ja valkea käy sotaa, alttiiks suovat
+Himoisen Phoibon tulisuudelmille.
+On melu moinen, niinkuin häness' asuis
+Mikäkin jumala, jok' ompi salaa
+Hänehen hiipinyt ja hurmaavaisen
+Sulonsa hälle suonut.
+
+SICINIUS.
+                      Tuota pikaa
+Hän konsul' ompi.
+
+BRUTUS.
+                  Meidän valtamme
+Saa nukkua kai hänen hallitessaan.
+
+SICINIUS.
+Hän maltill' ei voi kantaa kunniaansa
+Alusta loppuun; mitä voittanut on,
+Menettää hän.
+
+BRUTUS.
+              Se lohduks on.
+
+SICINIUS.
+                             Tuo rahvas,
+Jot' edustamme -- usko pois! -- jo vanhan
+Vihankin tähden, pienimmästä syystä,
+Nuo hänen uudet arvons' unohtaapi;
+Ja syytä varmaan antaa hän, niin totta
+Kuin hän siit' ylpeileekin.
+
+BRUTUS.
+                            Kerran, kuules,
+Hän vannoi että, konsuliks jos pyrkis,
+Ei torill' ilmestyis hän, eikä kantais
+Nöyryyden nukatonta vaippaa, eikä
+Hän tavan mukaan haavojansa näyttäis
+Ja kerjäis kansan löyhkäist' ääntä.
+
+SICINIUS.
+                                    Oikein.
+
+BRUTUS.
+Niin sanoi hän. Niin, ennen hän sen jättäis
+Kuin ottaisi, jos hänt' ei patriisit
+Ja ylimykset pyytäis.
+
+SICINIUS.
+                      Muut' en toivo
+Kuin että pysyis aikeissaan ja toimeen
+Ne panisi.
+
+BRUTUS.
+           Sen varmaankin hän tekee.
+
+SICINIUS.
+Se hälle, niinkuin toivommekin on,
+Tuo perikadon varmaan.
+
+BRUTUS.
+                       Häntä kohtaa
+Tai meitä se. Siis kuiskatkaamme kansaan.
+Ett' aina heit' on vihannut hän; että
+Jos vois, hän heidät tekis aaseiks, tukkis
+Suun heidän puoltajiltansa, ja heiltä
+Vapauden ryöstäis; että hänest' on he --
+Mit' ihmistoimihin ja kykyyn tulee
+Ja arvohon ja hyötyyn maailmassa --
+Kuin sotakameelit, jotk' appeens' saavat,
+Kun kuorman vetävät, ja ruoskaa selkään,
+Jos uupuvat.
+
+SICINIUS.
+             Niin, tuon jos kuiskaamme,
+Kun joskus korskall' ylpeydellään kansaa
+Hän loukkaa taas (ja sen hän tekee, jos vaan
+Hänt' yllytät: jok' yht' on helppo kuin
+Usuttaa koiraa uuheen), syntyy liekki,
+Mi heidät sytyttää kuin kuivan oljen;
+Ja tämä lieska hänet ijäks mustaa.
+
+    (Sanansaattaja tulee.)
+
+BRUTUS.
+Mik' ompi?
+
+SANANSAATTAJA.
+           Capitoliin oiti! Luullaan
+Tulevan Marcion konsuliksi. Häntä
+Sokeat tunki kuulemaan ja kuurot
+Näkemään häntä; eukot sormikkaitaan
+Ja rouvat, tytöt vöitään, huivejansa
+Viskoivat hänen tielleen; aatelisto
+Kumarsi niinkuin Jupiterin kuvaa,
+Ja kansa lakeillaan ja huudoillansa
+Satehen aikaan sai ja ukkosjyryn.
+En moista ole nähnyt.
+
+BRUTUS.
+                      Capitoliin!
+Nykyisiin korva kiintyköön ja silmä,
+Mut sydän tulevaisiin.
+
+SICINIUS.
+                       Minä seuraan.
+
+    (Menevät.)
+
+
+Toinen kohtaus.
+
+    Capitoli.
+
+    (Kaksi oikeudenpalvelijaa asettelee pieluksia.)
+
+1 PALVELIJA.
+Joutuun, joutuun! He ovat kohta täällä. Kuinka monta mitä on konsuliksi
+pyrkijää?
+
+2 PALVELIJA.
+Kolme, sanotaan, mutta kaikki luulevat, että Coriolanus vie viran.
+
+1 PALVELIJA.
+Uhkea mies, mutta saakelin ylpeä. Eikä rakasta rahvasta.
+
+2 PALVELIJA.
+Onpahan niitä suuriakin miehiä ollut, jotka ovat kansaa imarrelleet,
+eivätkä kuitenkaan sitä rakastaneet. Ja niitäkin on, joita kansa
+rakastaa, vaikkei tiedä miksi. Siis jos se ei tiedä miksi se rakastaa,
+ei se myöskään tiedä miksi se vihaa. Kun siis Coriolanus ei piittaa
+siitä, rakastaako häntä kansa vai ei, niin tämä osoittaa, että hän
+perin tuntee sen mielenlaadun; ja jalomielisessä suruttomuudessaan hän
+sitä peittelemättä näyttääkin.
+
+1 PALVELIJA.
+Jos hän ei siitä piittaisi, rakastaako se häntä vai eikö, niin hän
+olisi väliäpitämätön, eikä tekisi sille hyvää eikä pahaa; mutta hän
+etsii sen vihaa kiihkeämmin, kuin se sitä osoittaa saattaa, ja käyttää
+joka tilaisuutta julkisesti esiintyäkseen sen vastustajana. Se seikka,
+että hän julkisesti etsii kansan vihaa ja suuttumusta, on yhtä huonoa
+kuin sekin, jota hän ei kärsiä saata, nimittäin kansan imarteleminen
+suosion tähden.
+
+2 PALVELIJA.
+Hän on isänmaansa kiitollisuuden ansainnut, eikä ole niin mukavia teitä
+kohonnut kuin muut, jotka notkeina ja nöyrinä ovat kansalle lakkiansa
+nostaneet, eivätkä mitään muuta tehneet saavuttaakseen arvoa ja
+mainetta; ei, hän on niin kiinnittänyt ansionsa heidän silmiinsä ja
+tekonsa heidän sydämmiinsä, että olisi laillaan kiittämätöntä
+solvausta, jos heidän kielensä olisivat vaiti eivätkä sitä tunnustaisi.
+Ilkeys yksin saattaisi toista väittää, ja itse joutuen valheesta
+kiinni, saisi se nuhteita ja soimauksia joka korvalta, joka sen
+kuulisi.
+
+1 PALVELIJA.
+Jääköön hän rauhaan! Hän on kelpo mies. Tie auki, he tulevat.
+
+    (Torventoitauksia. Konsuli Cominius, liktorit hänen
+    edellänsä, Menenius, Coriolanus, senaattoreja, Sicinius
+    ja Brutus tulevat. Senaattorit asettuvat paikoilleen;
+    tribuunit samaten.)
+
+MENENIUS.
+Kun volskilaisist' on nyt päätös tehty
+Ja sana pantu Titus Lartiolle,
+Jää jälki-istuntomme määrättäväks
+Sen miehen palkka, joka maansa hyväks
+Niin jalosti on taistellut. Suvaitkaa
+Siis, arvoisat ja jalot isät, että
+Nykyinen konsuli ja äskeinen
+Voittoisa päällikkömme meille vähän
+Niist' urhotöistä kertoo, joita tehnyt
+On Cajus Marcius Coriolanus, jolle
+Nyt kunnioitus ansaittu ja kiitos
+Osaksi tulkoon.
+
+1 SENAATTORI.
+                Kertokaa, Menenius;
+Ei pituudesta haittaa. Ennen puuttuu
+Varoja valtiolta palkita
+Kuin meiltä halu antaa. Suvaitkaa siis,
+Te kansan edustajat, meitä kuulla
+Ja rahvahassa suosimalla puoltaa
+Mit' aiomme nyt päättää.
+
+SICINIUS.
+                         Sopumielin
+Olemme tulleetkin; ja sydämmemme
+Se kunnioittaa mielellään ja puoltaa
+Tän istuntomme esinettä.
+
+BRUTUS.
+                         Niin,
+Ja vielä mieluisemmin, jos hän tahtois
+Parempaa kansast' ajatella vasta
+Kuin tähän saakka.
+
+MENENIUS.
+                   Se ei kuulu tähän.
+Parempi olla vaiti. Tahdotteko
+Cominiota kuulla?
+
+BRUTUS.
+                  Mielist' aivan.
+Varoitukseni tok' on sattuvampi
+Kuin teidän nuhteenne.
+
+MENENIUS.
+                       Hän lempii kansaa. --
+Vai vierekkäinkö pitäis heidän maata? --
+Cominius, puhukaa!
+    (Coriolanus nousee ja yrittää lähteä.)
+                   Ei, jääkää!
+
+1 SENAATTORI.
+                               Jääkää!
+Hävetä mainetöitään Coriolanon
+Ei tarvinne.
+
+CORIOLANUS.
+             Oi anteeksi Mutta ennen
+Näen haavojeni uudest' aukenevan,
+Kuin kuulen kerrottavan, miten sain ne.
+
+BRUTUS.
+Sanani teit' ei karkoittanut kai?
+
+CORIOLANUS.
+                                  Ei!
+Mut usein, vaikk' en iskuj' arastellut.
+Sanoja väistin. Ette mairitellut,
+Siis ette loukannut. Mut rahvastanne
+Ma arvon mukaan lemmin.
+
+MENENIUS.
+                        Istukaahan!
+
+CORIOLANUS.
+Ei, sotatorven soidess' ennen annan
+Ma pääni kynsittäväks auringossa,
+Kuin istun jouten, kuullen halpaa työtän'
+Ihailtavan kuin ihme-elukkaa.
+
+    (Menee.)
+
+MENENIUS.
+Tribuunit, hän kuink' imarrella saattais
+Tuot' alveparveanne (joista tuskin
+Yks' tuhannest' on hyvä), hän, jok' ennen
+Kaikk' antaa raajans' alttiiks kunnialle
+Kuin korviins' ottaa kehun? -- No, Cominius!
+
+COMINIUS.
+Mult' ääni puuttuu: Coriolanon töitä
+Ei heikost' ilmi tuoda saa. Jos uljuus
+Pää-avu on ja miehen suurin kaune,
+Ei hänen vertaans' ole maailmassa.
+Kuustoista-vuotiaana muiden eellä
+Hän kulki, kun Tarquinius Roomaa uhkas.
+Diktaattorimme (kunniata hälle!)
+Näk' itse, kuinka poika siloleuka
+Edellään ajoi urhot viiksihuulet.
+Hädästä kansalaistaan auttain, tappoi
+Hän, konsulimme nähden, kolme miestä.
+Tarquinionkin kohtas ja hänt' iski,
+Niin että tämä kaatui polvilleen.
+Niin, tähän sankar'-aikaan, jolloin hyvin
+Hän näyttämöllä naisest' olis käynyt,
+Mies urhein kentäll' oli hän, ja päähäns
+Sai palkaks tammiseppeleen. Näin tullen
+Pojasta mieheks, nousi hän kuin meri.
+Ja seitsemässätoista tappelussa
+Vei joka miekan seppeleen hän. Vihdoin,
+Mit' on Coriolissa ja sen luona
+Hän tehnyt, sit' en ylistää voi kyllin.
+Pidätti karkurit hän; pelkureille
+Hän harvinaisell' esimerkillänsä
+Nauruksi teki kauhun; niinkuin kaisla
+Edestä purjelaivan, niinpä väistyi
+Hänenkin keulans' eestä miehet; miekka
+Kuin surman leima, sattui, mihin tähtäs.
+Hän päästä jalkaan oh pelkkää verta;
+Jok' askeletta seuras kuolinhuokaus.
+Kaupungin kulmaportist' yksin tunki,
+Punaten siihen kostonmerkin julman;
+Avutta pelastui ja pienin joukoin
+Corioliin kuin ilmanraana iski.
+Nyt kaikk' on hänen. Taas kun sodan ryske
+Viiletti hänen valpast' aistintansa,
+Kaht' uljaammin hän heti rohkaisi
+Ruhonsa väsyneen ja liekkiin ryntäs,
+Miss' suitsuten yl' ihmishenkien,
+Kuin ikiturma, syöksi hän; ja vasta
+Kun huudettiin: »maat, kaupungit on meidän»,
+Levähti hetkeks hengähtäin.
+
+MENENIUS.
+                            Mies uljas!
+
+1 SENAATTORI.
+Ja täysin ansainnut sen arvon, jonka
+Aiomme hälle.
+
+COMINIUS.
+              Pois hän saaliin kielsi
+Ja kalleudet hylki, niinkuin oisi
+Ne pelkkää lokaa. Vähemmän hän vaatii,
+Kuin mitä kurjin antaa vois, ja katsoo
+Työn palkinnoksi itse työn, ikäänkuin
+Vaan aikaa tahtois ajan vietoks käyttää.
+
+MENENIUS.
+Todesti jalo! Kutsukaa hän tänne!
+
+1 SENAATTORI.
+Coriolanus tänne!
+
+PALVELIJA.
+                  Hän jo tulee.
+
+    (Coriolanus palajaa.)
+
+MENENIUS.
+Coriolanus, konsuliks sun tehdä
+Senaatti näkee hyväks.
+
+CORIOLANUS.
+                       Sille aina
+Ma työni, henken' uhraan.
+
+MENENIUS.
+                          Siis ei muuta
+Kuin puhuminen kansalle.
+
+CORIOLANUS.
+                         Ma pyydän,
+Mun suokaa jättää tapa tuo; en saata
+Pukeuta vaippaan, näyttää haavojani
+Ja kerjätä heilt' ääniä. Ma pyydän,
+Mua siitä päästäkää.
+
+SICINIUS.
+                     Ei, herra, valtaans'
+Ei jätä kansa; tavasta ei tingi
+Se tippaakaan.
+
+MENENIUS.
+               Heit' älkää härnätkö;
+Tapahan sääntykää ja ottakaatte
+Edeltäjäinne lailla arvo vastaan
+Laillista tietä.
+
+CORIOLANUS.
+                 Punehtuen varmaan
+Tät' osaa näyttelen; tuon oikeuden
+Pois kansalt' ottaa saisi.
+
+BRUTUS.
+                           Kuulittenko?
+
+CORIOLANUS.
+Kehua: »sen ja sen tein», haavojani
+Eheitä näyttää, joita peittää tulis,
+Ikäänkuin heidän ääntens' ostohinnaks
+Vaan olisin ne saanut!
+
+MENENIUS.
+                       Myöntykää. --
+Tää ehdotus, tribuunit, suvaitkaa
+Esittää rahvaallenne, -- Auvot, arvot
+Osaksi tulkoot jalon konsulimme!
+
+SENAATTORI.
+Niin, Coriolanon olkoon auvot, arvot!
+
+    (Torventoitauksia. Kaikki menevät,
+    paitsi Sicinius ja Brutus.)
+
+BRUTUS.
+Nyt näet, kuink' aikoo kohdella hän kansaa.
+
+SICINIUS.
+Jos vaan se huomais sen! Hän tekee pyyntöns',
+Ikäänkuin halveksis hän, että heidän
+On valta myöntää se.
+
+BRUTUS.
+                     Nyt lähtekäämme,
+Ja kertokaamme heille nämät toimet;
+Torilla varmaan vartovat he meitä.
+
+    (Menevät.)
+
+
+Kolmas kohtaus.
+
+    Forum.
+
+    (Muutamia kansalaisia tulee.)
+
+1 KANSALAINEN.
+Kerrassaan sanottuna, jos hän ääniämme pyytää, niin emme saata niitä
+häneltä kieltää.
+
+2 KANSALAINEN.
+Saatamme kyllä, jos tahdomme.
+
+3 KANSALAINEN.
+Meillä kyllä on valta tehdä se, mutta sitä valtaa ei meillä ole valta
+käyttää; sillä jos hän näyttää meille haavansa ja kertoo meille
+urotyönsä, niin täytyy meidän panna kielemme noihin haavoihin ja puhua
+niiden puolesta; ja jos hän ilmaisee meille jalot työnsä, niin tulee
+meidänkin ilmaista hänelle kiitollisuutemme. Kiittämättömyys on
+hirmuista, ja jos kansa olisi kiittämätön, niin olisi se kansa koko
+hirmu, ja me, sen kansan jäsenet, olisimme siis hirmun jäseniä.
+
+1 KANSALAINEN.
+Eikä paljoa kai puutu, ettei hän sitä meistä ajattele, sillä kun kerran
+teimme kapinan, viljaa saadaksemme, niin hän ei epäillyt sanoa meitä
+monipäiseksi laumaksi.
+
+3 KANSALAINEN.
+Siksi on moni meitä sanonut; ei sen tähden, että päämme ovat, kenen
+ruskea, kenen musta, kenen punainen, kenen kalju, vaan sen tähden, että
+mietteemme ovat niin monenkarvaiset; ja luulen todellakin, että jos
+kaikki meidän mietteemme lähtisivät yhdestä ainoasta kallosta, niin
+lentäisivät ne pohjaan, etelään, itään ja länteen, ja vaikka
+sopisivatkin yhdestä suunnasta, niin pyrkisivät ne kuitenkin yht'aikaa
+kaikkiin ilmaneulan suuntiin.
+
+2 KANSALAINEN.
+Niinkö arvelet? Mitä suuntaa luulet minun mietteeni menevän?
+
+3 KANSALAINEN.
+Niin, sinun mietteesi eivät lähde niin pian kuin muiden; ne ovat liian
+lujasti visakalloon suuditut; vaan jos ne olisivat vapaat, lentäisivät
+ne varmaankin etelään.
+
+2 KANSALAINEN.
+Ja miksi etelään?
+
+3 KANSALAINEN.
+Höyryksi muuttuakseen; mutta jos niistä näin kolme-neljännestä pahaksi
+huuruksi haihtuisikin, niin tunnon vaivoista viimeinen neljännes
+kuitenkin palajaisi takaisin, auttamaan sinua vaimon saantiin.
+
+2 KANSALAINEN.
+Sinulla on aina ne kompasi! Jatka, jatka!
+
+3 KANSALAINEN.
+Oletteko kaikki päättäneet antaa äänenne hänelle? Vaan vähät siitä;
+enemmistö määrää. Mutta sen ma sanon, että jos hän vaan kansaan
+suotuisi, ei olisi toista sen ansiokkaampaa miestä. (Coriolanus ja
+Menenius tulevat.) Tuossa hän tulee, nöyryyden vaippa yllänsä;
+tarkastakaa hänen käytöstään. Meidän ei sovi kaikkien seisoa näin
+yhdessä, vaan lähestykäämme häntä yksi, kaksi tai kolme kerrassaan.
+Hänen tulee pyyntönsä esittää yksityisesti; näin tapahtuu jokaiselle
+meistä se erityinen kunnia, että saamme kukin antaa oman äänemme omalla
+suullamme. Seuratkaa nyt minua, niin näytän teille, kuinka teidän tulee
+häntä lähestyä.
+
+KAIKKI.
+Hyvä, hyvä!
+
+    (Menevät.)
+
+MENENIUS.
+Olette väärässä; niin ovat tehneet
+Mit' arvokkaimmat miehet.
+
+CORIOLANUS.
+                          Mitä sanon?
+Ma pyydän --. Hitto vie! ei moiseen taivu
+Mun kieleni. -- Mun nähkääs haavojani; --
+Isänmaan palveluksessa ne sain,
+Kun moni teistä oman rummun ääntä
+Pakeni mylvien.
+
+MENENIUS.
+                Ei, herran tähden!
+Siit' ei saa virkkaa. Pyytäkää, ett' teitä
+He muistavat.
+
+CORIOLANUS.
+              Mua muistavat! Hiis olkoon!
+Parempi, jos mun unhottaisivat.
+Kuin pappiensa neuvotkin.
+
+MENENIUS.
+                          Näin kaikki
+Te pilaatte. Ma menen nyt. Mut pyydän,
+Puhukaa heille, mutta siivosti. (Menee.)
+
+    (Kaksi kansalaista tulee.)
+
+CORIOLANUS.
+He ruokotkohot suunsa siis ja peskööt
+Silmänsä puhtaaks. -- Tuossa heit' on pari. --
+Syyn tietänette, miksi seison tässä.
+
+1 KANSALAINEN.
+Kyllä sen tiedämme, mutta mikä teidät siihen sai?
+
+CORIOLANUS.
+Oma arvoni.
+
+2 KANSALAINEN.
+Omako arvonne?
+
+CORIOLANUS.
+Niin, eikä oma tahtoni.
+
+1 KANSALAINEN.
+Mitä? Eikö oma tahtonne?
+
+CORIOLANUS.
+Ei, herraseni; en ole koskaan tahtonut köyhältä mitään kerjätä.
+
+1 KANSALAINEN.
+Tietäkää, että jos annamme teille jotakin, niin toivomme teiltä jotakin
+saavamme.
+
+CORIOLANUS.
+No sanokaa siis, mitä maksaa konsulinvirka?
+
+1 KANSALAINEN.
+Ystävällisen pyynnön.
+
+CORIOLANUS.
+Vai ystävällisen! Minä pyydän siis, antakaa se minulle. Minulla on
+haavoja näyttää, mutta kahden kesken vaan. -- Saanko teidän kelpo
+äänenne? Mitä?
+
+2 KANSALAINEN.
+Saatte, kunnon herra.
+
+CORIOLANUS.
+No, kättä siitä! -- Kaksi kelpo ääntä jo kerjäsin. -- Kiitoksia köyhän
+avusta! Hyvästi!
+
+1 KANSALAINEN.
+Mutta tämäpä on kummallista.
+
+2 KANSALAINEN.
+Jos olisi mulla vielä ääneni tallella, -- mut, yhtä kaikki!
+
+    (Menevät.)
+
+    (Toista kaks' kansalaista tulee.)
+
+CORIOLANUS.
+Kuulkaapa! Jos niinkuin sopisi teidän ääntenne nuottiin, että minä
+tulisin konsuliksi, niin on minulla nyt se tavallinen takki ylläni.
+
+3 KANSALAINEN.
+Te olette jalosti ansainnut isänmaanne kiitollisuuden, ettekä ole sitä
+jalosti ansainnut.
+
+CORIOLANUS.
+Arvoitusko tuo?
+
+3 KANSALAINEN.
+Te olette ollut ruoskana sen vihollisille ja vitsana sen ystäville.
+Ette todellakaan ole alhaisia rakastanut.
+
+CORIOLANUS.
+Sitä kunnollisempana minua pitänette, kun en ole alhaiseksi tehnyt
+rakkauttani. No niin, ystäväni, tahdon siis imarrella tuota
+velikultaani, kansaa, saadakseni sen silmissä suuremman arvon.
+Semmoistahan käytöstapaa pidetään hienona. Ja koska se on niin taitava
+valitsemaan, että se pitää lakkiani parempana kuin sydäntäni, niin
+koetan ma harjoitella tuota mielistelevää pään nyökytystä ja osotella
+viekkautta niin paljon kuin mahdollista, se on: tahdon osotella jonkun
+kansanmiehen tenhotemppuja ja oikein tuhlaamalla niitä jaella kaikille
+halullisille. Siis pyydän, ottakaa minut konsuliksi.
+
+4 KANSALAINEN.
+Toivomme, että saamme teistä ystävän, ja annamme teille äänemme
+kaikesta sydämmestä.
+
+3 KANSALAINEN.
+Olette saanut monta haavaa isänmaan palveluksessa.
+
+CORIOLANUS.
+En tahdo tietoanne vahvistaa niitä näyttämällä. Suuriarvoisina pidän
+äänenne, mutta en tahdo kauemmin teitä vaivata.
+
+MOLEMMAT KANSALAISET.
+Jumalat teille iloa suokoot, sitä toivomme sydämestämme!
+
+    (Menevät)
+
+CORIOLANUS.
+Suloiset, armaat äänet!
+Parempi kuolla, nälkään nääntyä,
+Kuin palkkaans' ansaittua kerjätä.
+Täss' seison, yllä tämä suden mekko,
+Ja, kun käy ohi Paavo taikka Pekko,
+Heilt' ääntä halpaa kärtän. Tapaa tää!
+Mut jos näin tapaa seurataan, niin jää
+Pois pyyhkimättä tomut vanhuuden,
+Ja harhaluulot, vuoriks kasvaen,
+Totuuden kaihtavat. Ei, houkkiot
+Ne täten arvovirkaan nouskohot!
+Ei halua mulla. Puolitiessä oisin;
+Jos vielä lopun matkaa kestää voisin!
+    (Kolme kansalaista tulee.)
+Tuoss' ääniä on lisää! -- Äänenne!
+Ääntenne tähden taistelin ja valvoin;
+Kolmatta tusinaa sain haavoja ma
+Ääntenne tähden; kolme kertaa kuusi
+Kahakkaa näin ja kuulin; niitä, näitä
+Ääntenne tähden tein. Siis äänenne!
+Halaisin toden totta konsuliksi.
+
+5 KANSALAINEN.
+Hän on reima mies; ei yksikään kunnon kansalainen saata häneltä
+ääntänsä kieltää.
+
+6 KANSALAINEN.
+Hän siis tulkoon konsuliksi! Jumalat hänelle onnea suokoot ja tehkööt
+hänestä hyvän kansan ystävän!
+
+KAIKKI.
+Amen, amen! -- Jumal' auttakoon
+Sua, jalo konsulimme!
+
+    (Kansalaiset menevät.)
+
+CORIOLANUS.
+                      Kelpo äänet!
+
+    (Menenius, Sicinius ja Brutus tulevat.)
+
+MENENIUS.
+Te määrätyönne teitte. Kansan äänen
+Tribuunit teille suovat. Nyt ei muuta,
+Kuin virkapuku yllenne, ja sitte
+Senaattiin oiti.
+
+CORIOLANUS.
+                 Onko se nyt tehty?
+
+SICINIUS.
+Te tavan vaateet täytitte, ja kansa
+Hyväksyi teidät; vahvistusta varten
+Se heti kohta kokountuu.
+
+CORIOLANUS.
+                         Mihin!
+Senaattiinko?
+
+SICINIUS.
+              Niin, sinne, Coriolanus.
+
+CORIOLANUS.
+Pukua saanko muuttaa?
+
+SICINIUS.
+                      Saatte, herra.
+
+CORIOLANUS.
+Sen heti teenkin; ja kun itseni
+Näin jälleen tunnen, menen senaattiin.
+
+MENENIUS.
+Ma seuraan teitä. --
+    (Tribuuneille.)
+                     Jäättekö te tänne?
+
+BRUTUS.
+Me odotamme kansaa.
+
+SICINIUS.
+                    Hyvästi!
+    (Coriolanus ja Menenius menevät.)
+Se on nyt hänen; mutta katse näyttää
+Kuin veri kiehuis!
+
+BRUTUS.
+                   Ylpein mielin kantoi
+Hän halpaa vaippaa. Päästättekö kansan?
+
+    (Kansalaiset palajavat.)
+
+SICINIUS.
+No, ystävät, tuon miehen valitsitte?
+
+1 KANSALAINEN.
+Niin, äänemme hän sai.
+
+BRUTUS.
+                       Jumala suokoon,
+Ett' ansaitsis hän lempenne!
+
+2 KANSALAINEN.
+                             Niin, amen!
+Mun halvan huomioni mukaan pilkkas
+Hän meitä, kerjätessään ääniämme.
+
+3 KANSALAINEN.
+Niin kyllä, nauroi meitä vasten naamaa.
+
+1 KANSALAINEN.
+Se hänen tapaans' on; ei pilkannut hän.
+
+2 KANSALAINEN.
+Sä yksin sanot, ettei pilkannut hän.
+Ois näyttää hänen tullut ansionsa,
+Isänmaan palvelussa saadut haavat.
+
+SICINIUS.
+Sen teki hän.
+
+KAIKKI.
+              Ei, niit' ei kukaan nähnyt.
+
+3 KANSALAINEN.
+Ne sanoi näyttävänsä kahden kesken;
+Ivalla heilutellen hattuaan,
+»Pyrin konsuliks», hän sanoi, »vanha tapa
+Kai vaatii siihen teidän ääniänne;
+Siis tänne äänenne!» Kun annettiin ne,
+Hän lausui: »Kiitos, äänistänne, -- kiitos, --
+Suloiset äänet! Nyt te saatte mennä,
+Kun äänenne ma sain.» -- Tuo eikö pilkkaa?
+
+SICINIUS.
+Olitte tyhmät, kun sit' ette nähneet,
+Tai, jos sen näitte, lapsellisen heikot,
+Kun hälle soitte äänenne.
+
+BRUTUS.
+                          Miks ette
+Niin vastanneet, kuin teit' ol' opetettu?
+Kun halpa mies hän oli valtiossa
+Ja valtaa vailla, vihasi hän teitä
+Ja vastusteli oikeuksianne
+Ja vapauttanne kansalaisina;
+Nyt valtaan tulleena ja arvovirkaan,
+Jos kansan vihamiehenä hän pysyy
+Yht' ilkeenä, niin teille kiroukseksi
+On äänenne. Miks' ette sanoneet:
+Sen palkan urostöistään, minkä vaatii,
+Hän ansaitsee, mut jalomielisesti
+Teit' äänistänne myöskin muistakoon, ja
+Vihansa lemmeks muuttain, teille olkoon
+Hän hellä herra.
+
+SICINIUS.
+                 Näin jos olisitte
+Sanoneet, niinkuin neuvottiin, niin ois se
+Sydäntä koitellut ja miehen mieltä;
+Lupaukset oivat olisitte saaneet,
+Joit' olis, sattuessa, voinut käyttää;
+Tai ainakin ois miehen tuima luonto
+Siit' ärtynyt, -- se jok' ei kärsi vastust'
+Ei pienimpää; -- näin hänen raivostansa
+Te olisitte saaneet syytä kieltää
+Äänenne hältä.
+
+BRUTUS.
+               Näittekö te, kuinka
+Hän julki-ylenkatseell' ääniänne
+Pyys tarvitessaan, ja nyt luulettenko,
+Ettei tuo ylenkatse teitä ruhjo,
+Kun valtaan pääsee hän? Kuin? Eikö teissä
+Sydäntä ollut? Järkeäkö vastaan
+Porata piti kielenne!
+
+SICINIUS.
+                      Te kiellon
+Olette muille antaneet, ja nyt,
+Hänelle, jok' ei pyytänyt, vaan pilkkas,
+Äänenne lahjoititte.
+
+3 KANSALAINEN.
+                     Vahvistettu
+Ei ole vaali; vielä voimme kieltää.
+
+2 KANSALAINEN.
+Ja tahdommekin kieltää.
+Viissataa äänt' on mulla varmaa.
+
+1 KANSALAINEN.
+                                 Mulla
+Tuhannen on, ja niiden ystävät.
+
+BRUTUS.
+Pois joutuun, sano noille ystäville:
+Valinneet ovat konsulin, jok' ottaa
+Vapaudet heiltä, eikä heille ääntä
+Suo enempää kuin koiralle, jot' aina
+Vaan lyödään, joko haukkuu tai on vaiti.
+
+SICINIUS.
+Ne ko'otkaa ja täydemmällä järjell'
+Epuuttakaa tuo tyhmä vaali oiti.
+Penätkää yhä hänen ylpeyttään ja
+Vihaansa vanhaa teihin; muistakaa,
+Mill' ivalla hän halpaa vaippaa kantoi
+Ja kuinka kärttäissään hän teitä ilkkui.
+Vain rakkaus, muistain hänen töitään, teitä
+Näkemäst' esti hänen käytöstänsä,
+Jok' ivallisimman sai pilkan muodon
+Vihasta perin juurtuneesta.
+
+BRUTUS.
+                            Meitä,
+Tribuuneja, vaan syyttäkää: me teitä --
+Väitteistä huolimatta -- pakotimme
+Valitsemahan hänet.
+
+SICINIUS.
+                    Sanokaa,
+Ett' enemmän sen käskystämme teitte
+Kuin omast' ehdostanne; että teissä
+Velvollisuuden voitti täytymys,
+Pakottain teitä vastoin tahtoanne
+Valitsemahan hänet konsuliksi.
+Niin, meitä syyttäkää.
+
+BRUTUS.
+                       Ja säälimättä.
+Sanokaa, että teille saarnasimme
+Kuink' alkoi nuorna palvella hän maataan,
+Kuink' yhä sitä jatkoi; ett' on juurta
+Hän suurten Marcioiden, samaa, jota
+Ol' Ancus Marcius, Numan lapsenlapsi
+Ja suuren Hostilion jälkeläinen;
+Ja samaa, jota Publius ja Quintus,
+Jotk' oivaa vettä tänne johtivat.
+Myös Censorinus, -- siksi nimitetty,
+Kun kahdest' oli censorina, hänen
+Es'-isiään on.
+
+SICILIUS.
+               Moisen suurisynnyn,
+Jok' omillakin töillään ansainnut on
+Ylevän arvon, teidän suosioonne
+Me suljimme. Mut miehen nykykäytöst'
+Entuuteen verraten, te näitte, ett' on
+Vihollisenne hän, ja pyörrytitte
+Pikaisen myöntymyksenne.
+
+BRUTUS.
+                         Ja että
+Sen teitte meidän vaatimuksestamme.
+(Tuot' yhä jauhakaa!) Ja heti kun te
+Olette koonneet joukkonne, niin tulkaa
+Pois Capitoliin.
+
+KAIKKI.
+                 Kyllä. Melkein kaikki
+Katuvat suostumustaan.
+
+    (Kansalaiset menevät.)
+
+BRUTUS.
+                       Menkööt vaan he!
+Parempi kapinaa nyt uskaltaa
+Kuin suurempata varmast' odottaa.
+Luonteensa tapaan heidän kiellostansa
+Jos raivostuu hän, tuota käyttäkäämme
+Visusti hyödyksemme.
+
+SICINIUS.
+                     Capitoliin!
+Olkaamme siellä ennen kansan tulvaa;
+Näin näyttää tää, niinkuin se osaks onkin,
+Vaan heidän työltään vaikka syy on meidän.
+
+                                (Menevät.)
+
+
+
+
+KOLMAS NÄYTÖS.
+
+
+Ensimmäinen kohtaus.
+
+    Rooma. Katu.
+
+    (Torventoitauksia. Coriolanus, Menenius, Cominius,
+    Titus Lartius, senaattoreja ja patriiseja tulee.)
+
+CORIOLANUS.
+Aufidius uudestaan siis sotaan hankkii?
+
+LARTIUS.
+Niin hankkii; ja se syynä, miks niin joutuun
+Me rauhan teimme.
+
+CORIOLANUS.
+                  Volskilaiset ovat
+Siis, niinkuin ennen, valmiit, kun vaan sopii,
+Päällemme karkaamaan.
+
+COMINIUS.
+                      Niin väsyneet he
+Nyt ovat, että tuskin enää näemme
+Me heidän lippujensa liehuvan.
+
+CORIOLANUS.
+Aufidion näittekö?
+
+LARTIUS.
+                   Hän turvakirjall'
+Oli luonani; maanmiehiään hän kiros,
+Kun meille kaupungin niin raukkamaisest'
+Olivat myyneet; Antiumiin hän palas.
+
+CORIOLANUS.
+Puhuiko minusta hän?
+
+LARTIUS.
+                     Puhui.
+
+CORIOLANUS.
+                             Mitä?
+
+LARTIUS.
+Ett' usein, miekka vasten miekkaa, teidät
+Hän kohtas; ettei mitään hän niin vihaa
+Kun teitä; että omansa hän kaikki
+Pois panttais, korvausta toivomatta,
+Kun vaan sais teidän voittajanne olla.
+
+CORIOLANUS.
+Hän Antiumiss' asuu?
+
+LARTIUS.
+                     Antiumissa.
+
+CORIOLANUS.
+Oi, kunpa sinne rientää sais, ja vihan
+Vihalla kostaa! -- Tervetulleet kotiin!
+    (Sicinius ja Brutus tulevat.)
+Kas, tuossahan tribuunitkin, nuo kielet
+Tuon suuren yhteissuun! Heit' ylenkatson;
+Enemmän vallastaan he pöyhkeilevät.
+Kuin aatelisto sietää voi.
+
+SICINIUS.
+                           Seis!
+
+CORIOLANUS.
+                                 Mitä?
+
+BRUTUS.
+Edemmäks ei! Se voisi vaaraks olla.
+
+CORIOLANUS.
+Mut mistä tämä muutos?
+
+MENENIUS.
+                       Mikä on?
+
+COMINIUS.
+Hänt' aatel' eikö valinnut ja kansa?
+
+BRUTUS.
+Ei, Cominius.
+
+CORIOLANUS.
+              Siis sain lasten äänet?
+
+1 SENAATTORI.
+Tribuunit, syrjään! Forumiin on matka.
+
+BRUTUS.
+Hänehen raivoissaan on kansa.
+
+SICINIUS.
+                              Seis,
+Tai syntyy melske.
+
+CORIOLANUS.
+                   Karjanneko tuo on? --
+Ja ääniäkö tuolla? Tänään myöntää.
+Huomenna kieltää. Kuinka teette työnne?
+Olette suu, miks ette hampait' ohjaa?
+Te kai sit' ärsytitte?
+
+MENENIUS.
+                       Hiljaa, hiljaa!
+
+CORIOLANUS.
+Tää kauan haudottu on salahanke
+Tuhoksi aatelin. Nyt moisen kanssa
+Elä ja kärsi, jok' ei hallit' osaa,
+Eik' itseänsä hallittavan tahdo.
+
+BRUTUS.
+Ei salahanke; kansa huutaa teidän
+Ivanneen sitä, ja kun äsken viljaa
+Jaettiin ilmaiseksi, suutuitten te
+Ja kansan puoltajia soimasitte,
+Sanoen lieruiksi ja ryömijöiksi
+Ja aateliston vihamiehiks heitä.
+
+CORIOLANUS.
+No tuttuahan tuo.
+
+BRUTUS.
+                  Ei kaikille.
+
+CORIOLANUS.
+Olette kai siis opettanut heitä?
+
+BRUTUS.
+Minäkö opettanut?
+
+COMINIUS.
+                  Moinen toimi
+Sopisi teille.
+
+BRUTUS.
+               Niin maar; aina saamme
+Parantaa jälkiänne.
+
+CORIOLANUS.
+                    Miks siis teitte
+Mun konsuliksi? Kautta pilven tuolla,
+Paremmaks teit' en pyri; tribuuniks siis
+Minutkin tehkää.
+
+SICINIUS.
+                 Liiaks teiss' on sitä,
+Jost' yltyy kansa. Määrän päähän jos te
+Halaatte päästä, nöyremmällä miellä
+Kyselkää tietä, jolta eksyitte,
+Ei muuten konsuliksi pyrkimistä,
+Ei, eikä tribuuniksi.
+
+MENENIUS.
+                      Tyyni olkaa.
+
+COMINIUS.
+Petetty kansaa on. -- Pois! Moinen vilppi
+Ei sovi Roomallen; ei Coriolanus
+Ansainnut maineens' ole valtatielle
+Noin kurjan halpaa loukkauskiveä.
+
+CORIOLANUS.
+Minulle puhuu viljasta! Sen sanoin.
+Ja vielä kerran sanon sen.
+
+MENENIUS.
+                           Nyt älkää!
+
+I SENAATTORI.
+Niin, älkää nyt, noin suuttuneena!
+
+CORIOLANUS.
+                                   Nyt,
+Niin totta kuin ma elän! -- Suokaa anteeks,
+Mun aateliset ystäväni! --
+Tuo horjuva, likainen lauma tietköön,
+Mik' olen, kun en liehakoi, ja siinä
+Kuvansa nähköön. Heitä hemmotellen,
+Sen sanon, senaatille kasvatamme
+Kapinan, uhkan lauhaa, jonka itse
+Me kylvimme ja istutimme, heitä
+Kun meihin sekoitimme, ylimyksiin,
+Joilt' ei muu kunto eikä voima puutu,
+Kuin minkä lahjoitimme kerjureille.
+
+MENENIUS.
+Jo riittää!
+
+1 SENAATTORI.
+            Kuulkaa, riittää jo!
+
+CORIOLANUS.
+                                  Vai riittää?
+Niinkuin ma maani hyväks' veren' annoin,
+Pelkäämätt ulkovaltaa, samoin kielen'
+Uuvuksiin asti sanojansa purkaa
+Rupihin noihin, joita kammoksumme,
+Vaikk' yhä niiden saastaa etsimme.
+
+BRUTUS.
+Puhutte kansasta, kuin olisitte
+Te rankaiseva jumal', ettekä
+Vain ihminen ja heikko niinkuin muutkin.
+
+SICINIUS.
+Tuo meidän pitäis saattaa kansan tietoon.
+
+MENENIUS.
+Mitä, mitä? Hänen vihansako?
+
+CORIOLANUS.
+                             Viha?
+Vaikk' oisin vieno niinkuin kesk'yön uni,
+Se mielen' olis, kautta Zeun!
+
+SICINIUS.
+                              Tuon mielen
+Alallaan täytyy, niinkuin myrkyn, olla
+Eik' enään muita myrkyttää.
+
+CORIOLANUS.
+                            Vai täytyy!
+Kas, alvehaltijaa! Tuo röyhkä, kuulkaas,
+Hän sanoi: »Täytyy»!
+
+COMINIUS.
+                     Laitont' on se.
+
+CORIOLANUS.
+                                     »Täytyy!»
+Te hyvät, mutta typerät patriisit,
+Te arvoisat, mut veltot senaattorit,
+Valita saako hydra käskyläisen,
+Jok' uhkaa, »täytyy»-sanallaan, ja vaikk' on
+Tuon epäluoman räikkä vaan ja torvi,
+Sanoa kehtaa, että ojaks muuttaa
+Hän virtanne ja itse valtaa uoman?
+Jos häll' on valta, nöyrtykää, te pöllöt,
+Jos ei, niin pois tuo vaarallinen suopeus!
+Jos mieltä teissä on, niin rahvaan narrej'
+Älkäätte olko; vaan jos ei, niin heille
+Viereenne tila tehkää. Plebeijejä
+Te olette, jos he senaattoreit' on;
+Eik' olekaan he vähempää, jos seos,
+Kun äänet yhteen pannaan, maistuu heiltä.
+He virkakuntans' itse valitsevat.
+Ja siihen miehen, joka tiuskaa: »täytyy»,
+Tuo tomppeli, niin: »täytyy» neuvostolle,
+Jot' arvokkaampaa Kreikanmaa ei nähnyt.
+Se konsuleita loukkaa, kautta Zeun,
+Ja sielun' oihkaa, nähdessänsä, kuinka
+Kaks voimaa kiistää, toistaan voittamatta,
+Mut äkin silloin turma väliin tunkee
+Ja toisen kautta toisen kukistaa.
+
+COMINIUS.
+No niin, -- nyt Forumiin!
+
+CORIOLANUS.
+                          Jos kuka neuvoi
+Jakamaan lahjaks viljaa varastosta,
+Niinkuin ol' ennen tapa Kreikassa, --
+
+MENENIUS.
+No niin, jo riittää!
+
+CORIOLANUS.
+                     -- vaikka kansan valta
+Siell' oli laajempi, -- hän, sanon minä,
+Kapinan kasvatti ja valtiolle
+Häviön siitti.
+
+BRUTUS.
+               Voiko kansan äänet
+Se saada, ken noin puhuu?
+
+CORIOLANUS.
+                          Sanon syyni,
+Jok' arvokkaamp' on teidän ääniänne.
+He tiesit, ettei palkkaa vilja ollut,
+Sit' ei he ansainneetkaan. Sotaan heitä
+Kun vaadittiin, maa henkeään kun poti,
+Ei portist' ulos menneet: viljalahjaa
+Ei moinen sotatoimi ansainnut.
+Sodassa sitten kapinat ja vehkeet
+(Niiss' uljuutt' oikein näyttivät) ei hyvää
+Todista heistä. Syytökset, joit' ovat
+He suotta tehneet senaattia vastaan,
+Näin auliiseen ei lahjaan aihett' anna.
+Ja kuinka sulattaa tuo sekamaha
+Senaatin hyvyyden? Sen työt jo näyttää
+Mit' on sen kielellä: -- »Me vaadimme sen;
+Olemme enemmistö; pelvost' aivan
+He myöntävät.» -- Näin virastomme arvon
+Alennamme, ja roskakansa sanoo
+Peloksi huoltamme. Tuo pian murtaa
+Senaatin aituuksen ja päästää kaarneet
+Kynimään kotkia. --
+
+MENENIUS.
+                     Jo tuoss' on kyllä.
+
+BRUTUS.
+Niin, yltä kyllä.
+
+CORIOLANUS.
+                  Ei, mua kuulkaa vielä:
+Maan, taivaan, kaiken vannottavan kautta
+Puheeni vahvistan! -- Tän kaksoisvallan, --
+Min toinen osa syyst' on ylväs, toinen
+Kopeilee syyttä vaan; miss' arvo, jalous, viisaus
+Ei mitään päättää voi, jos tyhmä rahvas
+Ei siihen sano niin tai ei, -- sen täytyy
+Tositarpeet syrjätä ja turhuuksille
+Avata tie. Jos kumotaan näin järki,
+Jää järjettömäks kaikki. Siis, ma pyydän, --
+Ken teist' on viisas enemmän kuin arka;
+Ken suosii vankkaa valtiot' enemmän,
+Kuin muunnoksia kammoo; kelle rakkaamp'
+On jalo elämä kuin pitkä ikä;
+Ken ruumiins' antaa tuiman lääkkeen valtaan,
+Kun henki vaarass' on, -- pois temmatkoon se
+Tuon monipäisen kielen: makeit' ei se
+Saa maistella, ne myrkkyä on sille.
+Häväistyksenne rampaa terveen järjen
+Ja valtiolt' elin-eheyden riistää;
+Hyvääkään, mitä sois, ei voi se tehdä,
+Sit' estää pahuus.
+
+BRUTUS.
+                   Kylliks olen kuullut.
+
+SICINIUS.
+Hän puhunut on niinkuin petturi,
+Ja petturina vastatkoon hän.
+
+CORIOLANUS.
+                             Raukka!
+Rusentakoon sun herja! -- Kansaa mitä
+Nuo kaljupäät tribuunit hyödyttävät?
+Se heitä tottelee ja epää kuulla
+Ylempää esivaltaa. Kapinassa
+He valittiin, kun oli väkivalta
+Eik' oikeus lakina; -- nyt paremp' aik' on,
+Nyt oikeudeksi tehkää mik' on oikeus,
+Ja noiden valta kukistakaa maahan!
+
+BRUTUS.
+Maanpetturi!
+
+SICINIUS.
+             Tuo konsuliksi? Ei!
+
+BRUTUS.
+Aediilit, hoi! -- Tuo mies on vangittava.
+
+    (Aediili tuke.)
+
+SICINIUS.
+Mene, kansa tuo! --
+    (Aediili menee.)
+                    Sen nimessä nyt itse
+Maanpetturina sun ja yhteiskunnan
+Vihollisena vangit.
+
+SENAATTORI.
+                    Mua seuraa,
+Ja työstäs tili tee!
+
+CORIOLANUS.
+                     Pois, vanha pukki!
+
+SENAATTORI.
+Me hänet takaamme.
+
+COMINIUS.
+                   Pois kätes, vanhus!
+
+CORIOLANUS.
+Pois, mätäkontti! Muuten luusi maalle
+Pudistan vaatteistas!
+
+SICINIUS.
+Avuksi, miehet!
+
+    (Aediili palajaa kumppaneineen, ja joukko kansalaisia mukana.)
+
+MENENIUS.
+Molemmin puolin siivoutt' enemmän!
+
+SICINIUS.
+Tuo teiltä tahtoo kaiken vallan riistää.
+
+BRUTUS.
+Aediilit, kiinni häneen!
+
+KANSALAINEN.
+                         Kuolkoon, kuolkoon!
+
+2 SENAATTORI.
+Aseita tänne, aseit', aseita!
+    (Kaikki hyörivät Coriolanon ympärillä.)
+Tribuunit, porvarit, patriisit! -- hiljaa!
+Sicinius, Brutus, Coriolanus, seis!
+
+KANSALAINEN.
+Vait, vaiti! Hiljaa! Odottakaa! Seis!
+
+MENENIUS.
+Mitäpä tästä tulee? -- Hengästyn jo;
+Nyt perii tuho. -- Puhua en voi ma. --
+Tribuunit, kansalle, -- vait, Coriolanus! --
+Sicinius hyvä, puhu!
+
+SICINIUS.
+                     Kuulkaa, kansa!
+
+KANSALAINEN.
+Tribuuni puhuu! -- Hiljaa! -- Puhu, puhu!
+
+SICINIUS.
+Vapautenne on menemäisillään:
+Teilt' ottaa Marcius kaikki tahtoo, Marcius,
+Jonk' äsken teitte konsuliks.
+
+MENENIUS.
+                              Hyi, hyi!
+Tuo kiihotust' on, eikä sammutusta.
+
+1 SENAATTORI.
+Näin maata myöten Rooman hävitätte.
+
+SICINIUS.
+Mit' ompi Rooma muuta kuin sen kansa?
+
+KANSALAINEN.
+Niin, kansa se on Rooma.
+
+BRUTUS.
+                         Yksin mielin
+Me kansan esivallaks valittiin.
+
+KANSALAINEN.
+Ja siksi jäättekin.
+
+MENENIUS.
+                    Niin, siltä näyttää.
+
+COMINIUS.
+Näin Rooman hävitätte maata myöten;
+Perustuksiinsa romahtaa sen katto,
+Ja kunto, arvo, kaikki soraan peittyy
+Ja raunioihin.
+
+SICINIUS.
+               Surman ansaitsee hän.
+
+BRUTUS.
+Nyt joko säilytämme valtamme.
+Tai menetämme sen. -- Siis julki tuomme,
+Nimessä kansan, jonka valtamiehiks
+Olemme valitut, ett' äkkisurman
+Ansaitsee Marcius.
+
+SICINIUS.
+                   Kiinni mieheen! Viekää
+Tarpeijin töyrälle hän; sieltä syöskää
+Syvyyteen hän.
+
+BRUTUS.
+               Aediilit, käykää kiinni!
+
+KANSALAINEN.
+Nyt antau, Marcius, antau!
+
+MENENIUS.
+                           Sana kuulkaa;
+Tribuunit, rukoilen, vaan yksi sana!
+
+AEDIILI.
+Vait! Hiljaa!
+
+MENENIUS.
+              Miltä näytätte, se olkaa:
+Isänmaan tosi-ystävät, ja maltill'
+Edistäkäätte mitä väkivallall'
+Aloitte parantaa.
+
+BRUTUS.
+                  Tuo kylmä haude,
+Vaikk' auttavan se näyttää, myrkyllist' on
+Tuliseen tautiin. -- Kiinni vaan, ja viekää
+Töyrälle hän!
+
+CORIOLANUS.
+              Ei, tässä tahdon kuolla.
+    (Paljastaa miekkansa.)
+Mun moni teist' on taistelevan nähnyt;
+Nyt saatte itse koittaa mitä näitte.
+
+MENENIUS.
+Pois miekka tuo! -- Tribuunit, syrjään käykää!
+
+BRUTUS.
+Kiinn' ottakaa hän!
+
+MENENIUS.
+                    Marciot' auttakaatte,
+Patriisit, vanhat, nuoret, auttakaa!
+
+KANSALAINEN.
+Ei, surma hälle, surma hälle!
+
+    (Käsikähmässä, joka tästä syntyy, ajetaan tribuunit,
+    aediilit ja kansalaiset tiehensä.)
+
+MENENIUS.
+Kotiinne nyt, ja joutuun! Kaikki muuten
+Hukassa on.
+
+2 SENAATTORI.
+            Pois, pois!
+
+COMINIUS.
+                        Seis! Yhtä monta
+On meillä ystävää kuin vihamiestä.
+
+MENENIUS.
+Tuleeko niiks?
+
+1 SENAATTORI.
+               Ei, herra varjelkoon!
+Pois kotiis, ystävä, ja meidän anna
+Parantaa vamma tää.
+
+MENENIUS.
+                    Se meiss' on haava:
+Parantaa ette itseänne voi;
+Siis menkää!
+
+COMINIUS.
+             Tulkaa, meitä seuratkaa!
+
+CORIOLANUS.
+Barbaareiks soisin heidät, joita ovat
+He myöskin, vaikka Rooman penikoita,
+En roomalaisiksi, joit' eivät ole,
+Vaikk' ovat Capitolin luona saadut.
+
+MENENIUS.
+Pois vaan, ja jalo harminne te nielkää;
+Aik' aikaa kutakin.
+
+CORIOLANUS.
+                    Ma nutistaisin
+Kedolla heitä neljinkymmenin.
+
+MENENIUS.
+Ja minä pari heidän parhaimmistaan,
+Niin, vaikkapa nuo heidän tribuuninsa.
+
+COMINIUS.
+Mut arvaamaton täss' on ylivoima,
+Ja miehuus hulluutt' on, jos vastustaa se
+Kukistuvata huonetta. -- Pois tulkaa,
+Ennenkuin palajaa tuo roskalauma;
+Tukitun virran lailla nyt se raivoo
+Ja kaataa mitä nöyräst' ennen kantoi.
+
+MENENIUS.
+Ma pyydän, menkää. Koitan niitä auttaa
+Mun vanha älyni heissä, joissa sit' on
+Niin niukalta. Tää paikattava tilkoill'
+On kaiken värisillä.
+
+COMINIUS.
+                     Pois nyt tulkaa!
+
+    (Coriolanus. Cominius ja muita lähtee.)
+
+1 PATRIISI.
+Pilannut tuo on onnensa.
+
+MENENIUS.
+                         Ei luonteet
+Noin jalot maailmassa menesty.
+Neptunon kolmihaaraa mairitella
+Ei vois hän, eikä Zeunkaan ukkosvoimaa.
+Sydän häll' on suussa: mitä povi tuntee,
+Tuo ilmi kieli; vihass' unhottaa hän,
+Ett' on hän koskaan kuolon nimen kuullut.
+    (Melua ulkoa.)
+Haa, hauska melu!
+
+2 PATRIISI.
+                  Oi, jos vuoteessansa
+He olisivat!
+
+MENENIUS.
+             Vaikka Tiberissä! --
+Miks kauniist' ei hän heitä puhutellut,
+Sen vietävä?
+
+    (Brutus ja Sicinius palajavat roistoväen kanssa.)
+
+SICINIUS.
+Miss' on se kyy, jok' aikoo
+Hävittää Rooman asukkaat ja itse
+Kaikk' kaikess' olla?
+
+MENENIUS.
+                      Arvoisat tribuunit, --
+
+SICINIUS.
+Tarpeijin töyrält' alas säälimättä
+Hän syöstäköön! Ei huolinut hän laista,
+Siis tutkimatta laki hänet jättää
+Nyt rahvaan koviin kouriin, joita katsoi
+Niin halvaks hän.
+
+1 KANSALAINEN.
+                  Hän nähdä saa, ett' ovat
+Tribuunit kansan suu, ja me sen kädet.
+
+KANSALAINEN.
+Niin kyllä.
+
+MENENIUS.
+            Hyvät herrat, --
+
+SICINIUS.
+                              Vaiti!
+
+MENENIUS.
+                                     »Murhaa»
+Älkäätte huutako, kun paikallansa
+On kohtu ajo.
+
+SICINIUS.
+              Mistä syystä pakoon
+Hänt' autoitte?
+
+MENENIUS.
+                Mua kuulkaa! -- Niinkuin avut,
+Niin konsulin ma viat myöskin tunnen. --
+
+SICINIUS.
+Kuin? Konsulin? -- Kenenkä konsulin?
+
+MENENIUS.
+Coriolanon.
+
+BRUTUS.
+            Hänkö konsuli!
+
+KANSALAINEN.
+Ei, ei, ei, ei, ei!
+
+MENENIUS.
+Tribuunit, ja te, rakas kansa, jos te
+Mun sallitte, niin puhun sanaa pari;
+Ne teille muut' ei haittaa tuo kuin vähän
+Vaan ajan hukkaa.
+
+SICINIUS.
+                  Puhukaa, mut joutuun.
+Olemme, nähkääs, päättänehet poistaa
+Tuon kyisen petturin. Maanpakoon ajo
+On vaaraks vaan; ja varman surman saamme,
+Jos tänne jää hän. Siis, hän heti kuolkoon,
+Se päätös on.
+
+MENENIUS.
+              Jumala varjele,
+Ett' ylväs Rooma, jonka kiitollisuus
+Jaloja lapsiansa kohtaan kirjoiss'
+On itse Zeun, nyt niinkuin julma äiti
+Söis oman sikiönsä!
+
+SICINIUS.
+                    Vamma on hän,
+Ja pois siis leikattava.
+
+MENENIUS.
+                         Jäsen on hän.
+Jok' on vaan vamman saanut; kuolon tuo se,
+Jos leikkaat sen, mut auttaa sit' on helppo.
+Mit' on hän Rooman tehnyt, josta kuolon
+Hän ansaitsis? Sen viholliset lyönyt!
+Verensä, jonka vuodatti (sit' useemp'
+On unssi, vannon sen, kuin mitä hälle
+Jälelle jäi), hän maalleen soi; jos maa nyt
+Tän jäännöksenkin vie, niin meihin, jotka
+Sen teemme ja sen sallimme, se painaa
+Ikuisen tahranmerkin.
+
+SICINIUS.
+                      Mieletöntä!
+
+BRUTUS.
+Niin, hulluutt aivan! Kun hän maataan lempi.
+Se häntä kunnioi.
+
+MENENIUS.
+                  Kun syöpä tullut
+On jalkaan, jost' on hyöty meille ollut,
+Koht' unhotammeko --
+
+BRUTUS.
+                     Vait siinä! -- Hänen
+Kotiinsa murtakaa, pois raastakaa hän,
+Ett'ei tuo rutto tartunnaistaan pääse
+Levittämään.
+
+MENENIUS.
+             Yks sana vaan, yks sana!
+Nopea tiiker'-raivo tuo kun katuu
+Hätäistä kiirettään, sen liian myöhä
+Sitoa nilkkoihin on lyijypainot.
+Lain mukaan menetelkää; muuten syntyy --
+Kosk' on hän rakastettu -- puolueita,
+Ja suuren Rooman tuhoo Rooman miehet.
+
+BRUTUS.
+Jos niin ois, --
+
+SICINIUS.
+                 Mitä siinä rupatatte?
+Lakia kuinka kuulee hän, sen näimme:
+Aediiliä löi hän, meitä uhkas. -- Tulkaa!
+
+MENENIUS.
+Sodassa -- muistakaa -- hän kasvanut on
+Siit' asti kuin hän miekkaa jaksoi kantaa.
+Ei sanojaan hän seulo: jauhot, liidet
+Sekaisin hämmentää hän. Minun suokaa
+Hänt' etsiä; ma takaan, että saapuu
+Sovussa laillisesti vastaamaan hän
+Uhalla hengen.
+
+1 SENAATTORI.
+               Arvoisat tribuunit,
+Se keino ihmismäinen on; tuo toinen
+Verinen olis liiaks; eikä tiedä,
+Mik' olis loppu.
+
+SICINIUS.
+                 Arvoisa Menenius,
+Te olette siis kansan valtuutettu. --
+Pois aseet, miehet!
+
+BRUTUS.
+                    Kotiin älkää menkö.
+
+SICINIUS.
+Torilla tavataan. -- Siell' odotamme;
+Jos Marciot' ette sinne tuo, niin toimeen
+Panemme alku tuuman.
+
+MENENIUS.
+                     Hänet tuon ma. --
+    (Senaattoreille.)
+Mukahan käykää! Tulla hänen täytyy,
+Pahinta muuten tulee.
+
+1 SENAATTORI.
+                      Lähtekäämme.
+
+    (Menevät.)
+
+
+Töine kohtaus.
+
+    Huone Coriolanon talossa.
+
+    (Coriolanus ja muutamia patriiseja tulee.)
+
+CORIOLANUS.
+Kaikk' ahtakoot he korvihini; teilill'
+Uhatkoot surmata, tai villihevon
+Jalkoihin syöstä, tai Tarpeijin töyrään
+Pinotkoot kymmenittäin kukkuloita,
+Niin että jyrkkyys silmänkantamaakin
+Syvempi ois, -- en heitä kohtaan muuta
+Ma mieltäni.
+
+1 PATRIISI.
+             Sit' ylevämpi teko!
+
+CORIOLANUS.
+On ihme, ettei minuun tyydy äiti,
+Jok' aina heitä ryysymekoiks sätti,
+Retuiksi, joill' on nurkkakauppa työnä,
+Ja seisominen torill' avopäin,
+Töllistäin, haukottain ja kummastellen,
+Jos mies mun kaltaiseni puheeks ottaa
+Sodan tai rauhan.
+    (Volumnia tulee.)
+                  Teistä juuri puhuin.
+Kesyksi toivotte mun! Luontoniko
+Mun pitäis kieltää? Paremp' olla julki
+Se mies, mik' olen.
+
+VOLUMNIA.
+                    Poikani! Mun poikani!
+Olisit toki valtaas pukeunut,
+Ennenkuin noin sen heitit pois.
+
+CORIOLANUS.
+                                 Se menköön!
+
+VOLUMNIA.
+Vähemmälläkin kiihkoll' oisit ollut
+Se mies, mik' olet; vastustettu olis
+Vähemmän mieltäs, jos et olis heille
+Noin julki näyttänyt, mit' olit mieltä,
+Ennenkuin heiltä vastusvoima uupui.
+
+CORIOLANUS.
+He kaikki menkööt hirteen!
+
+VOLUMNIA.
+                           Vaikka tuleen!
+
+    (Menenius ja senaattoreja tulee.)
+
+MENENIUS.
+Kas niin, olitte tyly, liian tyly;
+Pois korjaamaan se käykää.
+
+1 SENAATTORI.
+                           Muu ei auta:
+Hajoopi muuten kahtia ja hukkuu
+Tää hyvä kaupunkimme.
+
+VOLUMNIA.
+                      Neuvoon se
+Mull' yhtä jäykkä sydän on kuin sulla.
+Mut myöskin aju, joka hyödyks kääntää
+Vihani puuskat.
+
+MENENIUS.
+                Oikein, jalo rouva!
+Ennenkuin hän tuon karjan eteen nöyrtyis, --
+Jos moist' ei maan ja kansan lääkkeeks vaatis
+Tää sairas aika, -- yllen' ottaisin ma
+Sopani, jota kantaa tuskin jaksan.
+
+CORIOLANUS.
+Mun mitä tulee tehdä?
+
+MENENIUS.
+                      Palata
+Tribuunein luo.
+
+CORIOLANUS.
+                Ja sitten? Mitä sitten?
+
+MENENIUS.
+Katua mitä puhuit.
+
+CORIOLANUS.
+                   Heidän kuullen?
+Jumalten kuullen sit' en tekis; kuinka
+Siis heidän kuullen?
+
+VOLUMNIA.
+                     Liiaks olet ylväs;
+Siin' et voi koskaan liian jalo olla.
+Mut täytymys kun käskee --. Sanoit kerran
+Ett' ovat helma-ystäviä sodass'
+Äly ja kunnia; no niin, mut sano,
+Mik' estää heitä rauhass' yhtymästä?
+
+CORIOLANUS.
+Pah, joutavia!
+
+MENENIUS.
+               Oiva kysymys!
+
+VOLUMNIA.
+Jos kunniaks on sodass' olla muuna
+Kuin mitä olet (hyviin tarkoituksiin
+Kun tätä juonta käytät), pahempaako,
+Jos äly rauhassakin, niinkuin sodass',
+On kunnian ystävä, kosk' yht' on tarpeen
+Se kummassakin?
+
+CORIOLANUS.
+                Vaan miks tuota?
+
+VOLUMNIA.
+                                 Siksi
+Ett' on sun kansalle nyt puhuminen,
+Ei omaa mieltäs myöten, eikä mitä
+Sydämmes suo, mut sanoja vaan, joita
+Tuo sylki suuhun, sekasikiötä,
+Loruja, jotk' on vieraat sydämmelles.
+Ja kunniaas se enemmän ei pilaa,
+Kuin kaupungin jos hyvin puhein voitat.
+Sen sijaan että onnes altistaisit
+Ja paljon verta kaupan panisit. --
+Jos etuni ja ystäväini vaara
+Sen vaatis, saattaisin ma teeskennellä,
+Ja kunniallakin. Nyt vaimos, lapses.
+Senaatin, aatelin on vaarass' onni;
+Ja mieluump' on sun noille tomppeleille
+Rypistää otsaasi, kuin suosiota
+Suun hymyll' ostaa heiltä ja näin estää
+Häviö varma.
+
+MENENIUS.
+             Jalo rouva! -- Tule,
+Puhu kauniisti, ei sillä torjuakses
+Nykyistä vaaraa, ei, vaan pelastaakses
+Jo menetetyt.
+
+VOLUMNIA.
+              Poikani, ma pyydän,
+Lähesty lakki kädessä, ja kaukaa
+Kuroita sitä näin, ja lähetessäs
+Katuhun paina polves (näissä toimiss'
+Elehet puhuvat, ja tyhmän silm' on
+Viisaampi korvaa), huojuttele päätäs,
+Ja usein, näin, kurittain korskaa mieltäs,
+Kumarru niinkuin kypsä silkkiäismarja,
+Mi koskemist' ei siedä; sano heille,
+Ett' olet heidän sotilaansa, että
+Sodassa kasvaneen' et osaa olla,
+Se myönnä pois, niin nöyrä kuin sun tulis
+Ja jota armons'-anojilta syystä
+He vaativat; vaan että heidän mieltään
+Vast'edes tahdot noudattaa, niin totta
+Kuin voimas riittää.
+
+MENENIUS.
+                     Ihan noin jos puhut,
+Niin voitat kaikkein sydämmet; kun pyydät,
+He anteeks antamaan on yhtä valmiit
+Kuin tyhjää juorumahan.
+
+VOLUMNIA.
+                        Neuvoon suostu;
+Vaikk' arvaan kyll', ett' ennen vihamiestäs
+Tulehen seuraisit, kuin lehdon varjoss
+Imartelisit häntä. -- Kah, Cominius!
+
+    (Cominius tulee.)
+
+COMINIUS.
+Turulta tulen; luja puollus teille
+Nyt tarpeen on, jos tyyneys ei tai pako
+Pelasta teitä: raivoissaan on kaikki.
+
+MENENIUS.
+Nyt hyvä sana vaan.
+
+COMINIUS.
+                    Niin, jospa siihen
+Hän taipuis!
+
+VOLUMNIA.
+             Hänen täytyy ja hän tahtoo. --
+Niin, etkös? Tahdothan sa? Mene joutuun!
+
+CORIOLANUS.
+Esiintyäkö paljain päin mun täytyy
+Ja jalon sydämmeni taakaks panna
+Näin kurjin kielin valhe? No, ma teen sen!
+Maatilkku tää jos vaarass' olis vainen,
+Tää Marcion ruumis vaan, sen tomuks hiertää
+Ja tuuleen kylvää sais he. -- Forumiin nyt!
+Panette mulle näyteltävän, jot en
+Ma koskaan opi.
+
+COMINIUS.
+                Tulkaa, meist' on apu.
+
+VOLUMNIA.
+Oi, kuule, rakas poikani! Sa sanoit
+Mun kiitokseni sotilaaks sun tehneen;
+Nyt kiitokseni tähden osaa näytä,
+Jok' ompi outo sulle.
+
+CORIOLANUS.
+                      Mun siis täytyy.
+Pois, vanha luontoni! Nyt porton henki
+Mun vallatkoon! Sotahuutoni, jok' yhteen
+Soi rummun kanssa, pirinäks niin hienoks,
+Kuin ääni kuohilaan tai tytön tulkoon.
+Jok uneen lasta tuutii! Konnan hymy
+Asukoon poskillani! Silmänpeili
+Himetköön koulupojan kyynelistä!
+Kerjääjän kieli suustan' ulos käyköön;
+Ja panssaroittu polveni, mi taipui
+Jalustimessa vaan, nyt koukkuun käyköön
+Kuin almun mankujan! -- En, sit' en tee.
+Näin totuudelt' en kunniaansa ryöstä;
+Ja halpuutt' ilkeintä en ruumiin eleill'
+Opeta sielulleni.
+
+VOLUMNIA.
+                  Niinkuin tahdot.
+Mun sulta kerjätä on herjaavampi
+Kun sinun heiltä. Hukkukoon siis kaikki!
+Mieluummin äitisi sun korskas sietää,
+Kuin huolissaan on hurjan uhkas tähden.
+Yht' urhosti kuin sinä surmaa ilkun;
+Tee tahtos. Tuo sun uljuutes on minun.
+Sen imit multa; korskas se on omaas.
+
+CORIOLANUS.
+Oi, äiti, tyyntykäätte! Näettehän,
+Turulle lähden jo; ei nuhteit' enää!
+Sydämmet käännän, lemmen heiltä peijaan.
+Ja kaikkein ammattien suosikkina
+Ma palajan. Jo lähden. Terveisiä
+Mun vaimolleni! Konsulina tulen,
+Jos en, niin varmaan kielen' ikänään ei
+Suurt' imarteella aikaan saa.
+
+VOLUMNIA.
+                              Tee tahtos.
+
+COMINIUS.
+Pois! Joutukaa! Tribuunit odottavat:
+Sävyisä vastaus aseenanne olkoon;
+Heill' entist' ankarampi syytös valmiin'
+On teitä kohtaan, kuulin.
+
+CORIOLANUS.
+                          »Sävyisesti» --
+Se tunnussanan' on. -- Nyt lähtekäämme:
+Valheesta mua syyttäkööt, ma vastaan
+Kuin rehellinen mies.
+
+MENENIUS.
+                      Mut sävyisesti.
+
+CORIOLANUS.
+No niin, siis sävyisesti, sävyisesti.
+
+    (Kaikki menevät.)
+
+
+Kolmas kohtaus.
+
+    Forum.
+
+    (Sicinius ja Brutus tulevat.)
+
+BRUTUS.
+Viaksi hälle pankaa, että tahtoo
+Tyrannin valtaa hän; jos se ei tepsi,
+Vihasta kansaan häntä syyttäkää,
+Ja ettei saalist' ole jakanut hän,
+Mink' antiaateilt' otti.
+    (Aediili tulee.)
+                         Tuleeko hän?
+
+AEDIILI.
+Tulossa on hän.
+
+BRUTUS.
+                Mukana ken hällä?
+
+AEDIILI.
+Menenius vanhus ja senaattoreista
+Nuo hänen suosijansa.
+
+SICINIUS.
+                      Onko teillä
+Luettelossa kaikki äänet, jotka
+Olette hankkineet?
+
+AEDIILI.
+                   On, se on valmis.
+
+SICINIUS.
+Ja ruoduttainko järjestetty?
+
+AEDIILI.
+                             On.
+
+SICINIUS.
+Heti kansa tänne tuokaa; ja kun sanon:
+»Näin kansan oikeuden ja vallan nojall'
+On tuomittu», -- maanpakohon se olkoon,
+Tai kuolemaan, tai sakkoon, -- pankaa heidät,
+Kun »sakkoon» sanon, huutamahan »sakkoon»,
+Ja »kuolemaan», kun sanon »kuolemaan».
+Asian oikeuteen luottaen
+Ja vanhaan etuuteen.
+
+AEDIILI.
+                     Heit' opastan ma.
+
+BRUTUS.
+Ja huutaa kun on alkaneet, koht' älkööt
+Heretkö he, vaan meluten ja rääkyin,
+Mik' olkohonkin tuomio, vaatikoot he
+Sen täyttämistä heti.
+
+AEDIILI.
+                      Hyvä, hyvä.
+
+SICINIUS.
+Ja katsokaa, ett' oiti ovat valmiit.
+Kun viittauksen saavat.
+
+BRUTUS.
+                        Heti toimeen! --
+    (Aediili menee.)
+Vihoittakaa hänt' oiti. Tottunut hän
+On aina voittamaan ja mielinmäärin
+Tenäämään vastaan; raivoon kun hän saadaan,
+Ei mikään häntä hiili; puhtaaks purkaa
+Hän sydämmensä, ja se purkaus
+Meit' auttaa niskan hältä taittamaan.
+
+    (Coriolanus, Menenius, Cominius,
+    senaattoreja ja patriiseja tulee)
+
+SICINIUS.
+Tuoss' on hän.
+
+MENENIUS.
+               Pyydän, olkaa tyyni.
+
+CORIOLANUS.
+                                    Kyllä,
+Kuin tallirenki, joka roiston nimiä
+Tukuttain vastaan halvast' äyrist' ottaa. --
+Hyvät jumalat, te Roomaa suojelkaa,
+Ja kunnon miehet lakipöytiin pankaa!
+Oi, rakkaus meihin luokaa! Juhlasuojiks
+Avarat templit tehkäätte, mut älkää
+Katuja sotakentiks!
+
+1 SENAATTORI.
+                    Amen, amen!
+
+MENENIUS.
+Ylevä toivomus.
+
+    (Aediili palajaa kansalaisien kanssa.)
+
+SICINIUS.
+                He, tänne miehet!
+
+AEDIILI.
+Tribuunejanne tarkatkaa! Vait, hiljaa!
+
+CORIOLANUS.
+Mua kuulkaa ensin.
+
+MOLEMMAT TRIBUUNIT.
+                   Puhukaa! -- Soh! Hiljaa!
+
+CORIOLANUS.
+Mua muuall' eikö syytetä kuin tässä?
+Nyt ratkaistaanko kaikki?
+
+SICINIUS.
+                          Teiltä kysyn:
+Tunnustatteko kansan äänivallan
+Ja virkamiehet sen? Rikoksistanne
+Nyt todistettavista tyydyttenkö
+Lainmääräisehen rangaistukseen?
+
+CORIOLANUS.
+                                Tyydyn.
+
+MENENIUS.
+Oi, kuulkaahan! Hän sanoo tyytyvänsä.
+Muistelkaa hänen sotatekojansa,
+Ja haavojansa, joit' on ruumis täynnä,
+Kuin pyhä kirkkotarha hautoja.
+
+CORIOLANUS.
+Okahan raamuj' on ne, naarmuja
+Vaan naurettavia.
+
+MENENIUS.
+                  Ja lisäks, nähkääs,
+Vaikk' ei hän haasta niinkuin kansalainen,
+Kuin sotilas hän haastaa; vihan kaiuks
+Te älkää hänen jyrkkää ääntään luulko.
+Vaan niinkuin sanon, soturin se kielt' on,
+Eik' ilkiön.
+
+COMINIUS.
+             No niin, jo kylliks siitä.
+
+CORIOLANUS.
+Mi siihen syynä, että minua,
+Jonk' yksin äänin konsuliksi teitte,
+Niin häpäisette nyt, ett' oiti pois sen
+Mult' otatte?
+
+SICINIUS.
+              Te, vastatkaa te meille.
+
+CORIOLANUS.
+Niin oikein, mun se täytyy. Puhukaa siis!
+
+SICINIUS.
+Kanteemme on, ett' yrititte riistää
+Roomalta kaikki ikivanhat virat
+Ja itsellenne yksinvallan ryöstää;
+Siis kansan petturi te olette.
+
+CORIOLANUS.
+Kuin? Petturi!
+
+MENENIUS.
+               Tyyn' olkaa; muistakaa!
+
+CORIOLANUS.
+Syvimmän hornan liekit syökööt kansan!
+Vai petturi! -- Sa, herjaava tribuuni!
+Haa! Vaikka tuhat surmaa silmäs kätkis,
+Ja tuhat kertaa tuhatta sun nyrkkis,
+Ja miljoonittain valheellinen kieles,
+Sanoisin: »valehtelet» yhtä julki,
+Kuin jumalia rukoilen.
+
+SICINIUS.
+                       Haa! Kuulkaa!
+
+KANSALAINEN.
+Töyrälle, töyrälle hän viekää!
+
+SICINIUS.
+                               Vaiti!
+Ei lisäsyitä kaivata; te näitte
+Jo miehen työt, ja puheet kuulitte:
+Virallisia löi hän, teitä kiros,
+Lain sorti väkivallalla, ja pyhää
+Hän tuomar'valtaa ilkkui; tää niin suuri
+On hengen rikos, että ansaitsee se
+Pahimman surman.
+
+BRUTUS.
+                 Vaan kosk' uljaast' on hän
+Palvellut Roomaa, --
+
+CORIOLANUS.
+                     Mitä höpisette?
+
+BRUTUS.
+Ma sanon minkä tiedän.
+
+CORIOLANUS.
+                       Tekö?
+
+MENENIUS.
+                              Tuoko
+Se lupaus, mink' äidillenne teitte?
+
+COMINIUS.
+Ma pyydän, kuulkaa, --
+
+CORIOLANUS.
+                       En, en tahdo kuulla.
+Tarpeijin töyrält' uhatkoon vaan surma,
+Maanpako, nylky, nääntyminen tyrmään --
+Jyvänen päivän muonaks vaan -- heilt' en ma
+Sanoilla kauneill' armoj' osta, enkä
+Sisuani hilli, vaikka heiltä kaikki
+»Hyvällä huomenella» lahjaks saisin.
+
+SICINIUS.
+Kosk' on hän tavan takaa, mink' on voinut,
+Vihasta kansaan, siltä kaikin keinoin
+Kokenut vallan riistää, ja nyt vihdoin
+On väkinäistä tehnyt, eikä yksin
+Oikeuden istunnossa, ei, vaan suoraan
+Sen valvojille: siis nyt kansan nimessä
+Ja valtamme nojalla me, tribuunit,
+Kaupungist' oiti hänet karkoitamme,
+Sill' uhall' että, jos hän koskaan astuu
+Jalkansa Rooman portista, hän syöstään
+Tarpeijin töyrält' alas. Se on päätös,
+Sen kansan nimessä ma julistan.
+
+KANSALAINEN.
+Se päätös on, se päätös on; pois oiti!
+Maanpakolainen on hän: se on päätös.
+
+COMINIUS.
+Mua kuulkaa, ystävät ja kansalaiset; --
+SICINIUS.
+Hän tuomittu on. Muut' ei mitään.
+
+COMINIUS.
+                                  Kuulkaa:
+Ma konsul' olen ollut: ruumiissani
+On vihollisten merkit. Maani etu
+Pyhempi, hellemp', armaampi on mulle
+Kun henkeni, kuin kalliin vaimon arvo,
+Kuin hänen kohtuns' sikiö ja omain
+Mun lanteitteni aarre. -- Siis, jos sanon --
+
+SICINIUS.
+Kyll' aikehenne tunnemme. No, mitä?
+
+BRUTUS.
+Ei mitäkään; maanpakolainen on hän
+Vihollisena kansansa ja maansa:
+Se päätös on.
+
+KANSALAINEN.
+              Se päätös on, se päätös on.
+
+CORIOLANUS.
+Katalat koirat, joiden henki haisee
+Kuin soiden mätä löyhkä, joiden armot
+Yht' inhat on kuin hautaamatta jääneet
+Ja ilmaa saastuttavat miesten raadot,
+Maanpakoon minä teidät ajan! Jääkää,
+Te horjuvaiset, tänne! Pienin risaus
+Vavahtamahan pankoon sydämmenne!
+Vihollistenne sulkatöyhdöt teihin
+Leyhkätkööt kuolon tuskaa! Valta teillä
+Ain' olkoon ajaa maasta puoltajanne,
+Siks että oma tyhmyytenne, jok' ei
+Käsitä mitään, kunnes äilön tuntee, --
+Kosk' yhä riidass' eläen itse ette
+Te itseänne säästä, -- myypi teidät
+Katalan kurjiks orjiks kansan käsiin,
+Mi teidät voitti miekan iskutta!
+Halveksuin selkäni ma käännän teille
+Ja Roomalle: on muuallakin mailmaa.
+
+    (Coriolanus, Cominius, Menenius,
+    senaattorit ja patriisit menevät.)
+
+AEDIILI.
+Nyt kansan vihamies on poissa, poissa!
+
+KANSALAINEN.
+Maanpaossa on vihamies! Heleijaa!
+
+    (Kaikki heittelevät ilakoiden lakkejansa ilmaan.)
+
+SICINIUS.
+Hän portist' ulos viekää, ilkkukaa
+Te häntä, niinkuin hänkin teitä ilkkui;
+Häväiskää häntä aika lailla. -- Vahti
+Kaupungin halki meitä seuratkoon.
+
+KANSALAINEN.
+Pois tulkaa! Portist' ulos hänet viemme. --
+Jaloja tribuuneja kaitkoon taivas!
+
+                        (Menevät.)
+
+
+
+
+NELJÄS NÄYTÖS.
+
+
+Ensimmäinen kohtaus
+
+    Roomassa. Kaupungin portin edustalla.
+
+    (Coriolanus, Volumnia, Virgilia, Menenius
+    ja muutamia nuoria patriiseja tulee.)
+
+CORIOLANUS.
+Äl' itke nyt! Hyvästi joutuun! -- Peto
+Tuo monipäinen pois mun puskee -- Äiti,
+Miss' entinen on uljuutes? Sa sanoit
+Niin usein: hätä suurin miestä koittaa;
+Tavallinenkin tavallista kestää;
+Tyynellä kaikki laivat yhtä hyvät
+On kulkemaan; mut kohtalon kun iskut
+Kovimmat kohtaa, tyynnä kestäminen
+On jalo taito. Neuvoja sa mulle
+Ain' annoit, jotka voittamattomaksi
+Sydämmen saavat, joka niitä seuraa.
+
+VIRGILIA.
+Oi, taivaan vallat!
+
+CORIOLANUS.
+                    Pyydän, vaimo, älä --
+
+VOLUMNIA.
+Periköön rutto Rooman ammatit,
+Ja surma kaikki käsityöt!
+
+CORIOLANUS.
+                          No, no!
+Mua lempivät, kun mua tarvitsevat.
+Miss' intos äiti, jonka hummaamana
+Sa lausuit että Herkulehen vaimon'
+Olisit kuusi hänen töistään tehnyt,
+Näin säästäin mieheltäsi monet hiet? --
+Cominius, rohkeutta! Hyvästi! --
+Hyvästi, vaimoni ja äitini!
+Ei hätää mun. -- Menenius, kelpo vanhus,
+Sun itkus suolaisempaa on kuin nuorten,
+Se silmäs syö. -- Mun vanha päällikköni,
+Rautaiseks tunnen sun, mont' olet nähnyt
+Sydäntä paaduttavaa kohtausta;
+Sano noille vaimoille, ett' yht' on tyhmää
+Tuhoa välttämätönt' itkeä
+Kuin nauraa sille. -- Äiti, vaaranihan
+Sun lohtus ain' on ollut; luota minuun:
+Vaikk' yksin käyn kuin suossa lohikäärme,  --
+Jok' ympärilleen kauhun luo, ja josta
+Enemmän puhutaan kuin sitä nähdään, --
+Yl' alhaison sun poikas kohoo, taikka
+Kavalain salajuonten kautta kaatuu.
+
+VOLUMNIA.
+Mihin aiot, jalo poikani? Cominius
+Aluksi mukaas ota; suuntas määrää,
+Äl' antau alttiiks joka sattumalle,
+Mik' yllättää sua tielläs.
+
+CORIOLANUS.
+                           Taivaan vallat!
+
+COMINIUS.
+Kuukauden sua seuraan; asuntosi
+Niin valitsemme, että toisistamme
+Me tiedon saamme; näin, jos aika sallis
+Sua kotiin kutsua, ei tarvis meidän
+Hakea yhtä miestä pitkin mailmaa,
+Ja hyvä tila menettää, jok' ehtyy,
+Kun poiss' on tarvitsija.
+
+CORIOLANUS.
+                          Hyvästi!
+Sua ikä painaa; sodan herkuist' olet
+Jo kylläs saanut, naarmuttoman kanssa
+Kuljeksiakses. Portillen vaan käykää. --
+No, tulkaa, armas vaimo, kallis äiti,
+Ja taatut ystävät! Kun kaukan' olen,
+Hymyillen tehkää hyvästit. Nyt tulkaa!
+Niin kauan kuin maan päällä elän, kuulla
+Minusta saatte; ette toki muuta
+Kuin mitä ennenkin.
+
+MENENIUS.
+                    Tuot' ihanampaa
+Ei korvin kuulla saa. -- Pois itku! Tulkaa!
+Käsivarsista ja jaloistani noista
+Ravistaa vuotta seitsemän jos voisin,
+Niin, totta Jumal', askel askeleelta
+Sua seuraisin!
+
+CORIOLANUS.
+               Kätesi mulle! -- Tulkaa!
+
+    (Menevät.)
+
+
+Toinen kohtaus.
+
+    Sama paikka. Katu lähellä kaupungin porttia.
+
+    (Sicinius, Brutus ja aediili tulevat.)
+
+SICINIUS.
+Hän poiss' on; hiltykäämme. Kansa kotiin!
+Masattu aatel' on, jok' ilmeisesti
+Oli hänen puoltaan.
+
+BRUTUS.
+                    Valtamme on nähty;
+Nöyremmät olkaamme nyt työmme jälkeen
+Kuin sitä ennen.
+
+SICINIUS.
+                 Kotiin kansa! Poiss' on
+Sen suurin vihollinen, sanokaa,
+Ja turvattu sen valta.
+
+BRUTUS.
+                       Kotiin kansa!
+
+    (Aediili menee.)
+
+    (Volumnia, Virgilia ja Menenius tulevat.)
+
+Kah, hänen äitinsä!
+
+SICINIUS.
+                    Pois täältä!
+
+BRUTUS.
+                                 Miksi?
+
+SICINIUS.
+Sanovat häntä hulluks.
+
+BRUTUS.
+                       Jatka vaan;
+He meidät näkivät.
+
+VOLUMNIA.
+                   Oo! Parahiksi!
+Jumalten kaikki ruttovarat teille
+Lempenne palkitkoot!
+
+MENENIUS.
+                     St! Ei niin kovaa.
+
+VOLUMNIA.
+Jos voisin itkulta, niin kuulisitte, --
+Mut, jotain saatte kuulla. --
+    (Brutolle.)
+                              Poistuttenko?
+
+VIRGILIA (Siciniolle.)
+Te jääkää myös. Jos miehelleni voisin
+Sanoa samaa!
+
+SICINIUS.
+             Miehevää!
+
+VOLUMNIA.
+                       Niin, houkka!
+Häpeätäkö tuo? -- Kas, tuota houkkaa!
+Mies eikö isän' ollut? Sinä, kettu.
+Maanpakoon ajoit sen, mi Rooman puolest
+Useemman iskun löi, kuin sinä olet
+Sanoja puhunut.
+
+SICINIUS.
+                Oi, taivaan taatto!
+
+VOLUMNIA.
+Useemman kelpo iskun, niin, kuin sinä
+Viisasta sanaa -- kaikki Rooman tähden. --
+Haa, kuules! -- Mene vaan! -- Ei, älä mene! --
+Oi, että heimos kanssa kahden olis
+Mun poikan' erämaassa, kelpo miekka
+Kädessä!
+
+SICINIUS.
+         Mitä sitten?
+
+VIRGILIA.
+                      Mitä sitten!
+Perisi hukka silloin sinun heimos.
+
+VOLUMNIA.
+Sekasikiöt ja kaikki. -- Kunnon mies.
+Kuin monta haavaa saitkaan Rooman tähden!
+
+MENENIUS.
+No, no, no, hiljaa!
+
+SICINIUS.
+Josp' olisi hän vastakin kuin ennen
+Palvellut Roomaa, eikä sitomaansa
+Sidettä itse päästänyt!
+
+BRUTUS.
+                        Niin, jospa!
+
+VOLUMNIA.
+Niin jospa! Rahvast' yllytitte, kollit;
+Tunnette hänen arvoaan sen verran
+Kuin minä taivaan salauksia, joita
+Maan tiedoksi ei suoda.
+
+BRUTUS.
+                        Menkäämme!
+
+VOLUMNIA.
+Niin, menkää, menkää! Oivan työn te teitte.
+Mut ensin kuulkaa tämä: -- saman verran
+Kuin Capitoli korkeudessa voittaa
+Vähimmän Rooman mökin, yhtä paljon
+Mun poikani, -- tuon vaimon mies, tuon tuossa, --
+Min karkoititte, voittaa teidät kaikki.
+
+BRUTUS.
+Niin, niin, nyt lähdetään.
+
+SICINIUS.
+                           Miks olla tässä
+Tuon mielipuolen härnättävänä?
+
+VOLUMNIA.
+Rukoukseni mukananne viekää'
+    (Tribuunit menevät.)
+Oo, jumalten jos ainoana työnä
+Ois kiroukseni vahvistus! Jos heidät
+Tapaisin kerran päiväss', että saisin
+Keventää sydämmeni raskaan taakan!
+
+MENENIUS.
+Kas, sepä löylytys! ja syystä maarin!
+Tuletteko te meille iltaiselle?
+
+VOLUMNIA.
+Viha ruokani on: itseäni syön mä.
+Ja nälkään kuolen ravinnosta. -- Tulkaa! --
+Äl' inise! Valita, niinkuin minä,
+Vihaisen Junon lailla! Tule pois!
+
+MENENIUS.
+Hyi, hyi, hyi!
+
+    (Menevät.)
+
+
+Kolmas kohtaus.
+
+    Maantie Rooman ja Antiumin välillä.
+
+    (Roomalainen ja volskilainen kohtaavat toinen toisensa.)
+
+ROOMALAINEN.
+Minä tunnen hyvin teidät, tunnettehan tekin minut. Eikö nimenne ole
+Adrian?
+
+VOLSKILAINEN.
+On. Mutta minä en todellakaan muista teitä.
+
+ROOMALAINEN.
+Olen roomalainen ja palvelen niinkuin tekin Rooman vihollisia.
+Tunnetteko nyt minut?
+
+VOLSKILAINEN.
+Nicanor, eikö niin?
+
+ROOMALAINEN.
+Sama mies.
+
+VOLSKILAINEN.
+Olitte parrakkaampi, kun viimeksi teidät näin; mutta puheenlaatunne
+teidät ilmaisi. No, mitä Roomasta kuuluu? Volskilainen valtio on
+antanut minulle toimeksi etsiä teitä sieltä. Olette säästänyt minulta
+päivän matkan.
+
+ROOMALAINEN.
+Roomassa on ollut kummallisia meteleitä: kansa senaattia, patriiseja ja
+aatelia vastaan.
+
+VOLSKILAINEN.
+On ollut? Ovatko ne siis päättyneet? Meidän hallitus ei sitä usko; se
+tekee suuria sotavarustuksia, ja toivoo heidät yllättävänsä, kun riita
+on tulisimmillaan.
+
+ROOMALAINEN.
+Pahin tulen vaara on voitettu, mutta pienimmästäkin asiasta saattaa se
+uudestaan leimahtaa ilmi. Sillä tuon kelpo Coriolanon maanpakoon
+ajaminen karvastelee niin aatelisien sydäntä, että olisivat halukkaat
+ottamaan kansalta pois kaiken vallan ja ikipäiviksi riistämään siltä
+sen tribuunit. Se, se nähkääs kipinänä kytee, ja kohta se raivokkaana
+ilmituleen puhkee.
+
+VOLSKILAINEN.
+Coriolanusko maanpaossa?
+
+ROOMALAINEN.
+Niin, maanpaossa.
+
+VOLSKILAINEN.
+Semmoisen uutisen tuojana olette varmaankin tervetullut.
+
+ROOMALAINEN.
+Nyt tulee volskilaisten ottaa tilaisuudesta vaari. Olen kuullut
+sanottavan, että naitua vaimoa on sopivin vietellä silloin, kun hän on
+riidassa miehensä kanssa. Teidän jalo päällikkönne on tässä sodassa
+suurena ilmaantuva, nyt kun hänen etevä vastustajansa Coriolanus on
+synnyinmaassaan maineensa kadottanut.
+
+VOLSKILAINEN.
+Epäilemättä. Mikä onni, että teidät näin sattumalta tapasin! Te olette
+toimeni päähän saattanut, ja ilolla seuraan teitä kotiin.
+
+ROOMALAINEN.
+Tästä illalliseen kerron teille Roomasta mitä kummallisimpia asioita,
+jotka kaikki ovat vastustajalle eduksi. Sotajoukkonne on kunnossa,
+niinkö?
+
+VOLSKILAINEN.
+On, ja oikein kuninkaallinen sotajoukko. Centurionit miehistöineen ovat
+pestatut ja majoitetut ja vaikkapa tunnin päästä valmiit lähtöön.
+
+ROOMALAINEN.
+Hauska kuulla, että ovat valmiit, ja minä kyllä heidät liikkeelle
+panen, sen takaan. Siis, sydämmellisesti tervetullut! Olen suuresti
+mielissäni teidän seurastanne.
+
+VOLSKILAINEN.
+Syöttehän sanan suustani; minullahan se tässä suurin syy on olla
+mielissäni.
+
+ROOMALAINEN.
+No hyvä, menkäämme siis yhtenä.
+
+    (Menevät)
+
+
+Neljäs kohtaus.
+
+    Antium. Aufidion talon edustalla.
+
+    (Coriolanus tulee, halpaan valepukuun puettuna.)
+
+CORIOLANUS.
+Tää kaunis kaupunki on. -- Antium, minä
+Sun leskes loin, ja monen noiden sieväin
+Talojes perijän näin miekkan' eessä
+Korahtain kaatuvan. Mua älä tunne,
+Sun vaimos muuten vartain, poikas kivin
+Mun kuoliaaksi lyövät.
+    (Kansalainen tulee.)
+                       Terve!
+
+KANSALAINEN.
+                              Terve!
+
+CORIOLANUS.
+Tuo kuuluisa Aufidius, missä täällä
+Hän asuvi? Hän Antiumiss' onko?
+
+KANSALAINEN.
+On. Talossansa tänään aatelilleen
+Hän pitää pidot.
+
+CORIOLANUS.
+                 Missä on se talo?
+
+KANSALAINEN.
+Tuoss' edessänne.
+
+CORIOLANUS.
+                  Kiitos. Hyvästi!
+    (Kansalainen menee.)
+Oi, mailma, liukkaita sun sokkeloitas?
+Vannoutunehet ystävät, jotk' äsken
+Olivat niinkuin yksi sydän, yksi mieli,
+Joill' aika, vuode, ruoka, työ ol' yksi,
+Jotk' olivat kuin kaksoispari lemmess'
+Eriämättömät, nyt äkkipäätä
+Ja turhan vuoksi katkerimpaan vihaan
+He syttyvät; -- ja verivainolaiset,
+Joilt' unen viha häiritsi ja häijyt
+Kavallushankkeet, sattumus nyt, jok' ei
+Niin munaa maksa, ystäviksi tekee
+Ja langoiksi. Niin munkin. Synnyinmaatan'
+Ma vihaan ja viholliskaupungille
+Suon lempeni. -- Nyt sisään! Jos mun tappaa.
+Niin tekee oikein hän; jos vastaan ottaa,
+Niin hänen maataan palvella ma tahdon.
+
+    (Menee.)
+
+
+Viides kohtaus.
+
+    Sama paikka. Pylvässäli Aufidion talossa.
+
+    (Soittoa kuuluu sisältä. Palvelija tulee.)
+
+PALVELIJA.
+Viiniä, hoi, viiniä! Hyviä edeskäypiä! Luulenpa, että ne vintiöt
+nukkuvat.
+
+    (Menee.)
+
+    (Toinen palvelija tulee.)
+
+2 PALVELIJA.
+Missä on Cotus? Isäntä kutsuu häntä. -- Cotus!
+
+    (Menee.)
+
+    (Coriolanus tulee.)
+
+CORIOLANUS.
+On talo soma, ruuan haju hyvä;
+Vaan min' en näytä kutsuvierahalta.
+
+    (Ensimmäinen palvelija palajaa.)
+
+1 PALVELIJA.
+Mitä tahdotte? Mistä olette? Täällä ei ole teille sijaa. Menkää, tuossa
+on ovi!
+
+CORIOLANUS.
+Coriolanona en ansaitse
+Parempaa tervehdystä.
+
+    (Toinen palvelija palajaa.)
+
+2 PALVELIJA.
+Mistä olette? Missä portinvartijan on silmät, kun päästää sisään
+tuollaisia veijareita? Menkää tiehenne, olkaa niin hyvä!
+
+CORIOLANUS.
+Pois!
+
+1 PALVELIJA.
+Poisko? Menkää itse pois!
+
+CORIOLANUS.
+Sin' olet mulle vaivaksi.
+
+2 PALVELIJA.
+Mikä julkeus! Kylläpä teistä selvä saadaan.
+
+    (Kolmas palvelija tulee ja kohtaa ensimmäisen.)
+
+3 PALVELIJA.
+Mikä mies se tuo on?
+
+1 PALVELIJA.
+Kummallisin mies, minkä ikänäni olen nähnyt. En saa häntä pois täältä.
+Kuules, kutsuppa herramme tänne.
+
+3 PALVELIJA.
+Mitä sinä, mies, täällä teet? Tiehesi oiti!
+
+CORIOLANUS.
+Mun anna olla; liettänne en tahraa.
+
+3 PALVELIJA.
+Mikä olette?
+
+CORIOLANUS.
+Ylimys.
+
+3 PALVELIJA.
+Ihmeen kurja ylimys!
+
+CORIOLANUS.
+Niin kyllä, aivan totta.
+
+3 PALVELIJA.
+Tehkää hyvin, ylimys kurja, ja etsikää toinen olopaikka; täällä ei ole
+teille sijaa. Menkää tiehenne, olkaa niin hyvä! Kas noin!
+
+CORIOLANUS.
+Tee työs ja mätä itsees kylmät tähteet.
+
+    (Työntää hänet luotansa.)
+
+3 PALVELIJA.
+Mitä? Etkö mene? -- Mene ja ilmoita herrallemme, mikä kummallinen
+vieras se täällä on.
+
+2 PALVELIJA.
+Kyllä menen.
+
+    (Menee.)
+
+3 PALVELIJA.
+Missä asut?
+
+CORIOLANUS.
+Taivasalla.
+
+3 PALVELIJA.
+Taivasallako?
+
+CORIOLANUS.
+Niin.
+
+3 PALVELIJA.
+Missä siellä?
+
+CORIOLANUS.
+Varisten ja korppien kaupungissa.
+
+3 PALVELIJA.
+Varisten ja korppien kaupungissa? -- Mikä aasi! -- Siis asut yhdessä
+naakkojenkin kanssa?
+
+CORIOLANUS.
+En; minä en palvele sinun herraasi.
+
+3 PALVELIJA.
+Mitä? Mitä sinulla on minun herrani kanssa tekemistä?
+
+CORIOLANUS.
+He, se olisi siivompaa kuin jos olisin tekemisissä vaimosi kanssa.
+Pois, lörppä! Mene matkaas lautaisines!
+
+    (Ajaa hänet piesten ulos.)
+
+    (Aufidius ja toinen palvelija tulevat.)
+
+AUFIDIUS.
+Miss' on se mies?
+
+2 PALVELIJA.
+Tuossa, herra. Olisin piessyt häntä kuin koiraa, vaan en tahtonut
+häiritä herroja siellä sisällä.
+
+AUFIDIUS.
+Mist' olet? Mitä tahdot? Nimesi?
+Vait olet? Sano mies: mik' on sun nimes?
+
+CORIOLANUS (Heittäen valepuvun yltänsä.)
+                                         Tullus,
+Jos viel' et mua tunne, vaikka näet mun.
+Ja siks et mua aavista, mik' olen,
+Nimeni ilmoittaa mun täytynee kai.
+
+AUFIDIUS.
+Mik' on sun nimes?
+
+CORIOLANUS.
+Pahalta volskilaisten soi se korviin.
+Ja sinun korvaas vihloo.
+
+AUFIDIUS.
+                         Mikä nimes?
+Näkösi tuim' on, käskevä on katsees,
+Jalolta näytät laivalta, vaikk onkin
+Varustees pirstaleina. Mikä nimes?
+
+CORIOLANUS.
+Rypistä otsaas! Etkö nyt mua tunne?
+
+AUFIDIUS.
+En tunne sua. Mikä nimesi?
+
+CORIOLANUS.
+Nimeni Cajus Marcius on, se, joka
+Kaikille volskilaisille on tehnyt
+Ja erittäinkin sulle suurta turmaa;
+Mun liikanimeni Coriolanus
+Sen todistaa. Työt raskaat, hengen vaarat,
+Vereni, maani hyväks vuodatetun,
+Se kiittämätön palkinnut on tuolla
+Nimellä vaan, jok' yllykkeenä sulle
+Ja merkkin' on, ett' inhota sun tulee
+Ja vihata mua. Nimi tää vaan jäi;
+Muut riisti kansan kateus ja julmuus,
+Jot' arka aateli ei ehkäissyt,
+Vaan jätti mun, ja salli noiden orjain
+Viheltää minut Roomast' ulos. Niin,
+Tää surkein hätä lietes luo mun toi,
+Ei toivo -- älä käsitä mua väärin --
+Pelastaa henkeäni: surmaa jos, näet,
+Peljännyt olisin, sua, ennen muita,
+Olisin karttanut; ei, pelkkä halu
+Karkoittajaini kanssa tehdä suora
+Mun luokses tuonut on. Siis, sydän sulla
+Jos uhkuu kostoa, jos maksaa tahdot
+Sa omat herjasi, ja synnyinmaasi
+Parantaa avohaavat, joutuun riennä
+Ja ota kurjuuteni palvelukseesi
+Niin sitä käytä, että hyödyks sulle
+On koston-työni; sairaan maani kanssa
+Otella tahdon, näet, niin vimmatusti
+Kuin kaikki hornan henget. Mut jos niin on.
+Ett' et sa uskalla, ja voitteluun jos
+Väsynyt olet, -- no niin, kyllästynyt
+Minäkin olen elämään, ja sulle
+Nyt kaulan' tarjoon vanhan vihas uhriks;
+Jos sit' et poikki leikkaa, olet hupsu;
+Ain' olen vainonnut sua, maasi rinnast
+Ammeittain olen verta juoksuttanut,
+Ja elää voin vaan sulle häpeäksi,
+Jos en sua palvele.
+
+AUFIDIUS.
+                    Oi, Marcius, Marcius!
+Jokainen sanas vanhan vihan juuren
+Sydämmestäni repii. Jupiterkin
+Jos tuolta pilvist' ennustellen lausuis:
+»Se totta on», hänt' enemmän en uskois
+Kuin sua, jalo Marcius. -- Suo mun kiertää
+Käsvarteni sen ruumiin ympär', johon
+Sadasti vahvan peitseni ma särjin,
+Peloittain kuun sen pirstaleilla! Miekkan'
+Alaisinta nyt halaan; lempes kanssa
+Yht' uljaast', innokkaasti nyt ma painin
+Kuin maineenhimon voimall' olen koskaan
+Miehuuttas vastaan taistellut. Haa! Tiedäs,
+Ma morsiantan' armastin: ei koskaan
+Todempi ole lemmenhuokaus ollut;
+Mut nyt, kun sun näin, jalo urho, sydän
+Enemmän ilost' ailahtaa, kuin milloin
+Ens' kerran vaimoni näin astuvan
+Ma kynnyksestäni. Mars sinä, kuules,
+Aseissa meill' on joukko; vielä kerran
+Kädestäs aioin kilpes lyödä, taikka
+Käteni menettää. Kakstoista kertaa
+Mun löylytit, ja joka yö sen jälkeen
+Uneksin taisteluista välillämme:
+Kypärit irti, maassa siinä maattiin,
+Käs' toisen kurkussa, kun havahdin ma
+Ja tyhjäst' aivan puolikuoliaana.
+Oi, Marcius, vaikk' ei riitaan Rooman kanssa
+Syyt' olis meillä muuta kuin maanpakos,
+Aseihin kaikki kakstoist'-ikäisestä
+Ja seitsenkymmen-vuotiaaseen nousis.
+Ja sota niinkuin hyökyvirta vyöryis
+Tuon armottoman Rooman sydämmeen.
+Senaattoreita kättelemään tullos,
+He jäähyväisill' ovat, nyt kun aion
+Maakuntihinne hyökätä ma, vaikk' en
+Juur' itse Roomaan.
+
+CORIOLANUS.
+                    Kiitos jumalille!
+
+AUFIDIUS.
+Siis, sinä mahtimies, jos koston työtäs
+Sa itse johtaa tahdot, toiset puolet
+Väestän' ota, omaa tietäs kulje.
+Mitenkä parhaaks näet, -- koska tunnet
+Sa maasi vahvat sekä heikot puolet, --
+Ja Rooman portteja sä jyskytä,
+Tai syrjämaille huimana sa syökse;
+Peloita ensin, sitten ruhjo! Tule,
+Nyt esitän sun niille, joille hankkees
+On mieleinen. Tuhansin tervetullut!
+Nyt suuremp' olet ystävä, kuin ennen
+Olitkaan vihamies; niin, Marcius,
+Ja se on paljon. Kätes! Tervetullut'
+
+    (Coriolanus ja Aufidius lähtevät.)
+
+1 PALVELIJA (tullen esiin).
+Tämäpä kummallinen muutos!
+
+2 PALVELIJA.
+Nyrkkini kautta! Aioin juuri häntä kartullani hutkaista, mutta
+aavistinpa kuitenkin, ettei hänen pukunsa puhunut totta.
+
+1 PALVELIJA.
+Ja näitkös sitä käsivartta! Hän pyöritti minua sormellaan ja
+peukalollaan niinkuin hyrrää vaan.
+
+2 PALVELIJA.
+Niin, niin, hänen kasvoistaan jo näin, että siinä miehessä oli jotakin:
+hänellä oli minusta kasvot sen sorttiset -- en tiedä oikein, miksi
+niitä sanoisin.
+
+1 PALVELIJA.
+Niin oli. Hän näytti siltä kuin -- saakeli soikoon, enkö oitis luullut,
+että siinä miehessä oli enemmän kuin mitä olisin luullut.
+
+2 PALVELIJA.
+Niin minäkin, jumalauta. Suoraan sanoen, hän on oivallisin mies koko
+maailmassa.
+
+1 PALVELIJA.
+Sitäpä minäkin. Mutta suuremman sotamiehen kuin hän on, tunnet sa kai.
+
+2 PALVELIJA.
+Kenenkä? Herraniko?
+
+1 PALVELIJA.
+Niin, sehän tiettyä.
+
+2 PALVELIJA.
+Hän vastaa kuutta tuommoista.
+
+1 PALVELIJA.
+No, ei juuri sitä, mutta suurempi hän on sotamies.
+
+2 PALVELIJA.
+Niin, näethän, eihän sitä niin osaa sanoa mitä meinaa. Mutta kaupunkia
+puolustamaan on meidän päällikkömme erinomainen.
+
+1 PALVELIJA.
+On, ja valloittamaan myöskin.
+
+    (Kolmas palvelija palajaa.)
+
+3 PALVELIJA.
+Kuulkaas, lurjukset, minä tiedän uutisia; uutisia, te roistot.
+
+1 ja 2 PALVELIJA.
+Mitä? Mitä? Anna kuulla!
+
+3 PALVELIJA.
+En nyt tahtoisi olla roomalainen, vaikka koko maailman saisin; ennemmin
+olisin vaikka kadotuksen oma.
+
+1 ja 2 PALVELIJA.
+Miksi niin? Miksi niin?
+
+3 PALVELIJA.
+Niin, täällä on se mies, joka aina on päällikköämme löylyttänyt, --
+Cajus Marcius.
+
+1 PALVELIJA.
+Sanotko: löylyttänyt päällikköämme?
+
+3 PALVELIJA.
+En sano: löylyttänyt päällikköämme; mutta aina hän on vetänyt hänelle
+vertoja.
+
+2 PALVELIJA.
+No niin, olemmehan ystäviä ja kumppaneita; hän oli aina hänestä liian
+tanakka, olen kuullut hänen itsensä sen sanovan.
+
+1 PALVELIJA.
+Niin, niin, totta kyllä, hän oli hänestä vähän niinkuin liian tanakka:
+Coriolin edustalla hän noputti ja koputti häntä kuin vatkulia.
+
+2 PALVELIJA.
+Jos hän olisi ihmissyöjän sukua ollut, olisi hän varmaankin paistanut
+ja syönyt hänet suuhunsa.
+
+1 PALVELIJA.
+No, mitä muuta uutta?
+
+3 PALVELIJA.
+Niin, tuolla sisälläkös häntä pokkuroidaan, niinkuin olisi hän Marsin
+poika ja perillinen; hän istuu ylinnä pöydän päässä, eikä yksikään
+senaattori puhuttele häntä muuten kuin seisoaltaan ja avopäin. Itse
+päällikkömmekin hyväilee häntä niinkuin helttuansa, suutelee autuaana
+hänen kättänsä, ja mulistelee silmänvalkuaisiaan, kun hän jotakin
+puhuu. Mutta pää-uutiseni on se, että päällikkömme on kahtia halkaistu
+ja ainoastaan puolikas siitä, mitä hän eilen oli; toisen puolikkaan on
+tuo toinen saanut, koko pöytäseuran pyynnöstä ja suostumuksella. Hän
+sanoo menevänsä leipomaan Rooman portinvartijoita korville. Hän aikoo
+niittää maahan kaikki edestänsä, ja tehdä puhdasta missä liikkuu.
+
+2 PALVELIJA.
+Ja hän se minusta on mies sitä tekemäänkin, siinä missä joku toinenkin.
+
+3 PALVELIJA.
+Sitä tekemään! Sen hän, hitto vie, tekeekin! Sillä, näet sä, hänellä on
+ystäviä yhtä paljon kuin vihollisia, ja nuo ystävät, katsos, eivät
+tohdi, näet sä, näyttäytyä, niinkuin sanoisimme, ystävinä, niin kauan
+kuin hän on kasierattuna.
+
+1 PALVELIJA.
+Kasierattuna? Mitä se on?
+
+3 PALVELIJA.
+Mutta kun taas näkevät hänen kypärintöyhtönsä liehumassa ja miehen
+oikein humöörissään, niin kömpivät he esiin loukeroistaan, niinkuin
+kaniinit sateen jälkeen, ja liittyvät kaikki häneen.
+
+1 PALVELIJA.
+Mutta milloin se tapahtuu?
+
+3 PALVELIJA.
+Huomenna, tänään, nyt heti. Vielä tänään iltapuolella saatte kuulla
+rummun käyvän; se tulee makiaisiksi, ennenkuin ehtivät suunsa pyyhkiä.
+
+2 PALVELIJA.
+Heleijaa! Sittenhän sitä taas elämätä syntyy. Siitä rauhasta ei ole
+muuksi kuin ruostuttamaan rautaa, lisäämään räätäleitä ja siittämään
+runonrenkuttajia.
+
+1 PALVELIJA.
+Niin, sotahan se vasta jotakin on: se on rauhaan verrattuna mitä päivä
+yöhön; silloin sitä on hommaa ja liikettä, ääntä ja elämää. Rauha se on
+rampa, uninen, hupelo, kuuro, tylsä ja tunnoton, ja siittää enemmän
+äpäriä, kuin sota nielee ihmisiä.
+
+2 PALVELIJA.
+Niin kyllä, ja niinkuin sota on raiskausta tavallaan, niin on se
+rauhakin tavaton laittamaan aisankannattajia.
+
+1 PALVELIJA.
+Niin, ja panee ihmisiä vihaamaan toisiansa.
+
+3 PALVELIJA.
+Järkevästi lausuttu; sillä silloin he eivät toisiansa tarvitse. Sota on
+kultaa parempi. Kohtapa niitä roomalaisia saadaan yhtä huokealla kuin
+volskilaisia. -- Mutta nyt, nyt he jo nousevat pöydästä.
+
+KAIKKI.
+Sisään, sisään, sisään!
+
+    (Menevät.)
+
+
+Kuudes kohtaus.
+
+    Rooma. Aukea paikka.
+
+    (Sicinius ja Brutus tulevat.)
+
+SICINIUS.
+Pois pelko! Hänt' ei kuulu. Nytpä tylsät
+On hänen neuvonsa, kun maass' on rauha
+Ja tyyntynyt on kansan hurja raivo,
+Hävetä miehen ystävät nyt saavat,
+Kun kaikk' on hyvin. Ennen näkisivät,
+Vaikk' omaks vahingokseen, kapinoivain
+Kaduilla riehuvan, kuin että laulaa
+Käs'työläisemme puodissaan ja toimens
+Ilolla toimittaapi.
+
+    (Menenius tulee.)
+
+BRUTUS.
+                    Hyvään aikaan
+Hänestä päästiin. Onko tuo Menenius?
+
+SICINIUS.
+On, on. Kas kuin on viime aikaan nöyräks
+Hän tullut. -- Terve!
+
+MENENIUS.
+                      Terve, ystäväni!
+
+SICINIUS.
+Coriolanoanne muut ei kaipaa
+Kuin ystävät; on pystyss' yhteiskunta,
+Ja pystyyn jää, vaikk' äittelis hän kuinka.
+
+MENENIUS.
+Hyvin kaikki on; mut paremmin vois olla,
+Jos olis myöntynyt hän.
+
+SICINIUS.
+                        Missä lie hän?
+
+MENENIUS.
+En tiedä; eikä myöskään vaimo tiedä,
+Eik' äitikään.
+
+    (Muutamia kansalaisia tulee.)
+
+KANSALAINEN.
+               Jumalat kaitkoot teitä!
+
+SICINIUS.
+Hyv'iltaa, naapurit!
+
+BRUTUS.
+                     Hyv'iltaa, kaikki!
+
+KANSALAINEN.
+Polvilla meidän tulee lapsin, vaimoin
+Rukoilla puolestanne.
+
+SICINIUS.
+                      Menestykää!
+
+BRUTUS.
+Hyvästi, naapurit! Oo, että oisi
+Coriolanus teitä rakastanut
+Niin kuten me!
+
+KANSALAINEN.
+               Jumalat kaitkoot teitä!
+
+TRIBUUNIT.
+Hyvästi, hyvästi!
+
+    (Kansalaiset menevät.)
+
+SICINIUS.
+                  Nyt hupaisempi
+Ja paljon hauskemp' aika on, kuin milloin
+Katuja pitkin juoksivat nuo löntit,
+Kapinaa huutaen.
+
+BRUTUS.
+                 Tuo Cajus Marcius
+Ol' oiva sotamies, mut itserakas,
+Hävytön, tuhmanröyhkä, rajattomiin
+Himoten kunniaa, --
+
+SICINIUS.
+                    Ja yksinvaltaa
+Yksistään itselleen.
+
+BRUTUS.
+                     En sitä luule.
+
+SICINIUS.
+Sen olisimme, kaikkein suruks, nähneet,
+Jos olisi hän konsuliksi päässyt.
+
+BRUTUS.
+Mut jumalat sen estivät, ja Rooma
+Levossa on ja turvass' ilman häntä.
+
+    (Aediili tulee.)
+
+AEDIILI.
+Tribuunit hyvät, orja tuolla, jonka
+Otimme kiinni, kertoo volskilaisten
+Karanneen kaksin joukoin Rooman maahan,
+Hävittäen julmimmalla sotaraivoll'
+Edestään kaikki.
+
+MENENIUS.
+                 Aufidius se siellä,
+Kuullessaan, ett' on maanpaossa Marcius
+Taas näyttää maailmalle sarviansa;
+Kun Marcius Roomass' oli, kuorestaan ne
+Ei pilkistellä tohtineet.
+
+SICINIUS.
+Mitä te Marciosta pakisette?
+
+BRUTUS.
+Se valhehtija pieskää! -- Mahdotonta!
+Ei tohdi volskilaiset rauhaa sortaa.
+
+MENENIUS.
+Ei tohdi! Tiedän, että tohtivat he;
+Eläissäni sen kolmast' olen nähnyt.
+Mut ennenkuin te miestä rankaisette,
+Kysykää, mist' on tietonsa hän saanut;
+Pieksette muuten kenties airuttanne,
+Ja lyötte vakojaa, jok' uhkaavasta
+Varoittaa teitä vaarasta.
+
+SICINIUS.
+                          He, vaiti!
+Se mahdotont' on, tiedän.
+
+BRUTUS.
+                          Mahdotonta.
+
+    (Sanansaattaja tulee.)
+
+SANANSAATTAJA.
+Senaatintaloon rientää kiireimmittäin
+Patriisit kaikki: sanoma on tullut,
+Mi muodon heiltä muuttaa.
+
+SICINIUS.
+                          Niin, tuo orja!
+Hän pieskää kansan nähden! -- Hänen töitään
+Ja vehkeitään on kaikki!
+
+SANANSAATTAJA.
+                         Jalo herra,
+Muut samaa kertovat, ja paljon, paljon
+Pahempaa vielä kuuluu.
+
+SICINIUS.
+                       Pahempaako?
+
+SANANSAATTAJA.
+Jutellaan julki, -- tottako, en tiedä, --
+Ett' yhdess' Aufidion kanssa Marcius
+Nyt Roomaa vastaan käy, ja koston vannoo
+Niin täyden, että kaikkia se kohtaa
+Nuoremmast' alkain vanhimpaan.
+
+SICINIUS.
+                               Niin aina!
+
+BRUTUS.
+Kujetta vaan, jott' arat kotiin kutsuis
+Tuon hyvän Marcion taas!
+
+SICINIUS.
+                         Niin, siinä juoni.
+
+MENENIUS.
+Ei luultavaa se ole.
+Aufidius ja hän, he vastakohdat
+On jyrkimmät, he eivät sovi yhteen.
+
+    (Toinen sanansaattaja tulee.)
+
+2 SANANSAATTAJA.
+Senaattiin joutuun menkää: Cajus Marcius,
+Aufidioon liittyneenä, Roomaa vastaan
+Tuo julman sotajoukon, joka riehuu
+Jo alueellamme ja tiensä raivaa,
+Tulella polttaen ja rosvoten
+Mit' eteen sattuu.
+
+    (Cominius tulee.)
+
+COMINIUS.
+                   Oivan työn te teitte!
+
+MENENIUS.
+No, mitä, mitä?
+
+COMINIUS.
+                Sen nyt aikaan saitte.
+Ett' omat tyttärenne raiskataan,
+Sulataan kattolyijyt kiireillenne,
+Vaimonne teidän nähden häväistään, --
+
+MENENIUS.
+No, mikä nyt on, mikä?
+
+COMINIUS.
+Templinne poltetahan pohjaa myöten,
+Ja teidän rakkaat etu-oikeutenne
+Ne kairan reikään nalkitaan.
+
+MENENIUS.
+                             Mik' ompi? --
+Työn kauniin teitte, pelkään mä. -- Mik' on? --
+Jos Marcius yhtyy volskilaisiin, --
+
+COMINIUS.
+                                     Jos!
+Hän heidän jumalans' on, hän heit' ohjaa,
+Ikäänkuin korkeamman luojan luoma
+Ja paremp' ihmislapsia; he häntä
+Meit', itikoita, vastaan seuraavat
+Yht' uljaasti kuin pojat kesäperhoj'
+Ajavat takaa, taikka teurastajat
+Läimivät kärpästä.
+
+MENENIUS.
+                   Työn teitte oivan.
+Te, paarva-joukkoinenne! Liian paljon
+Käs'työläis-äänihin te luotitten ja
+Sipulinsyöjäin henkeen!
+
+COMINIUS.
+                        Roomaa huiskii
+Hän, että korvat soi!
+
+MENENIUS.
+                      Kuin marjapuuta
+Ravistaa Hercules! Työn teitte oivan!
+
+BRUTUS.
+Tuo onko totta?
+
+COMINIUS.
+                Ennen vaalenette,
+Kuin toista kuuluu. Kaikki paikkakunnat
+Hymyillen luopuvat; ken vastaan panee,
+Se uhka-tyhmyrin saa pilkkanimen,
+Ja kuolla saa kuin uskollinen narri.
+Ken häntä moittis? Hänen sekä teidän
+Vihoiksenne hänen kuntons' äkkää.
+
+MENENIUS.
+Kaikk' ollaan hukassa, jos jalomielin
+Hän meit' ei armahda.
+
+COMINIUS.
+                      Ken anojaksi?
+Tribuunej' estää häpy; kansaa ei hän
+Enemmän ole aulis säälimään
+Kuin paimen sutta; paras ystäväkin
+Jos sanois: »sääli Roomaa», pyynnöllänsä
+Vaan hänen vihans' oikeaksi myöntäis
+Ja viholliseks näyttäytyis.
+
+MENENIUS.
+                            Niin kyllä.
+Jos ilmituleen taloni hän pistäis,
+En sanoa ma rohkenis: »seis, älä!» --
+Te oivan teitte työn, te käs'työläiset,
+Niin, oivan kätten työn!
+
+COMINIUS.
+                         Niin vapisemaan
+Panitte Rooman, ettei ole koskaan
+Näin avuton se ollut.
+
+TRIBUUNIT.
+                      Syy ei meidän.
+
+MENENIUS.
+Siis meidän? Häntä rakastimme, mutta
+Me ylimykset, pelkurit kuin pedot,
+Väistimme liutojanne, jotka hänet
+Kaupungist' ulos rääkkyivät.
+
+COMINIUS.
+                             Ja, pelkään,
+Takaisin vielä ulvovat. Aufidius,
+Tuo mailman toinen mies, hänt' umpisilmin
+Kuin alamainen seuraa. Epätoivo
+Nyt Rooman aino valtataito, voima
+Ja puolustus on.
+
+    (Joukko kansalaisia tulee.)
+
+MENENIUS.
+                 Tuossa on ne liudat. --
+Aufidius hänen mukanaanko? -- Te,
+Te ilman saastutitte, lakkejanne
+Kun rasvast' ihvisiä viskelitte.
+Iloiten Coriolanon maanpaosta.
+Nyt tulee hän, ja ruoska joka hius on
+Soturin päässä; yhtä monta houkkaa,
+Kuin lakkej' ilmaan lensi, nutistaa hän
+Palkaksi äänistänne. Vaan ykskaikki!
+Vaikk' yhdeks hiileksi hän meidät kaikki
+Polttaisikin, se vaan ois kohtuullista.
+
+KANSALAINEN.
+Oi, julmaa kuuluu.
+
+1 KANSALAINEN.
+                   Minä, kun ma sanoin:
+»Maanpakoon syöskää», sanoin: »onpa sääli.»
+
+2 KANSALAINEN.
+Samaten minä.
+
+3 KANSALAINEN.
+Niin minäkin; ja niin, totta puhuen, teki sangen moni meistä. Minkä
+teimme, sen teimme yhteisen hyvän tähden; ja vaikka tahdollamme
+suostuimme hänen karkoittamiseensa, niin tapahtui se kuitenkin vastoin
+tahtoamme.
+
+COMINIUS.
+Olette hyvää joukkoa, te äänet!
+
+MENENIUS.
+Te teitte oivan työn, te, koirinenne! --
+Nyt Capitoliin kai?
+
+COMINIUS.
+                    Niin, kuinkas muuten?
+
+    (Cominius ja Menenius menevät.)
+
+SICINIUS.
+Kotiinne, ystävät, ja rohkeit' olkaa;
+Tuo lahko näkis mielellään sen todeks,
+Mit' on se pelkäävinään. Kotiin menkää;
+Pois kaikki pelvon oireet mielestänne!
+
+1 KANSALAINEN.
+Jumalat meitä armahtakoot! Tulkaa, miehet, kotiin! Olen aina sanonut,
+että teimme väärin, kun hänet karkoitimme.
+
+2 KANSALAINEN.
+Sen teimme kaikki. Tulkaa pois kotiin!
+
+    (Kansalaiset menevät.)
+
+BRUTUS.
+Ikävä uutinen.
+
+SICINIUS.
+               Ikävä kyllä.
+
+BRUTUS.
+Pois Capitoliin! Puolet tavaraani
+Nyt valheest' antaisin ma.
+
+SICINIUS.
+                           Lähtekäämme!
+
+    (Menevät.)
+
+
+Seitsemäs kohtaus.
+
+    Leiri vähän matkan päässä Roomasta.
+
+    (Aufidius jo yksi hänen alapäälliköistään tulevat.)
+
+AUFIDIUS.
+Yhäkö ihailevat roomalaista?
+
+ALAPÄÄLLIKKÖ.
+En tiedä, mikä tenho häness' on;
+Mut ennen, jälkeen, kesken syöntiä
+Väkenne ruokalukuna hän on;
+Ja teitä omat miehet halventavat
+Sodassa tässä.
+
+AUFIDIUS.
+               Sit' en nyt voi auttaa,
+Jos keinollani rammaks hankkeitamme
+En tehdä tahdo. Minuakin kohtaan
+Hän röyhkemp' on, kuin ensi syleilyksest'
+Olisin varronnut; mut horjumaton
+Hän luonteeltaan on; anteeks suoda täytyy
+Mit' ei voi auttaa!
+
+ALAPÄÄLLIKKÖ.
+                    Teille itsellenne
+Parempi olis ollut kai, jos ette
+Jakanut olis valtaa hänen kanssaan,
+Vaan joko itse päällikkönä ollut,
+Tai hälle yksin koko johdon suonut.
+
+AUFIDIUS.
+Sun ymmärrän; mut ole varma että,
+Kun tilinpäivä tulee, hän ei arvaa,
+Mit' ilmi tuoda voin. Nyt näyttää siltä,
+Ja itse luulee hän, ja luulee rahvas,
+Ett' on hän kaikin puolin vilpitön.
+Ja volskilaisten hyväks kaikki toimii,
+Kuin lohikäärme tappelee, ja voittaa,
+Kun miekkansa vaan paljastaa; mut jotain
+On laiminlyönyt hän, mi hältä taittaa
+Tai multa niskan, tilillen kun tullaan.
+
+ALAPÄÄLLIKKÖ.
+Mut uskottenko, voittaako hän Rooman?
+
+AUFIDIUS.
+Hän joka paikan saartamatta voittaa;
+Käsissään häll' on Rooman aatelisto;
+Patriisit, senaattorit suosii häntä.
+Tribuunit sotureit' ei ole; kansa
+Takaisin hänet kutsuu yhtä hevin
+Kuin karkoitti se hänet. Rooma hälle
+On mitä sääkselle on kala: siihen
+Se luonnon vaistost' iskee. Aluss' oli
+Hän nöyrä palvelja, mut arvoaan hän
+Ei voinut kantaa. Kopeusko syynä,
+Jok' onnenmyyrän liika menestyksell'
+Useinkin pilaa; vaiko älyn puute
+Hyväkseen käyttää joka tilaisuutta.
+Mi tarjon' on; vai luontoko, ettei hän
+Muut' olla voi kuin yhtä eikä vaihtaa
+Kypärää patjahan, vaan rauhass' on
+Yht' ankara kuin sodassa ja tuima;
+Niin, näistä vioist' yksi (niitä hällä
+On vähän kaikkia, mut, myöntää täytyy,
+Ei kaikkia) sai hänet peljätyksi,
+Vihatuks sitten, sitten maanpakoon.
+Häll' ansiota on, mut liika kehu
+Sen tukeuttaa. Näin ajan selityksest'
+On ihmis-arvo riippuva; ja voimall',
+Itsessään kiitettävällä, niin varmaa
+Ei ole hautaa, kuin se puhe-istuin,
+Joit' ylistellähän sen mainetöitä.
+Tuli tulen karkoittaa ja naula naulan,
+Kyvyn voittaa kyky, paula murtaa paulan.
+Pois tulkaa! Cajus, Rooma kun on sun,
+Sin' olet mennyt mies, ja silloin mun.
+
+                            (Menevät.)
+
+
+
+
+VIIDES NÄYTÖS.
+
+
+Ensimmäinen kohtaus.
+
+    Rooma. Julkinen paikka.
+
+    (Menenius, Cominius, Sicinius, Brutus ja muita tulee.)
+
+MENENIUS.
+En mene: kuulitte sen miehen sanat,
+Jok' ennen oli hänen päällikkönsä
+Ja paljon häntä rakasti. Mua isäks
+Hän kutsui. Mitä siitä? Menkää te,
+Te hänet karkoititte; polvistukaa
+Jo virstain päässä hänen teltastansa,
+Ja esiin ryömikää. Cominiolle
+Hän oli tyly, minä siis jään kotiin.
+
+COMINIUS.
+Mua hän ei ollut tuntevinaan.
+
+MENENIUS.
+                              Nähkääs!
+
+COMINIUS.
+Nimeni mainitsi hän toki kerran;
+Vetosi vanhaan ystävyyteen, vereen
+Yhdessä vuodatettuun. Coriolanoa
+Ei suvainnut hän, kielsi nimet pois;
+Hän tyhjää oli muka, nimetön,
+Siks kunnes Rooman liekeiss' itselleen hän
+Takoisi nimen.
+
+MENENIUS.
+               Niin. Työn oivan teitte!
+Tribuunit hommanneet on halventaakseen
+Roomassa hiilten hintaa: kaunis muisto!
+
+COMINIUS.
+Kuvailin, kuinka suurt' on anteeks-anto,
+Kun vähimmin sit' odotetaan; kurja
+Se valtio on, vastas hän, jok' anoo
+Maanpakolaiseltansa moista.
+
+MENENIUS.
+Niin oikein. Voiko puhua hän toisin?
+
+COMINIUS.
+Muistutin häntä vanhoist' ystävistä;
+Hän vastas, ettei aikaa ole hällä
+Mädästä, tunkkaisesta ruumenjoukost'
+Erottaa heitä; hulluutt' on, hän sanoi,
+Jyväsen parin vuoksi polttamatta
+Se jättää ja sen tunkkaa yhä haistaa.
+
+MENENIUS.
+Jyväsen parin! Yks niist' olen minä;
+Niin, äiti, vaimo, laps ja tuo mies tuossa,
+Me jyvät olemme, ja mätä ruumen
+Olette te, jok' ylös kuuhun löyhkää.
+Ja meidän täytyy teidän tähden palaa.
+
+SICINIUS.
+Oi, tyyntykää! Jos tässä ahdingossa
+Apunne kiellättenki, älkää toki
+Ivatko tuskaamme. Jos tahtoisitte
+Puhua maanne hyväks, sanannepa
+Ne enemmän kuin kaikki sotajoukot
+Pidättäis maanmiestämme.
+
+MENENIUS.
+                         Min' en tahdo.
+
+SICINIUS.
+Ma pyydän, menkää.
+
+MENENIUS.
+                   Miksi menisin?
+
+BRUTUS.
+Koitelkaa, mitä rakkautenne Roomaan
+Hänessä voipi.
+
+MENENIUS.
+               Entä jos hän käskee
+Mun pois, niinkuin Cominion, kuulematta?
+Mit' arvelette siitä? -- Taasen lisää
+Yks tyytymätön ystävä, min mielen
+Hän tylyydellään tervaa. Aatelkaapas.
+
+SICINIUS.
+Mut hyvän tahtonne sen maksaa Rooma
+Sen mukaan, miten hyvää tarkoititte.
+
+MENENIUS.
+No, tahdon koittaa; kenties hän mua kuulee.
+Mut tuo, ett' yrmi kelpo Cominiolle
+Ja puri huultaan hän, se arveluttaa.
+Hän pahall' oli päällä, syömätönnä;
+Kun suonet tyhjät on, on veri kylmä;
+Nyreät aamull' olemme ja nurjat
+Niin antamaan kuin anteeks antamaan;
+Mut veren putket, sokkelot kun täynnä
+On ruokaa, viiniä, niin norjemp' on
+Kuin paaston aikaan mieli. Siis, ma varron
+Siks kun hän ruokatuulell' on, ja silloin
+Pyynnöllän' esiin karkaan.
+
+BRUTUS.
+                           Oikotien
+Te hänen hyvyyteensä tunnette
+Ja ette eksy.
+
+MENENIUS.
+              Hyvä; tahdon koittaa.
+No, käyköön miten käykin, kohtaloni
+Ma kohta näen.
+
+COMINIUS.
+               Hänt' ei hän kuule.
+
+SICINIUS.
+                                   Eikö?
+
+COMINIUS.
+Hän, näetten, kullass' istuu, silmä palaa.
+Kun tahtois Rooman polttaa se, ja kosto
+Se säälin kahlehtii. Ma polvistuin;
+Hän tuskin sanoi: »nouse»; pois mun, vaiti
+Kädellään viittas näin. Mit' aikoi tehdä,
+Mit' ei, hän siitä kirjeess' antoi tiedon,
+Ja valall' ehdot täyttämään mun vaati.
+Siis turhaa kaikk' on toivo; ainoa
+On hänen äitinsä ja puolisonsa:
+He, kuulen ma, hält' aikovat nyt maalleen
+Anoa armoa. Siis lähtekäämme
+Rukouksillamme jouduttamaan heitä.
+
+    (Menevät.)
+
+
+Toinen kohtaus.
+
+    Volskilaisten leiri Rooman edustalla.
+
+    (Vahtimiehiä vartioimassa. Menenius tulee.)
+
+1 VAHTIMIES.
+Seis! Mistä ollaan?
+
+2 VAHTIMIES.
+                    Seis, ja takaisin!
+
+MENENIUS.
+Kah, kelpo vahdit! Hyvä on. Mut kuulkaas,
+Min' olen virkamies; mull' asiaa on
+Coriolanolle.
+
+2 VAHTIMIES.
+              Ja mistä?
+
+MENENIUS.
+                        Roomasta.
+
+1 VAHTIMIES.
+Täst' ette pääse; takaisin vaan! Sieltä
+Ei päällikkömme tahdo mitään kuulla.
+
+2 VAHTIMIES.
+Roomanne ennen tulenliekit syö,
+Kuin Coriolanoa puhutella saatte.
+
+MENENIUS.
+Jos päällikkönne maininnut on Roomaa
+Ja ystäviään siellä, vannon ett' on
+Minunkin kuultu nimeni: Menenius.
+
+1 VAHTIMIES.
+Viis siitä! Tiehesi Täst' ei nimes arvo
+Sua päästä.
+
+MENENIUS.
+            Kuules, veikko: ystäväni
+On päällikkös; ma hänen urotöittens'
+Olen aikakirja, jossa hänen maineens'
+On suurennettuna ja verratonna.
+Ain' ystäviäni (hän niist' on suurin)
+Sen verran olen kehunut kuin totuus
+Livistymättä sietää, joskus ehkä,
+Kuin keilapallo liukkahalla maalla,
+Pois määräst' eksynyt ja valheen leiman
+Näin hänen kiitokseensa painanut.
+Siis, veikko, täytyy sinun päästää minut.
+
+1 VAHTIMIES.
+Totta tosiaan, vaikka olisitte yhtä monta valhetta kutonut hänen
+hyväkseen, kuin sanoja omaksi eduksenne, ette sittenkään pääsisi; ette,
+ette, vaikkapa olisi yhtä kunnollista valhetella kuin siivosti elää.
+Siis, takaisin!
+
+MENENIUS.
+Mutta muista, ystäväiseni, että nimeni on Menenius, ja että aina olen
+pitänyt päällikkösi puolta.
+
+2 VAHTIMIES.
+Vaikka olisittekin, niinkuin itse sanoitte, hänen valehtelijansa, niin
+minä häntä palvelen totuutta puhumalla, ja sanon teille että ette
+pääse. Siis, takaisin!
+
+MENENIUS.
+Onko hän jo päivällistä syönyt, tiedätkö sen? Sillä en tahtoisi
+puhutella häntä ennenkuin atrian jäljestä.
+
+1 VAHTIMIES.
+Oletteko roomalainen, sanokaa?
+
+MENENIUS.
+Olen, niinkuin päällikkösikin.
+
+1 VAHTIMIES.
+Siis tulisi teidän Roomaa vihata, niinkuin hänkin sitä vihaa.
+Saatatteko te, -- kun olette ajaneet porteistanne ulos niiden parhaan
+puolustajan ja tyhmän törkeällä hurjuudella antaneet kilpenne pois
+vihollisillenne, --  saatatteko luulla voivanne torjua hänen kostoansa
+tyhjällä akkain ulinalla, tytärtenne palvovilla neitsyen käsillä,
+taikka tuollaisen vanhan ränstyneen kirnin rampaisilla esirukouksilla,
+kuin te näytätte olevan? Luuletteko voivanne tuolla heikolla
+hengellänne puhaltaa sammuksiin valkean, joka kohta nielee koko
+kaupunkinne? Ei, te petytte; siis, takaisin Roomaan, odottamaan
+teloitustanne. Te olette viipymättä ja armotta tuomion omat; sen on
+päällikkömme vannonut.
+
+MENENIUS.
+Lurjus, jos esimiehesi tietäisi, että minä olen täällä, niin hän
+kohtelisi minua kunnioituksella.
+
+2 VAHTIMIES.
+Pois! Minun esimieheni ei teitä tunne.
+
+MENENIUS.
+Päällikköäsi tarkoitan.
+
+2 VAHTIMIES.
+Päällikköni ei teistä välitä. Takaisin, sanon! Matkaan! Muuten lasken
+teistä puolen tuoppia verta, -- takaisin! -- sen enempää sitä teissä
+tuskin on. Takaisin!
+
+MENENIUS.
+No, mutta, ystäväni, --
+
+    (Coriolanus ja Aufidius tulevat.)
+
+CORIOLANUS.
+Mik' ompi täällä?
+
+MENENIUS.
+Nyt, sinä lurjus, nyt minä sinulle näytän; nyt saat tuta, että minä
+olen arvossa pidetty mies, ja nähdä, ettei tuollaisella jöröjukalla ole
+lupaa ajaa minua pois poikani Coriolanon luota. Katsos nyt, miten hän
+minua kohtelee, ja sano, eikö sua piankin hirsipuu uhkaa tai joku muu
+kuolintapa, jota on vaikeampi kärsiä ja jota kauemmin kestää katsella;
+katsos nyt vaan, ja pyörry, kun ajattelet, mikä sinua odottaa. --
+Suuret jumalat neuvotelkoot joka hetki sinun menestyksestäsi ja
+rakastakoot sinua yhtä suuresti kuin vanha isäsi Menenius! Oi, minun
+poikani, minun poikani! Sinä paraikaa laittelet meille tulta; katsos,
+tässä on vettä sen sammuttamiseksi. Työllä ja vaivalla myönnyin
+luoksesi tulemaan, mutta kun vakuutukseni oli, ettei kukaan muu kuin
+minä voisi sinua lepyttää, niin sallin heidän huokauksillaan lietsoa
+minut ulos portista, ja pyytämällä pyydän nyt tässä sinua armahtamaan
+Roomaa ja rukoilevia kansalaisiasi. Hyvät jumalat asettakoot vihasi, ja
+viskatkoot sen ravan tuohon vintiöön, joka, niinkun pölkky, on minulta
+kieltänyt luoksesi pääsön.
+
+CORIOLANUS.
+Pois!
+
+MENENIUS.
+Kuin? Poisko?
+
+CORIOLANUS.
+Laps, äiti, vaimo, kaikk' on vieraat mulle;
+Ma toista palvelen. Vaikk' onkin kosto
+Mun omani, niin volskilaisten povess'
+On anteeks-anti. Kiittämätön unhe
+Tuon vanhan tuttavuuden ennen nielköön,
+Kuin sääli saa sen ilmaista. -- Siis, pois!
+Kovempi korvani on pyynnöillenne
+Kuin voimalleni porttinne. Mut merkiks,
+Ett' olit ystäväni, ota tuo.
+    (Antaa hänelle paperin.)
+Se sulle on; sen lähettää ma aioin.
+Nyt loppu keskustelun on, Menenius. --
+Tuo mies, Aufidius, Roomass' oli paras
+Mun ystäväni; mutta nyt sä näet --
+
+AUFIDIUS.
+Olette aina kaltaisenne.
+
+    (Coriolanus ja Aufidius menevät)
+
+1 VAHTIMIES.
+No, herra, onko nimenne Menenius?
+
+2 VAHTIMIES.
+Sen lumousvoima on suuri, niinkuin näette. Nyt kai löydätte tien
+kotiinne.
+
+1 VAHTIMIES.
+Kuulitteko, kuinka saimme toria siitä, että pidätimme teidän
+ylhäisyyttänne?
+
+2 VAHTIMIES.
+Onko minun nyt syytä pyörtyä, mitä luulette?
+
+MENENIUS.
+Minä en piittaa päälliköstänne enkä koko maailmasta. Semmoiset elukat
+kuin te, mitä teihin tulee, tiedänpä tuskin, oletteko olemassakaan,
+niin vähäpätöisiä te olette. Se, joka itse rohkenee ottaa hengen
+itsestään, ei pelkää muiden sitä hänestä ottavan. Tehköön päällikkönne
+mitä pahinta voi. Te taas, olkaa, mitä olette, kauan aikaa, ja
+kurjuutenne kasvakoon samassa suhteessa kuin ikänne. Minä sanon teille
+mitä te sanoitte minulle: pois!
+
+    (Menee.)
+
+1 VAHTIMIES.
+Jalo mies, sen takaan!
+
+2 VAHTIMIES.
+Paras on kuitenkin meidän päällikkömme; hän on kallio, tammi, joka ei
+tuulessa järky.
+
+    (Menevät.)
+
+
+Kolmas kohtaus.
+
+    Coriolanon teltta.
+
+    (Coriolanus, Aufidius ja muita tulee.)
+
+CORIOLANUS.
+Huomenna Rooman muurin edustalle
+Sijoitumme. Te, sotaveikko, tehkää
+Senaatillenne tiedoks, kuinka toimen'
+On ollut suora.
+
+AUFIDIUS.
+                Meidän parastamme
+Vaan tarkoititte; Rooman rukouksille
+Olitte kuuro; ette kuiskett' edes
+Pitänyt ystäväinne kanssa, jotka
+Niin varmat teistä olivat.
+
+CORIOLANUS.
+                           Tuo vanhus;
+Jonk' ajoin täältä miellä murtuneella,
+Mua enemmän kuin isä rakasti,
+Ja jumaloikin. Viime neuvo oli
+Lähettää hänet. Ystävyyden vuoksi
+(Vaikk' yrmyltä ma näytin) samat ehdot
+Ma tein, jotk' oli kerran hyljänneet he
+Ja joit' ei enää voineet vastaan ottaa;
+Mut mieliks hälle, joka toimestansa
+Niin suurta toivoi, hiukan vaan ma tingin.
+Vastaiset pyynnöt sekä rukoukset,
+Niin valtion kuin ystäväin, on turhat. --
+    (Melua ulkoa.)
+Haa! Mikä melu? Kiusaukseenko joudun
+Valani rikkomaan, jonk' äskein vannoin?
+En, sit' en tee!
+
+    (Virgilia, Volumnia, taluttaen kädestä nuorta Marciota,
+    Valeria ja seuralaisia tulee lisään, surupukuun puettuina.)
+
+                 Kah, vaimon' etupäässä,
+Ja sitten jalo muotti se, joss' ompi
+Tää ruumis muodostettu, talutellen
+Verensä lapsen lasta! Pois nyt, hellyys!
+Hajotkaa, luonnon lait ja siteet kaikki!
+Hyvettä olkoon tylyys nyt! -- Kah! Kelle
+Tuo kumarrus? Ja kyyhkyn katse tuo,
+Mi hurmata vois jumalat? -- Ma hellyn;
+En maata ole kovempaa kuin muutkaan. --
+Oi, äiti kumartaa, niinkuin Olympi
+Rukoillen painuis myyränmättään eteen;
+Ja poikani niin hellin silmin katsoo.
+Kuin huutais koko luonto: »älä kiellä!» --
+Mut, kyntäköhöt volskilaiset Rooman,
+Äestäkööt Italian; en koskaan,
+Elukan lailla, vaistoani seuraa.
+Vaan seison niinkuin oma luojan' oisin,
+Enk' alkuperää muuta tuntisi.
+
+VIRGILIA.
+Mun herrani ja puolisoni!
+
+CORIOLANUS.
+                          Samat
+Ei ole silmäni kuin Roomassa.
+
+VIRGILIA.
+Niin luulet vaan, kun surun näet meidät
+Näin muuttaneen.
+
+CORIOLANUS.
+                 Kuin huono näyttelijä
+Osani unhotin ja häkellyin,
+Ja hävetä nyt saan. -- Eloni aarre!
+Tää tylyys anteeks suo; mut älä pyydä
+Roomalle anteeks. -- Muisku, he, niin pitkä
+Kuin maanpakoni, suloinen kuin kostoni!
+Haa, kautta kateen Junon! Saman muiskun
+Sult', armas, kerran sain, ja huulen' ovat
+Sen säilyttäneet neitseen puhtaudella. --
+Jumalat! Tässä pakisen, ja äiti.
+Maan jaloin, vielä tervehtimätt' ompi!
+Sa maahan vaivu, polvi,
+    (Polvistuu.)
+                        siihen paina
+Syvempään kunnioitukses kuin muut
+Nuo arkilapset!
+
+VOLUMNIA.
+                Nouse siunattuna.
+Kun patjalle pii-kovalle sun etees
+Nyt minä polvistun ja kunnioitust'
+Osoitan uutta sekä näihin saakka
+Tavatont' äidin välillä ja lapsen.
+
+    (Polvistuu.)
+
+CORIOLANUS.
+Mitä tää? Mun edessäni polvillanne,
+Mun, hylkypojan? Tähtiin kimmahdelkoot
+Nälkäisen merenrannan piit ja sorat!
+Tuliseen aurinkohon vinhat tuulet
+Nakelkoot uljaat setripuut, näin tehden
+Luonnolliseksi luonnottomuudenkin,
+Ja kaiken mahdottoman lastenleikiks!
+
+VOLUMNIA.
+Mun olet sotilaani; multa sinä
+Tuon muotos sait. -- Tää nainen onko tuttu?
+
+CORIOLANUS.
+Jalo Publicolan sisar, Rooman kuutar,
+Saasteeton kuin jääpuikko, joka, lumest'
+Ani puhtahasta kiteyneenä, riippuu
+Dianan templissä. Valeria armas!
+
+VOLUMNIA.
+Ja tässä itsestäsi halpa ote,
+Jok' ajan vaurastuttamana saattaa
+Sun kaltaisekses tulla.
+
+CORIOLANUS.
+                        Sodan jumala,
+Luvalla suuren Zeun, sun sielus täyteen
+Jaloutta luokoon, ettei haavoittaa sua
+Häpeä voi, ja sodass' että seisot
+Kuin merirasti, myrskyj' uhotellen,
+Ja sinuun katsovaiset pelastat.
+
+VOLUMNIA.
+Polvilles, poika!
+
+CORIOLANUS.
+                  Uljas poikan' on se!
+
+VOLUMNIA.
+Niin, hän ja vaimos, nainen tuo ja minä
+Sua rukoilemme nyt.
+
+CORIOLANUS.
+                    Ma pyydän, älkää!
+Mut, jos sen teette, kuulkaa ensin tämä:
+Mit' olla vannoin myöntämättä, älkää
+Sit' ymmärtäkö kielloks. Vaiti siitä,
+Väkeni että päästäisin, ja Rooman
+Käs'työläisien kanssa sopisin;
+Vait siitä, luonnottomalt' että näytän;
+Vihaani, kostoani järjen jäillä
+Te ette lauhduttaa voi.
+
+VOLUMNIA.
+                        Vaiti, vaiti!
+Sa sanoit, ettet mitään meille myönnä;
+Ja muut' ei meillä pyyntöä kuin minkä
+Jo meiltä kielsit; kuitenkin ma pyydän,
+Niin että tylyyteesi moite sattuis.
+Jos sen sa kiellät; kuule siis.
+
+CORIOLANUS.
+                                Aufidius
+Ja volskilaiset, huomatkaatte: Roomast'
+En mitään kuule salaa. -- Pyyntönne?
+
+VOLUMNIA.
+Vaikk' oltais vaitikin, niin puku näyttäis
+Ja ruumiin asu, mit' on elämämme
+Maanpakos jälkeen ollut. Ajattele,
+Maan päällä vaimojako kurjempia?
+Sydämmen tulis riemust' ailahdella
+Ja silmän ilost' itkeä, kun näen sun;
+Mut nyt sen täyttää parku, tuska, kauhu,
+Kun äidin, vaimon, lapsen täytyy nähdä.
+Kuin poika, puoliso ja isä maansa
+Sisukset repii maalle. Meihin kurjiin
+Kipeimmin vihas koskee: jumaliinkin
+Keit' estät kääntymästä, joka muilla
+On lohtuna, pait meillä; sillä kuinka.
+Ah! kuinka voimme voittoa rukoilla
+Samassa maallemme ja sulle, -- jota
+Kumpaakin meidän tulis tehdä? Voi!
+Kadottaa meidän täytyy joko maamme,
+Imettäjämme kallis tuo, tai sinut,
+Maass' aino lohtumme. Me ilmi-tuhon
+Olemme omat, kelle tulkohonkin
+Rukoilemamme voitto; joko sua,
+Kuin vierast' ilkiötä, talutellaan
+Kahleissa Rooman kaduilla, tai astut
+Sa voittoriemuin maasi raunioilla,
+Kädessä palmu, siit' ett' uljahasti
+Sa vaimos veren vuodatit ja lapses.
+Ma, puolestan', en sodan loppupäätöst'
+Odottaa aio; jos en sua saa ma
+Kumpaakin puolta säästämään, vaan toisen
+Tuhota tahdot, niin et maahas syöstä
+Sa muuten voi, -- niin, usko pois, et muuten, --
+Kuin että survot oman äitis kohdun,
+Jok' ilmoillen sun kantoi.
+
+VIRGILIA.
+                           Niin, ja vaimos,
+Jok' antoi sulle tämän pojan, joka
+Nimesi jälkimaailmahan vie.
+
+POIKA.
+Mua survoa ei saa hän, pois ma juoksen;
+Mut suureks kun ma kasvan, tappelen ma.
+
+CORIOLANUS.
+Ken naisen hempeytt' arastaa, ei saa
+Se vaimon, lasten silmiin katsahtaa. --
+Ma istuin liian kauan.
+
+    (Nousee.)
+
+VOLUMNIA.
+                       Älä mene!
+Jos rukouksemme tarkoittaisi auttaa
+Vaan Roomaa, murtamalla volskilaiset,
+Nykyiset herras, voisit meitä syyttää
+Maineesi murhaajiks. Ei, sovintoa
+Pyydämme vaan, niin että volskilainen
+Sanoa vois: »Me annoimme tän armon»,
+Ja roomalainen: »Otimme sen vastaan»;
+Ja kumpikin he sulle huutais: »Terve!
+Siunattu sinä, rauhan tekijä!»
+Sa tiedät, poikan' ylväs: epävarma
+On sodan päätös; mutta varma, että
+Jos Rooman voitat, palkaks siitä korjaat
+Sa moisen nimen, jota mainitessa
+Kiroja kuuluu, ja jost' aikakirjat
+Näin kertovat: »Hän jalo oli mies,
+Mut maineensa hän tahras viime työllään,
+Hän maansa surmas, hänen nimens' inhaks
+On jälkimaailmalle.» Puhu, poika!
+Jalointa havittelit kunniaa,
+Jumalten armotöitä tahdoit tehdä,
+Halaista jyryll' ilman paksut posket,
+Mut leimaukseesi käyttää nuolta, joka
+Vaan tammen pirstaa. Miks et puhu? Sano,
+Sopiiko jalon miehen vihaa pitää
+Noin lakkaamatta? -- Tytär, puhu sinä!
+Hän itkustas ei huoli. -- Poika, puhu!
+Enemmän lapsen mieles ehkä voipi
+Kuin meidän järki-syymme. -- Kuka toinen
+Enemmän kiitost' äidilleen on velkaa?
+Täss' antaa kuitenkin mun jaaritella
+Kuin jalkapuussa. -- Ikänäs et ole
+Sa äiti-hyvääs hellinyt, kun hän,
+Kana parka tuo, joll' yksi vaan on poika,
+Sun sotaan kaakotti, ja sieltä kotiin,
+Kunniall' ahdattuna. Vääräks sano
+Mun pyyntöni, ja työnnä minut luotas;
+Mut, toisin ollen, sin' et ole rehti,
+Ja jumalat sua vitsovat, kun multa
+Pidätät kunnian, jot' äitin' olen
+Ma saapa. -- Pois hän kääntyy. Maahan, vaimot!
+Häväisköön häntä polvistumisemme!
+Nimestään enemmän hän ylpeilee,
+Kuin säälii pyyntöämme. Polvi maahan!
+Tää kerta vielä! -- Sitten kotiin Roomaan,
+Ja naapureimme kanssa kuolemaan! --
+Oo, katsos tänne! Laps tää, jok' ei taida
+Haluaan ilmaista, vaan polvistuupi
+Ja muiden mukaan kätens' ylös nostaa,
+Rukoustamme puoltaa voimakkaammin,
+Kuin sull' on voimaa kieltää. -- Lähtekäämme!
+Tuon miehen äiti ompi volskilainen,
+Coriolissa vaimons' on, ja lapsens'
+On sattumalta hänen näköisensä. --
+No, aja meidät pois! Min' olen vaiti,
+Siks kunnes ilmitulessa on Rooma,
+Mut silloin sanon sanan.
+
+CORIOLANUS (tarttuu Volumnian molempiin käsiin; hetken vaitiolo.)
+                         Äiti, äiti!
+Voi, mitä teit? Kas, avoinna on taivas,
+Jumalat alas katsovat nyt, naurain
+Tät' epäluonnollista näytelmää.
+Oi, äiti, äiti! Kauniin voitit voiton
+Sa Roomalle; mut poikasi, -- se usko,
+Oi, usko pois! -- sa vaarallisest' olet,
+Niin, ehkä kuoliaaksi lannistanut.
+Mut, olkoon niin! -- Aufidius, pontevasti
+En nyt voi sotaa käydä; kohtu-rauhan
+Voin toki tehdä. Sano, vähemmänkö
+Minuna oisit rukoust' äidin kuullut,
+Ja vähemmänkö myöntänyt, Aufidius?
+
+AUFIDIUS.
+Niin, minä hellyin.
+
+CORIOLANUS.
+                    Niinpä niin, sen vannon.
+Vähästä säälin pisaroit' ei heru
+Minunkaan silmistäni. Sanokaa,
+Millaisen tahdotte nyt rauhan? Minä
+En Roomaan mene; teitä seuraan, teille
+Nyt antaun kokonaan. -- Oi, äiti! Vaimo!
+
+AUFIDIUS (syrjään).
+Iloitsen, että kunnias ja säälis
+Erotit toisistaan: näin onneni
+Takaisin mulle hankit.
+
+    (Rouvat tekevät viittauksia Coriolanolle.)
+
+CORIOLANUS (Volumnialle, Virgilialle, y.m.)
+                       Heti kohta.
+Mut' yhdess' ensin juomme; sitten kotiin
+Todistus viekää, parempi kuin sanat,
+Ja kahdenpuolisesti vahvistettu.
+Sisähän nyt! Te, vaimot, muistoksenne
+Olette templin ansainneet: ei kaikki
+Italian ja sen liittolaisten miekat
+Olisi tätä rauhaa aikaan saaneet.
+
+    (Menevät.)
+
+
+Neljäs kohtaus.
+
+    Rooma. Julkinen paikka.
+
+    (Menenius ja Sicinius tulevat.)
+
+MENENIUS.
+Näettekö tuota Capitolin kolkkaa, tuota ulkonemaa tuolla?
+
+SICINIUS.
+Kuinka niin?
+
+MENENIUS.
+Yhtä mahdollista kuin teidän on sitä paikoiltaan siirtää
+pikkusormellanne, yhtä paljon on toivoa siitä, että Rooman rouvat,
+hänen äitinsä etupäässä, saavat hänet taipumaan. Mutta minä sanon,
+ettei siitä ole mitään toivoa. Kaulamme ovat tuomion omat ja odottavat
+vaan teloittajata.
+
+SICINIUS.
+Onko mahdollista, että ihmisen mielenlaatu saattaa muuttua niin vähässä
+ajassa?
+
+MENENIUS.
+Erotusta on koteron ja perhon välillä; kuitenkin on tuo perho kerran
+ollut koterona. Tuo Marcius on miehestä kasvanut lohikäärmeeksi:
+hänellä on siivet; hän on enemmän kuin matelias.
+
+SICINIUS.
+Hän rakasti hellästi äitiänsä.
+
+MENENIUS.
+Niin myöskin minua; ja nyt hän ei äitiänsä muistele enempää kuin
+yhdeksättä rekeä vetävä hevonen. Hänen muikea näkönsä tekee kypsät
+viinirypäleet happamiksi. Kävellessään hän liikkuu kuin muurinmurtaja,
+ja maa vapisee hänen astunnastaan. Hän on mies lävistämään katseellaan
+rautapaidan; hänen puheensa kajahtaa kuin hautakello; ja kun hän sanoo
+»hm», on niinkuin jyrisisi tykistö. Hän istuu komeudessaan kuin
+ilmi-elävä Aleksanteri. Mitä hän käskee, se silmänräpäyksessä
+täytetään. Ollaksensa jumala, ei häneltä muuta puutu kuin
+ijankaikkisuus ja taivas, missä hallita.
+
+SICINIUS.
+Niin ja sääli, jos oikein häntä kuvailette.
+
+MENENIUS.
+Kuvaan hänet sellaiseksi, kuin hän elämässään on. Saas nähdä, paljonko
+sääliä äiti saa hänestä irti; hänessä ei ole sääliä enempää kuin maitoa
+koirastiikerissä; sen kyllä kaupunki-parkamme saa tuta; ja tähän
+kaikkeen te olette syypäät.
+
+SICINIUS.
+Jumalat meitä armahtakoot?
+
+MENENIUS.
+Älkää luulkokaan, tällaisessa kohdassa eivät jumalat meitä armahda. Kun
+hänet karkoitimme, emme me pitäneet heistä lukua; ja nyt, kun hän
+palajaa niskamme taittamaan, eivät he pidä lukua meistä.
+
+    (Sanansaattaja tulee.)
+
+SANANSAATTAJA.
+Paetkaa, henkenne jos teille rakas.
+Aputribuuninne vallannut on kansa,
+Repivät häntä, vannoen nyt, että,
+Jos lohtua ei rouvat tuo, niin hänet
+Paloittavat he tuuma tuumalta.
+
+    (Toinen sanansaattaja tulee.)
+
+SICINIUS.
+Mit' uutta?
+
+SANANSAATTAJA.
+            Hyvää! Voittaneet on rouvat.
+Ja tiessään Marcius on ja volskilaiset.
+Iloisempaa ei päivää Roomall' ole
+Tarquinion karkoituksest' asti ollut.
+
+SICINIUS.
+Mies, onko varma tietos, aivan varma?
+
+SANANSAATTAJA.
+Niin varma, kuin ett' aurinko on tulta.
+Miss' olitte, kun sitä epäilette?
+Sulusta niin ei tulvavirta syökse,
+Kuin pelastuneet porteista. Haa! Kuulkaa!
+
+    (Rummut pärisevät, torvet ja hoboijat soivat, kaikki
+    yht'aikaa. Ilohuutoja kuuluu näyttämön takaa.)
+
+Pasuunat, torvet, psalttarit ja huilut
+Ja rummut, kilkat, kansan ilohuudot
+Aurinkoakin tanssittavat. Kuulkaas!
+
+    (Ilohuutoja kuuluu taas.)
+
+MENENIUS.
+Hyvä uutinen! Käyn rouvia nyt vastaan.
+Kaupungin täyden on Volumnia väärtti
+Senaattoreita, patriiseja, konsuleita,
+Ja tribuuneja teidän kaltaisia
+Maan, meren täyden. Hyvin rukoilitte
+Te tänään; tuhat moista päätä aamull'
+Ei riunaa maksanut. Mik' ilo! Kuulkaas!
+
+    (Ilohuutoja ja soittoa.)
+
+SICINIUS.
+Kostjumal' ensinkin sun uutisestas;
+Minulta lisäks kiitos!
+
+SANANSAATTAJA.
+                       Meillä kaikill'
+On suureen kiitoksehen suuri syy,
+
+SICINIUS.
+Lähellä ovatko he?
+
+SANANSAATTAJA.
+                   Portill' aivan.
+
+SICINIUS.
+Nyt heitä vastaan, joukoss' ilakoimaan!
+
+    (Rouvat tulevat, senaattorien, patriisien ja kansan
+    saattamina. He kulkevat näyttämön poikitse.)
+
+1 SENAATTORI.
+Pelastajamme, Rooman turva, terve!
+Kokohon ruodut! Kiitos jumalille!
+Ilovalkeitä nyt! Kukkasia tielle!
+Maanpako-huudon nielköön riemuhuuto!
+Palauttakaa Marcius, tervehtien
+Nyt hänen äitiään, ja huutakaa:
+Terveeksi, rouvat, terveeks!
+
+KAIKKI.
+Terveeks, terveeks!
+
+    (Rummut ja torvet soivat. Kaikk' lähtevät.)
+
+
+Viides kohtaus.
+
+    Antium. Julkinen paikka.
+
+    (Tullus Aufidius seuralaisineen tulee.)
+
+AUFIDIUS.
+Vie tieto senaattiin, ett' olen täällä;
+Tuo heille anna;
+    (Antaa paperin.)
+                 sen kun lukeneet on.
+Torille heitä kutsu; siellä minä
+Todistan, heidän sekä kansan kuullen,
+Sanani todeks. Hän se, josta kannan,
+On juuri tullut kaupunkiin ja aikoo
+Nyt kansan eteen astua ja koittaa
+Sanoilla puhdistaida. Menkää!
+    (Kolme tai neljä salaliittolaista tulee.)
+Terveeks!
+
+1 SALALIITTOLAINEN.
+          Kuin voitte, herramme?
+
+AUFIDIUS.
+                                 Kuin miesi, jolle
+On omat armolahjat myrkkyä
+Ja sääli surmaks.
+
+2 SALALIITTOLAINEN.
+                  Herra, sama tuuma
+Jos viel' on teillä, johon apuamme
+Te pyysitte, niin pelastamme teidät
+Täst' uhkavaarasta.
+
+AUFIDIUS.
+                    En tiedä minä;
+Noudattaa meidän täytyy kansan mieltä.
+
+3 SALALIITTOLAINEN.
+Niin kauan kuin on riitaa välillänne.
+Niin horjuu kansa, vaan jos toinen kaatuu.
+Niin toinen saapi perinnön.
+
+AUFIDIUS.
+                            Sen tiedän.
+Ja täysi syy on mulla hänet murtaa.
+Ma hänet nostin, kunniallani ma
+Takasin hänen uskollisuuttansa;
+Näin noussehena, taimiins' uusiin valoi
+Hän maireen vihmaa, viettel' ystäväni,
+Ja siksi voitti luontonsa, jok' aina
+Tylyksi, nurjaks, ynseäksi tiettiin.
+
+3 SALALIITTOLAINEN.
+Ja itsepäisyytensä, jolla tyhjäks
+Hän teki konsuliksi pääsönsä,
+Kun nöyryys puuttui --
+
+AUFIDIUS.
+                       Siitä aioin haastaa.
+Maanpakoon tuosta tuomittuna, tuli
+Hän liedellen' ja kurkkuns' oikoi mulle;
+Ma otin hänet vastaan, päällikkyydest'
+Osalliseksi tein, ja hänen mieltään
+Kaikessa noudin; tarkoituksihinsa
+Valita sai hän väestäni parhaat
+Ja tuoreimmat; häntä palvelin ma;
+Hänt' autoin saamaan mainetta; mut itse
+Sen kaiken vei hän, vahingostanipa
+Jo ylpeilikin; hänen palvelijaltaan
+Lopulta näytin, enkä vertaiselta;
+Ja armollaan mua palkitsi hän niinkuin
+Mitäkin palkkalaista.
+
+1 SALALIITTOLAINEN.
+                      Aivan niin;
+Sit' ihmetteli väkikin; ja vihdoin
+Kun Rooman voitti hän, ja kunniata
+Ja saalist' odotimme --
+
+AUFIDIUS.
+                        Niinpä niin;
+Siks häneen jänteheni pingoitankin.
+Parista naisen kyynelpisarasta.
+Jok' yhtä halpaa on kuin valhe, myi hän
+Sotamme suuren veret sekä vaivat.
+Hän kuolkoon siis! Ma uuteen eloon nousen,
+Kun kaatuu hän. Haa, kuulkaa!
+
+    (Torvensoittoa ja rummunpärrytystä. Kansan ilohuutoja.)
+
+1 SALALIITTOLAINEN.
+                              Huomaamatta,
+Kuin postintuoja, kotikaupunkiinne
+Te saavuitte, mut hän kun palajaa,
+Niin ilmaa melu vihloo.
+
+2 SALALIITTOLAINEN.
+                        Tyhmät narrit
+Nuo, joiden lapset hän on surmannut.
+Kuluttavat nyt hänen kunniakseen
+Katalat kurkkunsa.
+
+3 SALALIITTOLAINEN.
+                   Siis paras teille,
+Ett', ennenkuin hän esiintyy ja kansan
+Puheillaan voittaa, miekkaa saa hän maistaa;
+Me apun' ollaan. Kun hän maassa makaa.
+Niin voitte hälle ruumispuheen pitää
+Ja hänet mahtisyineen haudata.
+
+AUFIDIUS.
+Vait! -- Senaattorit!
+
+    (Senaattorit tulevat.)
+
+SENAATTORI.
+                      Tervetullut kotiin!
+
+AUFIDIUS.
+Sit' en ma ansainnut. Mut, hyvät herrat,
+Mun kirjeen' oletteko lukeneet te
+Ja tarkkaan.
+
+SENAATTORI.
+             Olemme.
+
+1 SENAATTORI.
+                     Ja haikeudella.
+Tät' edelliset rikoksensa vois hän
+Sovittaa helpolla; mut kun hän päättää.
+Miss' alkaa tulis, saavutetut edut
+Pois lahjoittaapi, omin rahoin meitä
+Hyvittää tahtovi, ja rauhaa hieroo,
+Vaikk' antautaan, -- sit' ei voi anteeks suoda.
+
+AUFIDIUS.
+Hän lähestyy: hänt' itseään nyt kuulkaa.
+
+    (Coriolanus tulee liehuvin lipuin ja helisevin soitoin.
+    Joukko kansalaisia seuraa häntä.)
+
+CORIOLANUS.
+Terve, herrat! Soturinanne ma palaan;
+En maani lemmest' ole saastuneempi
+Kuin lähteissäni; yhä noudatan ma
+Suurt' ylivaltaanne. Siis tietäkää,
+Ett' onnell' aloin sodan ja sen johdin
+Veristä tietä Rooman porttiin saakka.
+Kulunkejamme kolmannesta suuremp'
+On sotasaalihimme. Rauhan teimme
+Roomalle yhtä häpeällisen
+Kuin meidän kansallemme kunniakkaan;
+Ja tässä jätämme nyt patriisein
+Ja konsulien allekirjoittaman,
+Ja Rooman sinetillä vahvistetun
+Sovintokirjan.
+
+AUFIDIUS.
+               Hyvät herrat, älkää
+Sitä lukeko; vaan tuolle petturille
+Sanokaa, että valtaanne hän riettaast'
+On väärin käyttänyt.
+
+CORIOLANUS.
+                     Kuin? Petturi!
+
+AUFIDIUS.
+Niin, pettur' olet, Marcius.
+
+CORIOLANUS.
+                             Marcius!
+
+AUFIDIUS.
+Niin, Marcius, Cajus Marcius. Luuletko sa
+Mun suovan sulle Coriolanon nimen.
+Min Corioliss' itsellesi ryöstit? --
+Päämiehet te ja ylimykset, kuulkaa:
+Hän pettänyt on viekkaast' asianne,
+Ja teidän Rooman (teidän Rooman, sanon)
+Hän muutamasta suolavesi-tilkast'
+On äidilleen ja vaimollensa myynyt,
+Valansa rikkoen ja päätöksensä
+Kuin perstan silkin; neuvottelua
+Ei pitänyt, vaan imettäjinensä
+Ulisten vonkui voittomme hän hiiteen,
+Ett' asepojatkin ne punastuivat,
+Ja toisiins' urhomiehet katselivat
+Ja ihmettelivät.
+
+CORIOLANUS.
+                 Mars, kuulitko sa?
+
+AUFIDIUS.
+Vait jumalista, poika itkusuu?
+
+CORIOLANUS.
+                               Haa!
+
+AUFIDIUS.
+Parempikaan et ole.
+
+CORIOLANUS.
+Hävytön parjaaja! Mun sydämmeni
+On pakahtua kyllyyttään. Vai poika!
+Oo, sinä orja! -- Anteeks! Ensi kerran
+Mun haukkua on pakko. Hyvät herrat,
+Tuo koira valheesta on rangaistava;
+Hän hyvin tietää (iskuistani merkit
+Hän kanssaan hautaan vie), ett' itse valheens'
+Saa syödä hän.
+
+1 SENAATTORI.
+               Vait, kumpikin, ja kuulkaa.
+
+CORIOLANUS.
+Paloiksi minut lyökää! Nuoret, vanhat
+Punatkoot veressäni tikareitaan! --
+Vai poika! Luihu koira! Kronikkanne
+Jos totta puhuu, seisoo siinä näin:
+Kuin kotka kyyhkyslakassa, niin teitä
+Coriolissa minä säikyttelin.
+Ja ihan yksin. -- Poika!
+
+AUFIDIUS.
+                         Jalot herrat,
+Noin muistuttaako saa tuo kerskur' rietas
+Sokeall' onnellansa häpeäänne,
+Ja teidän kuultenne?
+
+SALALIITTOLAINEN.
+                     Hän siitä kuolkoon!
+
+KANSALAINEN.
+Paloiksi hänet repikää, ja heti! Hän tappoi
+minun poikani; -- minun tyttäreni; -- hän tappoi minun
+lankoni, Marcon; -- hän tappoi minun isäni. --
+
+2 SENAATTORI.
+Seis, seis! Ei mitään väkivaltaa! Hiljaa!
+Hän jalo mies on, hänen mainehensa
+Maanpiirin kiertää. Viime rikoksestaan
+Hän laissa vastatkoon. -- Aufidius, seis!
+Älä rauhaa häiri!
+
+CORIOLANUS.
+                  Oi, jos hänet saisin,
+Ja kuusi moista, vaikka koko heimon,
+Mun kelpo miekkan' eteen!
+
+AUFIDIUS.
+                          Rietas konna!
+
+SALALIITTOLAINEN.
+Surmatkaa, surmatkaa hän!
+
+    (Aufidius ja salaliittolaiset paljastavat miekkansa
+    ja surmaavat Coriolanon, joka kaatuu. Aufidius polkee
+    häntä jalallaan.)
+
+SENAATTORI.
+                          Seis, seis, seis!
+
+AUFIDIUS.
+Mua kuulkaa, hyvät herrat.
+
+1 SENAATTORI.
+                           Tullus, oi!
+
+2 SENAATTORI.
+Työn teit sä, jota itkevä on miehuus.
+
+3 SENAATTORI.
+Hänt' älä polje. -- Hiljaa kaikki olkaa.
+Ja miekat tuppeen!
+
+AUFIDIUS.
+                   Hyvät herrat,
+Kun tietää saatte (tässä kiihkon tilass'
+On mahdotonta se), kuink' oli teille
+Se miesi vaarallinen, iloitsette
+Te hänen surmastaan. Senaatin eteen
+Mua kutsukaa, niin rehelliseks työni
+Ma tahdon näyttää taikka rangaistusta
+Kovinta kärsiä.
+
+1 SENAATTORI.
+                Pois ruumis viekää,
+Ja surkaa häntä. Kunniata saakoon
+Hän suurempaa kuin kukaan, jota airut
+On hautaan saattanut!
+
+2 SENAATTORI.
+                      Aufidiota
+Tuon miehen kiivaus osaks puolustaa.
+Hyväksi kaikki kääntyy.
+
+AUFIDIUS.
+                        Viha jäähtyy;
+Mun suru valtaa. -- Nostamahan tulkaa,
+Päämiestä kolme, yhten' olen itse. --
+Lyö rumpua; se suruvirttä soikoon;
+Peitsenne laskekaa! -- Vaikk' on hän täällä
+Isättömäks ja leskeks monen tehnyt.
+Jok' yhä itkee hänen tekojaan.
+Hän muistopatsaan saakoon arvokkaan, --
+Avuksi tulkaa!
+
+    (Menevät, kantaen Coriolanon ruumista. Surumarssi soipi.)
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Coriolanus, by William Shakespeare
+
+*** END OF THIS PROJECT GUTENBERG EBOOK CORIOLANUS ***
+
+***** This file should be named 20188-8.txt or 20188-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/0/1/8/20188/
+
+Produced by Tapio Riikonen
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
