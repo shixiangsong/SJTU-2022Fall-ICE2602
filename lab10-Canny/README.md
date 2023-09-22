@@ -1,6 +1,8 @@
 # Assignment 10 for SJTU EE208
 > 521030910013 Shixiang Song
 
+> **attention:** there's a bug in the calculation of arctangent.
+
 This assignment contains four parts: the sorce code, the assignment report, and the ```REAMDME``` document, and the source images as well as the generated images.
 
 ## The source code
